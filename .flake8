@@ -1,0 +1,6 @@
+[flake8]
+# E203 is whitespace before ':'; we follow black's formatting here. See https://black.readthedocs.io/en/stable/faq.html#why-are-flake8-s-e203-and-w503-violated
+# E501 is line length
+# W503 is line breaks before binary operators, which has been reversed in PEP 8.
+ignore = E203,E501,W503
+exclude = .venv,.tox

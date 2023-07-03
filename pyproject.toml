@@ -1,0 +1,22 @@
+[project]
+name = "RF_to_CKAN"
+version = "0.0.1"
+dependencies = [
+    "requests",
+    "PyYAML",
+]
+
+[tool.black]
+line-length = 120
+target-version = ['py38']
+
+[tool.darker]
+isort = true
+
+[tool.ruff]
+select = ["E", "F", "B", "UP"]
+target-version = "py38"
+# Exceptions:
+# B9 flake8-bugbear opinionated warnings
+# E501 is line length (delegated to black)
+ignore = ["B9", "E501"]
