@@ -15,8 +15,28 @@ import requests
 import yaml
 from requests import Session
 
+BASE_CR_URL = "https://api.crossref.org"
+BASE_RF_URL = "https://api.researchfish.com/restapi"
+
+
+def RF_login(username: str, password: str) -> Session:
+    """
+    Login to ResearchFish API and return a session storing the auth cookie.
+    """
+    s = Session()
+    data = {
+        "username": username,
+        "password": password,
+    }
+    r = s.post(f"{BASE_RF_URL}/user/login", data=data)
+    r.raise_for_status()
+    return s
+
 
 def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None) -> List[Dict]:
+    """
+    Get paginated items from ResearchFish API.
+    """
     next = 0
     if params is None:
         params = {}
@@ -31,6 +51,17 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None) -> Lis
         ret.extend(r_dict["results"])
         next = r_dict.get("next")
     return ret
+
+
+def CR_get_pub_metadata(doi: str) -> Dict[str, Any]:
+    """
+    Get metadata for a publication from CrossRef API.
+    """
+    r = requests.get(f"{BASE_CR_URL}/works/{doi}")
+    r.raise_for_status()
+    r_dict = r.json()
+    assert r_dict["status"] == "ok"
+    return r_dict["message"]
 
 
 def main() -> None:
@@ -62,21 +93,12 @@ def main() -> None:
     if "RF_PASSWORD" in os.environ:
         config["rf_password"] = os.environ["RF_PASSWORD"]
 
-    base_RF_url = "https://api.researchfish.com/restapi"
-
-    # Login
-    # Use a session to store the auth cookie
-    s = Session()  # use a session
-    data = {
-        "username": config["rf_username"],
-        "password": config["rf_password"],
-    }
-    r = s.post(f"{base_RF_url}/user/login", data=data)
-    r.raise_for_status()
-    log.debug("Successfully logged in")
+    # Login to ResearchFish API
+    s = RF_login(config["rf_username"], config["rf_password"])
+    log.debug("Successfully logged in to ResearchFish API")
 
     # Get awards
-    # awards = RF_get_paginated(s, f"{base_RF_url}/award")
+    # awards = RF_get_paginated(s, f"{BASE_RF_URL}/award")
     # with open("/tmp/awards.txt", "w") as f:
     #     for award in awards:
     #         print(award["fa_name"], file=f)
@@ -85,7 +107,7 @@ def main() -> None:
     params = {
         "section": "publications",
     }
-    publications = RF_get_paginated(s, f"{base_RF_url}/outcome", params=params)
+    publications = RF_get_paginated(s, f"{BASE_RF_URL}/outcome", params=params)
     log.info(f"Total publications: {len(publications)}")
     pubs_without_doi = [p for p in publications if p["r1_2_19"] is None]
     log.info(f"Publications without a DOI: {len(pubs_without_doi)}")
@@ -101,14 +123,8 @@ def main() -> None:
     log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
 
     # Process publications with a DOI
-    base_CR_url = "https://api.crossref.org"
     for doi, pub in pubs_with_doi.items():
-        # Get publication metadata from CrossRef
-        r = requests.get(f"{base_CR_url}/works/{doi}")
-        r.raise_for_status()
-        r_dict = r.json()
-        assert r_dict["status"] == "ok"
-        pub_metadata = r_dict["message"]
+        pub_metadata = CR_get_pub_metadata(doi)
         # Join title parts while removing leading, trailing and multiple whitespaces
         title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
         pub["title"] = title
