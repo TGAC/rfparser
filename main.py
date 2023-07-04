@@ -11,6 +11,7 @@ from typing import (
     List,
     Optional,
 )
+from xml.etree import ElementTree
 
 import requests
 import yaml
@@ -68,11 +69,29 @@ def CR_get_pub_metadata(doi: str) -> Dict[str, Any]:
     return r_dict["message"]
 
 
+def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> None:
+    """
+    Write the publications to an XML file for the EI website.
+    """
+    root_el = ElementTree.Element("publications")
+    for doi, pub in pubs_with_doi.items():
+        if pub["metadata_ok"]:
+            publication_el = ElementTree.SubElement(root_el, "publication")
+            doi_el = ElementTree.SubElement(publication_el, "DOI")
+            doi_el.text = doi
+            title_el = ElementTree.SubElement(publication_el, "Title")
+            title_el.text = pub["title"]
+    xml_tree = ElementTree.ElementTree(root_el)
+    ElementTree.indent(xml_tree, space="\t")
+    xml_tree.write(outfile, encoding="utf-8", xml_declaration=True)
+
+
 def main() -> None:
     # Parse command-line options
     parser = argparse.ArgumentParser()
     parser.add_argument("-c", "--config", default="config.yaml", help="configuration file path")
     parser.add_argument("-v", "--verbose", action="store_true", help="set log level to DEBUG")
+    parser.add_argument("-x", "--xml", help="XML output path. If not set, no XML file will be produced")
     args = parser.parse_args()
 
     if args.verbose:
@@ -138,6 +157,9 @@ def main() -> None:
             pub["metadata_ok"] = True
         except Exception as e:
             log.error("Skipping publication '%s': %s", doi, e)
+
+    if args.xml:
+        write_xml_output(pubs_with_doi, args.xml)
 
 
 if __name__ == "__main__":
