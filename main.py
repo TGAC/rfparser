@@ -15,6 +15,8 @@ import requests
 import yaml
 from requests import Session
 
+from util import strip_tags
+
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 
@@ -124,10 +126,16 @@ def main() -> None:
 
     # Process publications with a DOI
     for doi, pub in pubs_with_doi.items():
-        pub_metadata = CR_get_pub_metadata(doi)
-        # Join title parts while removing leading, trailing and multiple whitespaces
-        title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
-        pub["title"] = title
+        pub["metadata_ok"] = False
+        try:
+            pub_metadata = CR_get_pub_metadata(doi)
+            # Join title parts while removing leading, trailing and multiple whitespaces
+            title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
+            title = strip_tags(title)
+            pub["title"] = title
+            pub["metadata_ok"] = True
+        except Exception as e:
+            log.error("Skipping publication '%s': %s", doi, e)
 
 
 if __name__ == "__main__":
