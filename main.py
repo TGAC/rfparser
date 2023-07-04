@@ -4,6 +4,7 @@ import argparse
 import itertools
 import logging
 import os
+import sys
 from typing import (
     Any,
     Dict,
@@ -35,17 +36,18 @@ def RF_login(username: str, password: str) -> Session:
     return s
 
 
-def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None) -> List[Dict]:
+def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pages: int = sys.maxsize) -> List[Dict]:
     """
     Get paginated items from ResearchFish API.
     """
-    next = 0
     if params is None:
         params = {}
     else:
         params = params.copy()
+    assert max_pages > 0
+    next = 0
     ret: List[Dict] = []
-    while next is not None:
+    while next is not None and next < max_pages:
         params["start"] = next
         r = s.get(url, params=params)
         r.raise_for_status()
