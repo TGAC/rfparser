@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 
 import argparse
+import itertools
 import logging
 import os
 from typing import (
+    Any,
     Dict,
     List,
     Optional,
 )
 
+import requests
 import yaml
 from requests import Session
 
@@ -83,14 +86,32 @@ def main() -> None:
         "section": "publications",
     }
     publications = RF_get_paginated(s, f"{base_RF_url}/outcome", params=params)
-    dois = [
-        p["r1_2_19"] for p in publications if p["r1_2_19"] is not None
-    ]  # TODO: this can be None for some publications
-    n_pubs = len(publications)
-    unique_dois = set(dois)
-    print(f"Total publications: {n_pubs}")
-    print(f"Publications with no doi: {n_pubs - len(dois)}")
-    print(f"Unique publication dois: {len(unique_dois)}")
+    log.info(f"Total publications: {len(publications)}")
+    pubs_without_doi = [p for p in publications if p["r1_2_19"] is None]
+    log.info(f"Publications without a DOI: {len(pubs_without_doi)}")
+
+    # Create dictionary of publications indexed by DOI
+    pubs_with_doi: Dict[str, Dict[str, Any]] = {}
+    for p in publications:
+        doi = p["r1_2_19"]
+        if doi is not None:
+            pubs_with_doi.setdefault(doi, {})
+            pubs_with_doi[doi].setdefault("rf_entries", [])
+            pubs_with_doi[doi]["rf_entries"].append(p)
+    log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
+
+    # Process publications with a DOI
+    base_CR_url = "https://api.crossref.org"
+    for doi, pub in pubs_with_doi.items():
+        # Get publication metadata from CrossRef
+        r = requests.get(f"{base_CR_url}/works/{doi}")
+        r.raise_for_status()
+        r_dict = r.json()
+        assert r_dict["status"] == "ok"
+        pub_metadata = r_dict["message"]
+        # Join title parts while removing leading, trailing and multiple whitespaces
+        title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
+        pub["title"] = title
 
 
 if __name__ == "__main__":
