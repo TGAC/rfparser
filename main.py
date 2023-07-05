@@ -28,6 +28,17 @@ except ImportError:
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 
+CR_TYPE_TO_XML_CATEGORY_ID = {
+    "book-chapter": "2",
+    "journal-article": "1",
+    "posted-content": "124",  # we may need to also check that CR subtype is "preprint"
+}
+XML_CATEGORY_ID_TO_CATEGORY = {
+    "1": "Journal Article",
+    "2": "Book chapter",
+    "124": "PrePrint",
+}
+
 
 def RF_login(username: str, password: str) -> Session:
     """
@@ -83,10 +94,12 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
     for doi, pub in pubs_with_doi.items():
         if pub["metadata_ok"]:
             publication_el = ElementTree.SubElement(root_el, "publication")
-            doi_el = ElementTree.SubElement(publication_el, "DOI")
-            doi_el.text = doi
-            title_el = ElementTree.SubElement(publication_el, "Title")
-            title_el.text = pub["title"]
+            ElementTree.SubElement(publication_el, "Organisation").text = "EI"
+            category_id = CR_TYPE_TO_XML_CATEGORY_ID[pub["type"]]
+            ElementTree.SubElement(publication_el, "Category").text = XML_CATEGORY_ID_TO_CATEGORY[category_id]
+            ElementTree.SubElement(publication_el, "CategoryID").text = category_id
+            ElementTree.SubElement(publication_el, "DOI").text = doi
+            ElementTree.SubElement(publication_el, "Title").text = pub["title"]
     xml_tree = ElementTree.ElementTree(root_el)
     indent(xml_tree, space="\t")
     xml_tree.write(outfile, encoding="utf-8", xml_declaration=True)
@@ -160,6 +173,7 @@ def main() -> None:
             title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
             title = strip_tags(title)
             pub["title"] = title
+            pub["type"] = pub_metadata["type"]
             pub["metadata_ok"] = True
         except Exception as e:
             log.error("Skipping publication '%s': %s", doi, e)
