@@ -79,6 +79,8 @@ def CR_get_pub_metadata(doi: str) -> Dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
+    # CrossRef doesn't support HTTP persistent connections, so use a new
+    # connection every time instead of a Session.
     r = requests.get(f"{BASE_CR_URL}/works/{doi}")
     r.raise_for_status()
     r_dict = r.json()
@@ -109,6 +111,13 @@ def main() -> None:
     # Parse command-line options
     parser = argparse.ArgumentParser()
     parser.add_argument("-c", "--config", default="config.yaml", help="configuration file path")
+    parser.add_argument(
+        "-p",
+        "--pages",
+        default=sys.maxsize,
+        type=int,
+        help="maximum number of pages of ResearchFish publications to get",
+    )
     parser.add_argument("-v", "--verbose", action="store_true", help="set log level to DEBUG")
     parser.add_argument("-x", "--xml", help="XML output path. If not set, no XML file will be produced")
     args = parser.parse_args()
@@ -120,6 +129,8 @@ def main() -> None:
     logging.basicConfig(level=log_level)
 
     log = logging.getLogger(__name__)
+
+    assert args.pages > 0
 
     # Read config file
     try:
@@ -149,7 +160,7 @@ def main() -> None:
     params = {
         "section": "publications",
     }
-    publications = RF_get_paginated(s, f"{BASE_RF_URL}/outcome", params=params)
+    publications = RF_get_paginated(s, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
     log.info(f"Total publications: {len(publications)}")
     pubs_without_doi = [p for p in publications if p["r1_2_19"] is None]
     log.info(f"Publications without a DOI: {len(pubs_without_doi)}")
