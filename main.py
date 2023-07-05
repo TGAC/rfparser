@@ -19,6 +19,12 @@ from requests import Session
 
 from util import strip_tags
 
+try:
+    from xml.etree.ElementTree import indent  # type: ignore[attr-defined]
+except ImportError:
+    # Python < 3.9
+    from ElementTree39 import indent
+
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 
@@ -82,7 +88,7 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
             title_el = ElementTree.SubElement(publication_el, "Title")
             title_el.text = pub["title"]
     xml_tree = ElementTree.ElementTree(root_el)
-    ElementTree.indent(xml_tree, space="\t")
+    indent(xml_tree, space="\t")
     xml_tree.write(outfile, encoding="utf-8", xml_declaration=True)
 
 
