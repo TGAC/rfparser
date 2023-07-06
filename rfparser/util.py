@@ -1,5 +1,9 @@
 from html.parser import HTMLParser
 from io import StringIO
+from typing import (
+    Any,
+    Optional,
+)
 
 
 class MLStripper(HTMLParser):
@@ -23,3 +27,10 @@ def strip_tags(html: str) -> str:
     s = MLStripper()
     s.feed(html)
     return s.get_data()
+
+
+def str_if_not_None(s: Any) -> Optional[str]:
+    """
+    Cast a variable to str if it's not None.
+    """
+    return str(s) if s is not None else None

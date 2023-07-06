@@ -17,7 +17,10 @@ import requests
 import yaml
 from requests import Session
 
-from .util import strip_tags
+from .util import (
+    str_if_not_None,
+    strip_tags,
+)
 
 try:
     from xml.etree.ElementTree import indent  # type: ignore[attr-defined]
@@ -107,8 +110,8 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
             category_id = CR_TYPE_TO_XML_CATEGORY_ID[pub["type"]]
             ElementTree.SubElement(publication_el, "Category").text = XML_CATEGORY_ID_TO_CATEGORY[category_id]
             ElementTree.SubElement(publication_el, "CategoryID").text = category_id
-            ElementTree.SubElement(publication_el, "DOI").text = doi
             ElementTree.SubElement(publication_el, "Title").text = pub["title"]
+            ElementTree.SubElement(publication_el, "DOI").text = doi
             if category_id in {"1", "124"}:
                 # a journal article or preprint
                 ElementTree.SubElement(publication_el, "JournalName").text = pub["container-title"]
@@ -117,6 +120,11 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                 ElementTree.SubElement(publication_el, "BookTitle").text = pub["container-title"]
                 if "series-title" in pub:
                     ElementTree.SubElement(publication_el, "SeriesTitle").text = pub["series-title"]
+            ElementTree.SubElement(publication_el, "JournalVolume").text = pub["volume"]
+            ElementTree.SubElement(publication_el, "JournalPages").text = pub["pages"]
+            ElementTree.SubElement(publication_el, "Year").text = str_if_not_None(pub["year"])
+            ElementTree.SubElement(publication_el, "Month").text = str_if_not_None(pub["month"])
+            ElementTree.SubElement(publication_el, "Day").text = str_if_not_None(pub["day"])
     xml_tree = ElementTree.ElementTree(root_el)
     indent(xml_tree, space="\t")
     xml_tree.write(outfile, encoding="utf-8", xml_declaration=True)
@@ -204,48 +212,60 @@ def main() -> None:
             if pub_type == "posted-content":
                 assert (
                     pub_metadata["subtype"] == "preprint"
-                ), f"DOI {doi} is of type '{pub_type}' with unknown subtype '{pub_metadata['pub_subtype']}'"
+                ), f"publication is of type '{pub_type}' with unknown subtype '{pub_metadata['pub_subtype']}'"
                 pub_type = pub_metadata["subtype"]
             pub["type"] = pub_type
-            assert pub_type in CR_TYPE_TO_XML_CATEGORY_ID, f"DOI {doi} has unknown publication type {pub_type}"
+            assert pub_type in CR_TYPE_TO_XML_CATEGORY_ID, f"unknown publication type {pub_type}"
 
             container_title_list = pub_metadata["container-title"]
             if len(container_title_list) == 0:
-                assert pub_type == "preprint", f"DOI {doi} of type {pub_type} has unexpected empty container-title"
+                assert pub_type == "preprint", f"publication of type {pub_type} cannot have empty container-title"
                 institution = pub_metadata.get("institution")
                 if institution:
                     assert (
                         len(pub_metadata["institution"]) == 1
-                    ), f"DOI {doi} of type {pub_type} has institution with multiple or no elements: {pub_metadata['institution']}"
+                    ), f"institution with multiple or no elements: {pub_metadata['institution']}"
                     container_title = pub_metadata["institution"][0]["name"]
                 elif "Research Square" in pub_metadata["publisher"]:
                     container_title = "Research Square"
                 elif "PeerJ" in pub_metadata["publisher"]:
                     container_title = pub_metadata["group-title"]
                 else:
-                    raise Exception(f"DOI {doi} of type {pub_type} has unknown journal")
+                    raise Exception("cannot determine preprint journal")
             elif len(container_title_list) == 1:
                 container_title = container_title_list[0]
             else:
                 assert (
                     pub_type == "book-chapter"
-                ), f"DOI {doi} of type {pub_type} has container-title with multiple elements: {container_title_list}"
+                ), f"publication of type {pub_type} cannot have container-title with multiple elements: {container_title_list}"
                 assert (
                     len(container_title_list) == 2
-                ), f"DOI {doi} of type {pub_type} has container-title with more than 2 elements: {container_title_list}"
+                ), f"publication of type {pub_type} cannot have container-title with more than 2 elements: {container_title_list}"
                 # the book title and book series are not in a fixed order
                 if container_title_list[0] in KNOWN_BOOK_SERIES:
                     container_title, pub["series-title"] = reversed(container_title_list)
                 else:
                     if container_title_list[1] not in KNOWN_BOOK_SERIES:
                         log.warning(
-                            "DOI %s of type %s has container-title with unknown book series: %s",
+                            "container-title with unknown book series: %s",
                             doi,
                             pub_type,
                             container_title_list,
                         )
                     container_title, pub["series-title"] = container_title_list
             pub["container-title"] = container_title
+
+            pub["volume"] = pub_metadata.get("volume")
+            pub["pages"] = pub_metadata.get("page")
+
+            # The "issued" field contains the earliest known publication date
+            # (see https://github.com/CrossRef/rest-api-doc#sorting )
+            issued_date = pub_metadata["issued"]["date-parts"][0]
+            # issued_date may not contain the day, i.e. be a list of length 2
+            issued_year, issued_month, issued_day = issued_date + [None] * (3 - len(issued_date))
+            pub["year"] = issued_year
+            pub["month"] = issued_month
+            pub["day"] = issued_day
 
             pub["metadata_ok"] = True
         except Exception as e:
