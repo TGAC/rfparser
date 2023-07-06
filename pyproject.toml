@@ -1,10 +1,13 @@
 [project]
-name = "RF_to_CKAN"
+name = "rfparser"
 version = "0.0.1"
 dependencies = [
     "requests",
     "PyYAML",
 ]
+
+[project.scripts]
+rfparser = "rfparser:main"
 
 [tool.black]
 line-length = 120

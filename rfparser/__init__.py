@@ -17,13 +17,13 @@ import requests
 import yaml
 from requests import Session
 
-from util import strip_tags
+from .util import strip_tags
 
 try:
     from xml.etree.ElementTree import indent  # type: ignore[attr-defined]
 except ImportError:
     # Python < 3.9
-    from ElementTree39 import indent
+    from .ElementTree39 import indent
 
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"

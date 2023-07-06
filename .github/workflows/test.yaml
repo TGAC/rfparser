@@ -1,0 +1,39 @@
+name: Test
+on:
+  push:
+    paths:
+      - '**.py'
+      - .github/workflows/test.yaml
+      - pyproject.toml
+  pull_request:
+    paths:
+      - '**.py'
+      - .github/workflows/test.yaml
+      - pyproject.toml
+concurrency:
+  group: test-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.8', '3.11']
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install project
+        run: pip install .
+      - name: Test
+        run: rfparser -v --pages 1 --xml pubs_for_website.xml
+        env:
+          RF_USERNAME: ${{ secrets.RF_USERNAME }}
+          RF_PASSWORD: ${{ secrets.RF_PASSWORD }}
+      - uses: actions/upload-artifact@v3
+        with:
+          name: Pubs for website (${{ matrix.python-version }})
+          path: pubs_for_website.xml

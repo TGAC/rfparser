@@ -1,2 +1,3 @@
-# RF_to_CKAN
-Parse ResearchFish publications to update CKAN
+# rfparser
+Parse publications from ResearchFish API and produces the files needed to update
+Earlham Institute's website and CKAN.
