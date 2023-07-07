@@ -1,4 +1,8 @@
-from xml.etree.ElementTree import ElementTree
+from typing import Union
+from xml.etree.ElementTree import (
+    Element,
+    ElementTree,
+)
 
 # ---------------------------------------------------------------------
 # Licensed to PSF under a Contributor Agreement.
@@ -38,7 +42,7 @@ from xml.etree.ElementTree import ElementTree
 # --------------------------------------------------------------------
 
 
-def indent(tree, space="  ", level=0):
+def indent(tree: Union[Element, ElementTree], space: str = "  ", level: int = 0) -> None:
     """Indent an XML document by inserting newlines and indentation space
     after elements.
 
@@ -63,7 +67,7 @@ def indent(tree, space="  ", level=0):
     # Reduce the memory consumption by reusing indentation strings.
     indentations = ["\n" + level * space]
 
-    def _indent_children(elem, level):
+    def _indent_children(elem: Element, level: int) -> None:
         # Start a new indentation level for the first child.
         child_level = level + 1
         try:
@@ -82,6 +86,7 @@ def indent(tree, space="  ", level=0):
                 child.tail = child_indentation
 
         # Dedent after the last child by overwriting the previous indentation.
+        assert child.tail is not None
         if not child.tail.strip():
             child.tail = indentations[level]
 

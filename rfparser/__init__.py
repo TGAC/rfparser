@@ -22,10 +22,9 @@ from .util import (
     strip_tags,
 )
 
-try:
-    from xml.etree.ElementTree import indent  # type: ignore[attr-defined]
-except ImportError:
-    # Python < 3.9
+if sys.version_info >= (3, 9):
+    from xml.etree.ElementTree import indent
+else:
     from .ElementTree39 import indent
 
 BASE_CR_URL = "https://api.crossref.org"
