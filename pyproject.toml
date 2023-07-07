@@ -1,9 +1,30 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
 [project]
-name = "rfparser"
-version = "0.0.1"
+authors = [
+    {name = "Nicola Soranzo", email = "nicola.soranzo@earlham.ac.uk"},
+]
 dependencies = [
     "requests",
     "PyYAML",
+]
+description = "Parse publications from ResearchFish API and produces the files needed to update Earlham Institute's website and CKAN."
+dynamic = ["version"]
+name = "rfparser"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Typing :: Typed",
 ]
 
 [project.scripts]
@@ -23,3 +44,6 @@ target-version = "py38"
 # B9 flake8-bugbear opinionated warnings
 # E501 is line length (delegated to black)
 ignore = ["B9", "E501"]
+
+[tool.setuptools.dynamic]
+version = {attr = "rfparser.__version__"}

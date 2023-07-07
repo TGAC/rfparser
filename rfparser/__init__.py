@@ -27,6 +27,8 @@ if sys.version_info >= (3, 9):
 else:
     from .ElementTree39 import indent
 
+__version__ = "0.0.1"
+
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 
