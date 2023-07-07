@@ -31,6 +31,7 @@ __version__ = "0.0.1"
 
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
+BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
 
 KNOWN_BOOK_SERIES = {
     "Advances in Experimental Medicine and Biology",
@@ -48,6 +49,14 @@ XML_CATEGORY_ID_TO_CATEGORY = {
     "1": "Journal Article",
     "2": "Book chapter",
     "124": "PrePrint",
+}
+# https://support.unpaywall.org/support/solutions/articles/44001777288-what-do-the-types-of-oa-status-green-gold-hybrid-and-bronze-mean-
+UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS = {
+    "bronze": "Bronze Open Access",
+    "closed": "No Open Access",
+    "gold": "Gold Open Access",
+    "green": "Green Open Access",
+    "hybrid": "Gold Open Access",
 }
 
 
@@ -99,6 +108,16 @@ def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> D
     return r_dict["message"]
 
 
+def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
+    """
+    Get the Open Access status of a publication using the Unpaywall API
+    """
+    r = s.get(f"{BASE_UNPAYWALL_URL}/v2/{doi}?email={email}")
+    r.raise_for_status()
+    r_dict = r.json()
+    return r_dict["oa_status"]
+
+
 def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> None:
     """
     Write the publications to an XML file for the EI website.
@@ -126,6 +145,9 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
             ElementTree.SubElement(publication_el, "Year").text = str_if_not_None(pub["year"])
             ElementTree.SubElement(publication_el, "Month").text = str_if_not_None(pub["month"])
             ElementTree.SubElement(publication_el, "Day").text = str_if_not_None(pub["day"])
+            ElementTree.SubElement(publication_el, "OpenAccess").text = UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS[
+                pub["oa_status"]
+            ]
     xml_tree = ElementTree.ElementTree(root_el)
     indent(xml_tree, space="\t")
     xml_tree.write(outfile, encoding="utf-8", xml_declaration=True)
@@ -177,11 +199,11 @@ def main() -> None:
     assert config["email"], "Email not configured"
 
     # Login to ResearchFish API
-    s = RF_login(config["rf_username"], config["rf_password"])
+    rf_session = RF_login(config["rf_username"], config["rf_password"])
     log.debug("Successfully logged in to ResearchFish API")
 
     # Get awards
-    # awards = RF_get_paginated(s, f"{BASE_RF_URL}/award")
+    # awards = RF_get_paginated(rf_session, f"{BASE_RF_URL}/award")
     # with open("/tmp/awards.txt", "w") as f:
     #     for award in awards:
     #         print(award["fa_name"], file=f)
@@ -190,7 +212,7 @@ def main() -> None:
     params = {
         "section": "publications",
     }
-    publications = RF_get_paginated(s, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
+    publications = RF_get_paginated(rf_session, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
     log.info(f"Total publications: {len(publications)}")
     pubs_without_doi = [p for p in publications if p["r1_2_19"] is None]
     log.info(f"Publications without a DOI: {len(pubs_without_doi)}")
@@ -209,6 +231,7 @@ def main() -> None:
     cr_headers = {
         "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{config['email']})",
     }
+    unpaywall_session = Session()
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
         try:
@@ -276,6 +299,8 @@ def main() -> None:
             pub["year"] = issued_year
             pub["month"] = issued_month
             pub["day"] = issued_day
+
+            pub["oa_status"] = unpaywall_get_oa_status(unpaywall_session, doi, config["email"])
 
             pub["metadata_ok"] = True
         except Exception as e:
