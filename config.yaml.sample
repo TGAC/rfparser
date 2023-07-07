@@ -1,2 +1,6 @@
+# ResearchFish username (needs to have API access enabled)
 rf_username: "user"
+# ResearchFish password
 rf_password: "secret"
+# Email address (passed to CrossRef and Unpaywall APIs)
+email: "user@example.org"

@@ -33,6 +33,7 @@ jobs:
         env:
           RF_USERNAME: ${{ secrets.RF_USERNAME }}
           RF_PASSWORD: ${{ secrets.RF_PASSWORD }}
+          RFPARSER_EMAIL: ${{ secrets.RFPARSER_EMAIL }}
       - uses: actions/upload-artifact@v3
         with:
           name: Pubs for website (${{ matrix.python-version }})

@@ -86,13 +86,13 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     return ret
 
 
-def CR_get_pub_metadata(doi: str) -> Dict[str, Any]:
+def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
-    r = requests.get(f"{BASE_CR_URL}/works/{doi}")
+    r = requests.get(f"{BASE_CR_URL}/works/{doi}", headers=headers)
     r.raise_for_status()
     r_dict = r.json()
     assert r_dict["status"] == "ok"
@@ -169,6 +169,12 @@ def main() -> None:
         config["rf_username"] = os.environ["RF_USERNAME"]
     if "RF_PASSWORD" in os.environ:
         config["rf_password"] = os.environ["RF_PASSWORD"]
+    if "RFPARSER_EMAIL" in os.environ:
+        config["email"] = os.environ["RFPARSER_EMAIL"]
+
+    assert config["rf_username"], "ResearchFish username not configured"
+    assert config["rf_password"], "ResearchFish password not configured"
+    assert config["email"], "Email not configured"
 
     # Login to ResearchFish API
     s = RF_login(config["rf_username"], config["rf_password"])
@@ -200,10 +206,13 @@ def main() -> None:
     log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
 
     # Process publications with a DOI
+    cr_headers = {
+        "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{config['email']})",
+    }
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
         try:
-            pub_metadata = CR_get_pub_metadata(doi)
+            pub_metadata = CR_get_pub_metadata(doi, headers=cr_headers)
             # Join title parts while removing leading, trailing and multiple whitespaces
             title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
             title = strip_tags(title)
