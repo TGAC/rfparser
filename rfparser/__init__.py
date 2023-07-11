@@ -238,14 +238,19 @@ def main() -> None:
     }
     publications = RF_get_paginated(rf_session, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
     log.info(f"Total publications: {len(publications)}")
-    pubs_without_doi = [p for p in publications if p["r1_2_19"] is None]
-    log.info(f"Publications without a DOI: {len(pubs_without_doi)}")
 
     # Create dictionary of publications indexed by DOI
     pubs_with_doi: Dict[str, Dict[str, Any]] = {}
     for p in publications:
         doi = p["r1_2_19"]
-        if doi is not None:
+        if doi is None:
+            log.warning(
+                "Skipping ResearchFish publication '%s': publication '%s' of type %s has no DOI",
+                p["id"],
+                p["title"],
+                p["r1_2"],
+            )
+        else:
             pubs_with_doi.setdefault(doi, {})
             pubs_with_doi[doi].setdefault("rf_entries", [])
             pubs_with_doi[doi]["rf_entries"].append(p)
