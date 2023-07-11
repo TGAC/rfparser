@@ -44,6 +44,7 @@ CR_TYPE_TO_XML_CATEGORY_ID = {
     "book-chapter": "2",
     "journal-article": "1",
     "preprint": "124",
+    "proceedings-article": "2",
 }
 XML_CATEGORY_ID_TO_CATEGORY = {
     "1": "Journal Article",
