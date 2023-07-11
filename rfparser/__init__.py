@@ -122,6 +122,26 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
     """
     Write the publications to an XML file for the EI website.
     """
+
+    def author_dict_to_contributor(author_dict: Dict[str, Any]) -> str:
+        """
+        Transform an author dict from CrossRef to a str for the ContributorsList
+        field of the XML output.
+        """
+        family_name = author_dict.get("family")
+        if family_name:
+            given_names = author_dict.get("given")
+            if given_names:
+                given_name_initials = "".join(name[0] for name in given_names.split())
+                return f"{family_name} {given_name_initials}"
+            else:
+                return family_name
+        else:
+            name = author_dict.get("name")
+            if not name:
+                raise Exception(f"Unrecognised author_dict format: {author_dict}")
+            return name
+
     root_el = ElementTree.Element("publications")
     for doi, pub in pubs_with_doi.items():
         if pub["metadata_ok"]:
@@ -142,6 +162,9 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                     ElementTree.SubElement(publication_el, "SeriesTitle").text = pub["series-title"]
             ElementTree.SubElement(publication_el, "JournalVolume").text = pub["volume"]
             ElementTree.SubElement(publication_el, "JournalPages").text = pub["pages"]
+            ElementTree.SubElement(publication_el, "ContributorList").text = ", ".join(
+                author_dict_to_contributor(author_dict) for author_dict in pub["authors"]
+            )
             ElementTree.SubElement(publication_el, "Year").text = str_if_not_None(pub["year"])
             ElementTree.SubElement(publication_el, "Month").text = str_if_not_None(pub["month"])
             ElementTree.SubElement(publication_el, "Day").text = str_if_not_None(pub["day"])
@@ -290,6 +313,12 @@ def main() -> None:
 
             pub["volume"] = pub_metadata.get("volume")
             pub["pages"] = pub_metadata.get("page")
+
+            pub["authors"] = pub_metadata.get("author")
+            # Missing authors (or any other incorrect publication metadata) need
+            # to be fixed by the publisher, see
+            # https://community.crossref.org/t/where-to-report-incorrect-metadata/3321
+            assert pub["authors"], f"publication of type {pub_type} cannot have empty authors"
 
             # The "issued" field contains the earliest known publication date
             # (see https://github.com/CrossRef/rest-api-doc#sorting )
