@@ -60,6 +60,8 @@ UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS = {
     "hybrid": "Gold Open Access",
 }
 
+log = logging.getLogger(__name__)
+
 
 def RF_login(username: str, password: str) -> Session:
     """
@@ -119,6 +121,55 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     return r_dict["oa_status"]
 
 
+def sanitise_doi(doi: Optional[str]) -> Optional[str]:
+    """
+    Sanitise a doi, which should always start with "10.", see
+    https://www.doi.org/the-identifier/resources/handbook/2_numbering
+    """
+    doi = (doi or "").strip()
+    if doi in ("", "A", "NA", "n/a"):
+        return None
+    doi_start = doi.find("10.")
+    if doi_start > 0:
+        return doi[doi_start:]
+    elif doi_start == -1:
+        raise ValueError("Malformed DOI")
+    return doi
+
+
+def get_doi_to_old_ids() -> Dict[str, List[str]]:
+    """
+    Create a mapping from a DOI to a corresponding id in the old ei.xml file
+    generated from NBIROS.
+    """
+    r = requests.get("https://data.nbi.ac.uk/Publications/summary/ei.xml")
+    r.raise_for_status()
+    root_el = ElementTree.fromstring(r.text)
+    assert root_el.tag == "publications"
+    doi_to_old_ids: Dict[str, List[str]] = {}
+    for pub_el in root_el:
+        id_el = pub_el.find("id")
+        assert id_el is not None
+        pub_old_id = id_el.text
+        assert pub_old_id
+
+        doi_el = pub_el.find("DOI")
+        assert doi_el is not None
+        try:
+            doi = sanitise_doi(doi_el.text)
+        except ValueError:
+            log.warning("Publication %s has malformed DOI: %s", pub_old_id, doi_el.text)
+            continue
+        if not doi:
+            category_el = pub_el.find("Category")
+            assert category_el is not None
+            pub_type = category_el.text
+            log.warning("Publication %s of type %s has no DOI", pub_old_id, pub_type)
+            continue
+        doi_to_old_ids.setdefault(doi, []).append(pub_old_id)
+    return doi_to_old_ids
+
+
 def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> None:
     """
     Write the publications to an XML file for the EI website.
@@ -143,10 +194,23 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                 raise Exception(f"Unrecognised author_dict format: {author_dict}")
             return name
 
+    doi_to_old_ids = get_doi_to_old_ids()
     root_el = ElementTree.Element("publications")
     for doi, pub in pubs_with_doi.items():
         if pub["metadata_ok"]:
             publication_el = ElementTree.SubElement(root_el, "publication")
+            # If the DOI was already recorded in the old ei.xml file, use its id.
+            # Otherwise use the DOI as id.
+            old_ids = doi_to_old_ids.get(doi)
+            if old_ids:
+                if len(old_ids) > 1:
+                    log.warning("Multiple old ids for DOI %s", doi)
+                    id_ = str(min(int(id) for id in old_ids))
+                else:
+                    id_ = old_ids[0]
+            else:
+                id_ = doi
+            ElementTree.SubElement(publication_el, "id").text = id_
             ElementTree.SubElement(publication_el, "Organisation").text = "EI"
             category_id = CR_TYPE_TO_XML_CATEGORY_ID[pub["type"]]
             ElementTree.SubElement(publication_el, "Category").text = XML_CATEGORY_ID_TO_CATEGORY[category_id]
@@ -197,8 +261,6 @@ def main() -> None:
     else:
         log_level = logging.INFO
     logging.basicConfig(level=log_level)
-
-    log = logging.getLogger(__name__)
 
     assert args.pages > 0
 
