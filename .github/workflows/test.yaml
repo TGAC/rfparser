@@ -20,10 +20,10 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        python-version: ['3.8', '3.11']
+        python-version: ['3.8', '3.12']
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install project
@@ -34,7 +34,7 @@ jobs:
           RF_USERNAME: ${{ secrets.RF_USERNAME }}
           RF_PASSWORD: ${{ secrets.RF_PASSWORD }}
           RFPARSER_EMAIL: ${{ secrets.RFPARSER_EMAIL }}
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: Pubs for website (${{ matrix.python-version }})
           path: pubs_for_website.xml
