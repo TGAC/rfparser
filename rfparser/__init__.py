@@ -180,14 +180,14 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
         Transform an author dict from CrossRef to a str for the ContributorsList
         field of the XML output.
         """
-        family_name = author_dict.get("family")
-        if family_name:
+        family_names = author_dict.get("family")
+        if family_names:
             given_names = author_dict.get("given")
             if given_names:
                 given_name_initials = "".join(name[0] for name in given_names.split())
-                return f"{family_name} {given_name_initials}"
+                return f"{family_names} {given_name_initials}"
             else:
-                return family_name
+                return family_names
         else:
             name = author_dict.get("name")
             if not name:
