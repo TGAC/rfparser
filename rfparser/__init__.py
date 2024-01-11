@@ -196,7 +196,7 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
 
     doi_to_old_ids = get_doi_to_old_ids()
     root_el = ElementTree.Element("publications")
-    for doi, pub in pubs_with_doi.items():
+    for doi, pub in reversed(pubs_with_doi.items()):
         if pub["metadata_ok"]:
             publication_el = ElementTree.SubElement(root_el, "publication")
             # If the DOI was already recorded in the old ei.xml file, use its id.
