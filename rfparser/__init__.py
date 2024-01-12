@@ -149,16 +149,18 @@ def sanitise_doi(doi: Optional[str]) -> Optional[str]:
     return doi
 
 
-def get_doi_to_old_ids() -> Dict[str, List[str]]:
+def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: Dict[str, Dict[str, Any]]) -> None:
     """
-    Create a mapping from a DOI to a corresponding id in the old ei.xml file
-    generated from NBIROS.
+    Get the DOIs from the old ei.xml file generated from NBIROS.
     """
-    r = requests.get("https://data.nbi.ac.uk/Publications/summary/ei.xml")
+    log.info("Started get_dois_from_old_xml")
+    if not nbiros_pub_export_xml_url:
+        log.warning("nbiros_pub_export_xml_url option not specified")
+        return
+    r = requests.get(nbiros_pub_export_xml_url)
     r.raise_for_status()
     root_el = ElementTree.fromstring(r.text)
     assert root_el.tag == "publications"
-    doi_to_old_ids: Dict[str, List[str]] = {}
     for pub_el in root_el:
         id_el = pub_el.find("id")
         assert id_el is not None
@@ -178,8 +180,9 @@ def get_doi_to_old_ids() -> Dict[str, List[str]]:
             pub_type = category_el.text
             log.warning("Publication %s of type %s has no DOI", pub_old_id, pub_type)
             continue
-        doi_to_old_ids.setdefault(doi, []).append(pub_old_id)
-    return doi_to_old_ids
+        pubs_with_doi.setdefault(doi, {})
+        pubs_with_doi[doi].setdefault("nbiros_entries", [])
+        pubs_with_doi[doi]["nbiros_entries"].append(pub_el)
 
 
 def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> None:
@@ -206,23 +209,12 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                 raise Exception(f"Unrecognised author_dict format: {author_dict}")
             return name
 
-    doi_to_old_ids = get_doi_to_old_ids()
+    log.info("Started write_xml_output")
     root_el = ElementTree.Element("publications")
     for doi, pub in reversed(pubs_with_doi.items()):
         if pub["metadata_ok"]:
             publication_el = ElementTree.SubElement(root_el, "publication")
-            # If the DOI was already recorded in the old ei.xml file, use its id.
-            # Otherwise use the DOI as id.
-            old_ids = doi_to_old_ids.get(doi)
-            if old_ids:
-                if len(old_ids) > 1:
-                    log.warning("Multiple old ids for DOI %s", doi)
-                    id_ = str(min(int(id) for id in old_ids))
-                else:
-                    id_ = old_ids[0]
-            else:
-                id_ = doi
-            ElementTree.SubElement(publication_el, "id").text = id_
+            ElementTree.SubElement(publication_el, "id").text = doi
             ElementTree.SubElement(publication_el, "Organisation").text = "EI"
             category_id = CR_TYPE_TO_XML_CATEGORY_ID[pub["type"]]
             ElementTree.SubElement(publication_el, "Category").text = XML_CATEGORY_ID_TO_CATEGORY[category_id]
@@ -285,16 +277,22 @@ def main() -> None:
         config = {}
         log.warning(f"Could not read configuration file {args.config}")
 
-    if "RF_USERNAME" in os.environ:
-        config["rf_username"] = os.environ["RF_USERNAME"]
-    if "RF_PASSWORD" in os.environ:
-        config["rf_password"] = os.environ["RF_PASSWORD"]
-    if "RFPARSER_EMAIL" in os.environ:
-        config["email"] = os.environ["RFPARSER_EMAIL"]
+    for env_var in ("RF_USERNAME", "RF_PASSWORD", "RFPARSER_EMAIL", "NBIROS_PUB_EXPORT_XML_URL"):
+        if env_var in os.environ:
+            config_key = env_var.lower()
+            if config_key.startswith("rfparser_"):
+                config_key = config_key[9:]
+            config[config_key] = os.environ[env_var]
 
-    assert config["rf_username"], "ResearchFish username not configured"
-    assert config["rf_password"], "ResearchFish password not configured"
-    assert config["email"], "Email not configured"
+    assert config.get("rf_username"), "ResearchFish username not configured"
+    assert config.get("rf_password"), "ResearchFish password not configured"
+    assert config.get("email"), "Email not configured"
+
+    # Create dictionary of publications indexed by DOI
+    pubs_with_doi: Dict[str, Dict[str, Any]] = {}
+
+    get_dois_from_old_xml(config.get("nbiros_pub_export_xml_url"), pubs_with_doi)
+    log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
 
     # Login to ResearchFish API
     rf_session = RF_login(config["rf_username"], config["rf_password"])
@@ -311,10 +309,8 @@ def main() -> None:
         "section": "publications",
     }
     publications = RF_get_paginated(rf_session, f"{BASE_RF_URL}/outcome", params=params, max_pages=args.pages)
-    log.info(f"Total publications: {len(publications)}")
+    log.info(f"Total publications on ResearchFish: {len(publications)}")
 
-    # Create dictionary of publications indexed by DOI
-    pubs_with_doi: Dict[str, Dict[str, Any]] = {}
     for p in publications:
         doi = p["r1_2_19"]
         if doi is None:
