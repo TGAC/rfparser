@@ -35,7 +35,10 @@ BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
 
 KNOWN_BOOK_SERIES = {
     "Advances in Experimental Medicine and Biology",
+    "Advances in Microbial Physiology",
+    "Genome Dynamics",
     "Lecture Notes in Computer Science",
+    "Methods in Cell Biology",
     "Methods in Enzymology",
     "Methods in Molecular Biology",
 }
@@ -371,7 +374,7 @@ def main() -> None:
                 else:
                     if container_title_list[1] not in KNOWN_BOOK_SERIES:
                         log.warning(
-                            "container-title with unknown book series: %s",
+                            "publication with doi %s of type %s has container-title with unknown book series: %s",
                             doi,
                             pub_type,
                             container_title_list,
