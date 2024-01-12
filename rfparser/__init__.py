@@ -5,6 +5,7 @@ import itertools
 import logging
 import os
 import sys
+from time import sleep
 from typing import (
     Any,
     Dict,
@@ -93,8 +94,16 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     ret: List[Dict] = []
     while next is not None and next < max_pages:
         params["start"] = next
-        r = s.get(url, params=params)
-        r.raise_for_status()
+        for i in range(3):
+            try:
+                r = s.get(url, params=params)
+                r.raise_for_status()
+                break
+            except Exception:
+                log.exception("Failed %d times to get URL", i + 1)
+                sleep(1)
+        else:
+            raise Exception("Failed too many times to get URL")
         r_dict = r.json()
         ret.extend(r_dict["results"])
         next = r_dict.get("next")
