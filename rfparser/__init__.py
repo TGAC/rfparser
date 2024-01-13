@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 
 import argparse
+import csv
 import itertools
 import logging
 import os
+import re
 import sys
+from dataclasses import dataclass
 from time import sleep
 from typing import (
     Any,
@@ -19,8 +22,10 @@ import yaml
 from requests import Session
 
 from .util import (
+    is_same_person,
     str_if_not_None,
     strip_tags,
+    unique,
 )
 
 if sys.version_info >= (3, 9):
@@ -63,8 +68,17 @@ UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS = {
     "green": "Green Open Access",
     "hybrid": "Gold Open Access",
 }
+VALID_ORCID_ID = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
 
 log = logging.getLogger(__name__)
+
+
+@dataclass
+class Person:
+    username: str
+    given_names: str
+    family_names: str
+    orcid_id: Optional[str]
 
 
 def RF_login(username: str, password: str) -> Session:
@@ -185,7 +199,49 @@ def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_do
         pubs_with_doi[doi]["nbiros_entries"].append(pub_el)
 
 
-def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> None:
+def sanitise_orcid_id(orcid_id: Optional[str]) -> Optional[str]:
+    if not orcid_id:
+        return None
+    # Remove initial part, if it's a URL
+    number = orcid_id.split("/")[-1]
+    number = number.replace("-", "-")
+    assert len(number) == 19, f"Malformed ORCID id {orcid_id}"
+    assert re.match(VALID_ORCID_ID, number), f"Malformed ORCID id {orcid_id}"
+    return f"https://orcid.org/{number}"
+
+
+def get_persons(people_data_csv_url: Optional[str]) -> List[Person]:
+    log.info("Started get_persons")
+    if not people_data_csv_url:
+        log.warning("people_data_csv_url option not specified")
+        return []
+    r = requests.get(people_data_csv_url)
+    r.raise_for_status()
+    reader = csv.reader(r.text.splitlines())
+    persons = [
+        Person(
+            username=username, given_names=given_names, family_names=family_names, orcid_id=sanitise_orcid_id(orcid_id)
+        )
+        for (username, given_names, family_names, orcid_id) in reader
+    ]
+    duplicated_person_indexes = []
+    for i, person1 in enumerate(persons):
+        for person2 in persons[i + 1 :]:
+            if person1.given_names == person2.given_names and person1.family_names == person2.family_names:
+                duplicated_person_indexes.append(i)
+                break
+    for index in reversed(duplicated_person_indexes):
+        log.warning("Duplicated person %s will be eliminated", persons[index])
+        del persons[index]
+    log.info("Total persons: %s", len(persons))
+    return persons
+
+
+def write_xml_output(
+    pubs_with_doi: Dict[str, Dict[str, Any]],
+    outfile: str,
+    people_data_csv_url: Optional[str],
+) -> None:
     """
     Write the publications to an XML file for the EI website.
     """
@@ -209,7 +265,39 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                 raise Exception(f"Unrecognised author_dict format: {author_dict}")
             return name
 
+    def author_dict_to_username(author_dict: Dict[str, Any]) -> Optional[str]:
+        # First try to match the ORCID id
+        orcid_id = sanitise_orcid_id(author_dict.get("ORCID"))
+        if orcid_id:
+            usernames = [person.username for person in persons if person.orcid_id == orcid_id]
+            if usernames:
+                if len(usernames) > 1:
+                    log.warning("Multiple usernames for ORCID id %s", orcid_id)
+                return usernames[0]
+        # Try to match the family and given names
+        family_names = author_dict.get("family")
+        if family_names:
+            given_names = author_dict.get("given", "")
+            usernames = [
+                person.username
+                for person in persons
+                if not (orcid_id and person.orcid_id)
+                and is_same_person(person.family_names, person.given_names, family_names, given_names)
+            ]
+            if usernames:
+                if len(usernames) > 1:
+                    log.warning(
+                        "Multiple usernames for family names '%s', given names '%s': %s",
+                        family_names,
+                        given_names,
+                        usernames,
+                    )
+                return usernames[0]
+        # No need to try to match "name", which is only used for consortia
+        return None
+
     log.info("Started write_xml_output")
+    persons = get_persons(people_data_csv_url)
     root_el = ElementTree.Element("publications")
     for doi, pub in reversed(pubs_with_doi.items()):
         if pub["metadata_ok"]:
@@ -231,6 +319,18 @@ def write_xml_output(pubs_with_doi: Dict[str, Dict[str, Any]], outfile: str) -> 
                     ElementTree.SubElement(publication_el, "SeriesTitle").text = pub["series-title"]
             ElementTree.SubElement(publication_el, "JournalVolume").text = pub["volume"]
             ElementTree.SubElement(publication_el, "JournalPages").text = pub["pages"]
+            try:
+                contributor_ids_list = [author_dict_to_username(author_dict) for author_dict in pub["authors"]]
+                for nbiros_entry in pub.get("nbiros_entries", []):
+                    ContributorIds_el = nbiros_entry.find("ContributorIds")
+                    assert ContributorIds_el is not None
+                    ContributorIds_text = ContributorIds_el.text or ""
+                    contributor_ids_list.extend(c.strip() for c in ContributorIds_text.split(","))
+                contributor_ids = unique(filter(None, contributor_ids_list))
+            except Exception:
+                log.error("Error while generating ContributorIds for DOI %s", doi)
+                raise
+            ElementTree.SubElement(publication_el, "ContributorIds").text = ", ".join(contributor_ids)
             ElementTree.SubElement(publication_el, "ContributorList").text = ", ".join(
                 author_dict_to_contributor(author_dict) for author_dict in pub["authors"]
             )
@@ -277,7 +377,7 @@ def main() -> None:
         config = {}
         log.warning(f"Could not read configuration file {args.config}")
 
-    for env_var in ("RF_USERNAME", "RF_PASSWORD", "RFPARSER_EMAIL", "NBIROS_PUB_EXPORT_XML_URL"):
+    for env_var in ("RF_USERNAME", "RF_PASSWORD", "RFPARSER_EMAIL", "NBIROS_PUB_EXPORT_XML_URL", "PEOPLE_DATA_CSV_URL"):
         if env_var in os.environ:
             config_key = env_var.lower()
             if config_key.startswith("rfparser_"):
@@ -412,7 +512,7 @@ def main() -> None:
             log.error("Skipping publication '%s': %s", doi, e)
 
     if args.xml:
-        write_xml_output(pubs_with_doi, args.xml)
+        write_xml_output(pubs_with_doi, args.xml, config.get("people_data_csv_url"))
 
 
 if __name__ == "__main__":
