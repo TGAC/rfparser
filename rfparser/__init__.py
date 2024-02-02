@@ -365,6 +365,8 @@ def main() -> None:
     else:
         log_level = logging.INFO
     logging.basicConfig(level=log_level)
+    # Restore urllib3 log level
+    logging.getLogger("urllib3").setLevel(logging.WARNING)
 
     assert args.pages > 0
 
