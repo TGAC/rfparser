@@ -409,6 +409,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.7287/peerj.preprints.27332</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>New approaches for assembly of short-read metagenomic data</Title>
+		<DOI>10.7287/peerj.preprints.27332</DOI>
+		<JournalName>PeerJ Preprints</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>aylingm, leggettr</ContributorIds>
+		<ContributorList>Ayling M, Clark MD, Leggett RM</ContributorList>
+		<Year>2018</Year>
+		<Month>11</Month>
+		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2023.09.11.557152</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
