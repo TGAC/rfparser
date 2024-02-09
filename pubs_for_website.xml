@@ -1,6 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/nature25995</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Erratum: Pluripotent state transitions coordinate morphogenesis in mouse and human embryos</Title>
+		<DOI>10.1038/nature25995</DOI>
+		<JournalName>Nature</JournalName>
+		<JournalVolume>555</JournalVolume>
+		<JournalPages>126-126</JournalPages>
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Shahbazi MN, Scialdone A, Skorupska N, Weberling A, Recher G, Zhu M, Jedrusik A, Devito LG, Noli L, Macaulay IC, Buecker C, Khalaf Y, Ilic D, Voet T, Marioni JC, Zernicka-Goetz M</ContributorList>
+		<Year>2018</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/smll.202308776</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Automated Purification of DNA Origami with SPRI Beads</Title>
+		<DOI>10.1002/smll.202308776</DOI>
+		<JournalName>Small</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Chau C, Mohanan G, Macaulay I, Actis P, Wälti C</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>6</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-41691-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Perivascular niche cells sense thrombocytopenia and activate hematopoietic stem cells in an IL-1 dependent manner</Title>
+		<DOI>10.1038/s41467-023-41691-y</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Luis TC, Barkas N, Carrelha J, Giustacchini A, Mazzi S, Norfo R, Wu B, Aliouat A, Guerrero JA, Rodriguez-Meira A, Bouriez-Jones T, Macaulay IC, Jasztal M, Zhu G, Ni H, Robson MJ, Blakely RD, Mead AJ, Nerlov C, Ghevaert C, Jacobsen SEW</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-38294-9_4</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Structural and Functional Annotation of the Wheat Genome</Title>
+		<DOI>10.1007/978-3-031-38294-9_4</DOI>
+		<BookTitle>Compendium of Plant Genomes</BookTitle>
+		<SeriesTitle>The Wheat Genome</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>51-73</JournalPages>
+		<ContributorIds>swarbred</ContributorIds>
+		<ContributorList>Choulet F, Wang X, Spannagl M, Swarbreck D, Rimbert H, Leroy P, Lasserre-Zuber P, Papon N</ContributorList>
+		<Year>2023</Year>
+		<Month>11</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.ygeno.2023.110633</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1093,13 +1162,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Reproducible spatial structure formation and stable community composition in the cyanosphere predicts metabolic interactions</Title>
+		<Title>Niche formation and metabolic interactions result in stable diversity in a spatially structured cyanobacterial community</Title>
 		<DOI>10.1101/2022.12.13.520286</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>raguidea, quince</ContributorIds>
-		<ContributorList>Duxbury SJ, Raguideau S, Rosko J, Cremin K, Coates M, Quince C, Soyer OS</ContributorList>
+		<ContributorList>Duxbury SJN, Raguideau S, Cremin K, Rosko J, Coates M, Randall K, Chen J, Quince C, soyer os</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
 		<Day>13</Day>
@@ -1132,7 +1201,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>236</JournalVolume>
 		<JournalPages>1584-1604</JournalPages>
-		<ContributorIds>colmer</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Sun G, Lu H, Zhao Y, Zhou J, Jackson R, Wang Y, Xu L, Wang A, Colmer J, Ober E, Zhao Q, Han B, Zhou J</ContributorList>
 		<Year>2022</Year>
 		<Month>7</Month>
@@ -3363,7 +3432,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rusholmr, colmer, whiteb, creynold, halla</ContributorIds>
+		<ContributorIds>rusholmr, whiteb, creynold, halla</ContributorIds>
 		<ContributorList>Rees H, Rusholme-Pilcher R, Bailey P, Colmer J, White B, Reynolds C, Ward SJ, Graham CA, Dantas LLdB, Dodd AN, Hall A</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -3482,7 +3551,7 @@
 		<JournalName>Plant Physiology</JournalName>
 		<JournalVolume>187</JournalVolume>
 		<JournalPages>716-738</JournalPages>
-		<ContributorIds>colmer</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Zhu Y, Sun G, Ding G, Zhou J, Wen M, Jin S, Zhao Q, Colmer J, Ding Y, Ober ES, Zhou J</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -3533,7 +3602,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>colmer</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Zhu Y, Sun G, Ding G, Zhou J, Wen M, Jin S, Zhao Q, Colmer J, Ding Y, Ober ES, Zhou J</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -4077,7 +4146,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rusholmr, colmer, halla</ContributorIds>
+		<ContributorIds>rusholmr, halla</ContributorIds>
 		<ContributorList>Gardiner L, Rusholme-Pilcher R, Colmer J, Rees H, Crescente JM, Carrieri AP, Duncan S, Pyzer-Knapp EO, Krishna R, Hall A</ContributorList>
 		<Year>2021</Year>
 		<Month>2</Month>
@@ -5272,23 +5341,6 @@
 		<ContributorList>Shamurad B, Gray N, Petropoulos E, Tabraiz S, Acharya K, Quintela-Baluja M, Sallis P</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/s12864-019-6183-2</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>RNA-seq, de novo transcriptome assembly and flavonoid gene analysis in 13 wild and cultivated berry fruit species with high content of phenolics</Title>
-		<DOI>10.1186/s12864-019-6183-2</DOI>
-		<JournalName>BMC Genomics</JournalName>
-		<JournalVolume>20</JournalVolume>
-		<JournalPages />
-		<ContributorIds />
-		<ContributorList>Thole V, Bassard J, Ramírez-González R, Trick M, Ghasemi Afshar B, Breitel D, Hill L, Foito A, Shepherd L, Freitag S, Nunes dos Santos C, Menezes R, Bañados P, Naesby M, Wang L, Sorokin A, Tikhonova O, Shelenga T, Stewart D, Vain P, Martin C</ContributorList>
-		<Year>2019</Year>
-		<Month>12</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
@@ -18733,23 +18785,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/723890</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Sequencing smart:De novosequencing and assembly approaches for non-model mammals</Title>
-		<DOI>10.1101/723890</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>ethering, heavensd, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia</ContributorIds>
-		<ContributorList>Etherington GJ, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
-		<Year>2019</Year>
-		<Month>8</Month>
-		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/mec.15216</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -21736,7 +21771,7 @@
 		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
 		<JournalVolume>118</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rusholmr, colmer, halla, duncan, reesh</ContributorIds>
+		<ContributorIds>rusholmr, halla, colmer, duncan, reesh</ContributorIds>
 		<ContributorList>Gardiner L, Rusholme-Pilcher R, Colmer J, Rees H, Crescente JM, Carrieri AP, Duncan S, Pyzer-Knapp EO, Krishna R, Hall A</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
