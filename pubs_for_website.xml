@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.02.05.578917</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-cell and spatial transcriptomics of the avian embryo tailbud</Title>
+		<DOI>10.1101/2024.02.05.578917</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, lipscomj, haertyw</ContributorIds>
+		<ContributorList>Mok G, Turner S, Smith E, Mincarelli L, Lister A, Lipscombe J, Uzun V, Haerty W, Macaulay I, Münsterberg A</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/nature25995</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -5341,6 +5358,23 @@
 		<ContributorList>Shamurad B, Gray N, Petropoulos E, Tabraiz S, Acharya K, Quintela-Baluja M, Sallis P</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12864-019-6183-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>RNA-seq, de novo transcriptome assembly and flavonoid gene analysis in 13 wild and cultivated berry fruit species with high content of phenolics</Title>
+		<DOI>10.1186/s12864-019-6183-2</DOI>
+		<JournalName>BMC Genomics</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Thole V, Bassard J, Ramírez-González R, Trick M, Ghasemi Afshar B, Breitel D, Hill L, Foito A, Shepherd L, Freitag S, Nunes dos Santos C, Menezes R, Bañados P, Naesby M, Wang L, Sorokin A, Tikhonova O, Shelenga T, Stewart D, Vain P, Martin C</ContributorList>
+		<Year>2019</Year>
+		<Month>12</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
@@ -18782,6 +18816,23 @@
 		<Year>2019</Year>
 		<Month>6</Month>
 		<Day>24</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/723890</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Sequencing smart:De novosequencing and assembly approaches for non-model mammals</Title>
+		<DOI>10.1101/723890</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering, heavensd, abinnie, macaulai, haertyw, clavijob, dbaker, dipalmaf, ggarcia</ContributorIds>
+		<ContributorList>Etherington GJ, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
+		<Year>2019</Year>
+		<Month>8</Month>
+		<Day>5</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
