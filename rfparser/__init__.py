@@ -19,7 +19,10 @@ from xml.etree import ElementTree
 
 import requests
 import yaml
-from requests import Session
+from requests import (
+    Response,
+    Session,
+)
 
 from .util import (
     is_same_person,
@@ -35,6 +38,8 @@ else:
 
 __version__ = "0.0.1"
 
+REQUEST_TIMEOUT = 5.0
+REQUEST_RETRIES = 3
 BASE_CR_URL = "https://api.crossref.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
@@ -95,10 +100,43 @@ def RF_login(username: str, password: str) -> Session:
     return s
 
 
+def get_url(
+    url: str,
+    params: Optional[Dict] = None,
+    headers: Optional[Dict[str, str]] = None,
+    timeout: float = REQUEST_TIMEOUT,
+    retries: int = REQUEST_RETRIES,
+    s: Optional[Session] = None,
+) -> Response:
+    for i in range(retries):
+        try:
+            if s:
+                r = s.get(url, params=params, headers=headers, timeout=timeout)
+            else:
+                r = requests.get(url, params=params, headers=headers, timeout=timeout)
+        except Exception:
+            log.exception("Failed %d times to get URL %s", i + 1, url)
+            sleep(1)
+            continue
+        try:
+            r.raise_for_status()
+            break
+        except Exception:
+            if 400 <= r.status_code < 500:
+                # Client error
+                raise
+            log.exception("Failed %d times to get URL %s", i + 1, url)
+            sleep(1)
+    else:
+        raise Exception(f"Failed too many times to get URL {url}")
+    return r
+
+
 def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pages: int = sys.maxsize) -> List[Dict]:
     """
     Get paginated items from ResearchFish API.
     """
+    log.info("Started RF_get_paginated")
     if params is None:
         params = {}
     else:
@@ -108,16 +146,7 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     ret: List[Dict] = []
     while next is not None and next < max_pages:
         params["start"] = next
-        for i in range(3):
-            try:
-                r = s.get(url, params=params)
-                r.raise_for_status()
-                break
-            except Exception:
-                log.exception("Failed %d times to get URL", i + 1)
-                sleep(1)
-        else:
-            raise Exception("Failed too many times to get URL")
+        r = get_url(url, params=params, s=s)
         r_dict = r.json()
         ret.extend(r_dict["results"])
         next = r_dict.get("next")
@@ -130,7 +159,7 @@ def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> D
     """
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
-    r = requests.get(f"{BASE_CR_URL}/works/{doi}", headers=headers)
+    r = get_url(f"{BASE_CR_URL}/works/{doi}", headers=headers)
     r.raise_for_status()
     r_dict = r.json()
     assert r_dict["status"] == "ok"
@@ -141,7 +170,7 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     """
     Get the Open Access status of a publication using the Unpaywall API
     """
-    r = s.get(f"{BASE_UNPAYWALL_URL}/v2/{doi}?email={email}")
+    r = get_url(f"{BASE_UNPAYWALL_URL}/v2/{doi}?email={email}", s=s)
     r.raise_for_status()
     r_dict = r.json()
     return r_dict["oa_status"]
