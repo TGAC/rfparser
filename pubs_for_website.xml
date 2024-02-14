@@ -10636,6 +10636,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1371/journal.pone.0019011</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Clustered Coding Variants in the Glutamate Receptor Complexes of Individuals with Schizophrenia and Bipolar Disorder</Title>
+		<DOI>10.1371/journal.pone.0019011</DOI>
+		<JournalName>PLoS ONE</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages>e19011</JournalPages>
+		<ContributorIds>rogersj</ContributorIds>
+		<ContributorList>Frank RAW, McRae AF, Pocklington AJ, van de Lagemaat LN, Navarro P, Croning MDR, Komiyama NH, Bradley SJ, Challiss RAJ, Armstrong JD, Finn RD, Malloy MP, MacLean AW, Harris SE, Starr JM, Bhaskar SS, Howard EK, Hunt SE, Coffey AJ, Ranganath V, Deloukas P, Rogers J, Muir WJ, Deary IJ, Blackwood DH, Visscher PM, Grant SGN</ContributorList>
+		<Year>2011</Year>
+		<Month>4</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pone.0020447</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -11860,6 +11877,23 @@
 		<Month />
 		<Day />
 		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/gbe/evt060</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Rapid Evolution of Beta-Keratin Genes Contribute to Phenotypic Differences That Distinguish Turtles and Birds from Other Reptiles</Title>
+		<DOI>10.1093/gbe/evt060</DOI>
+		<JournalName>Genome Biology and Evolution</JournalName>
+		<JournalVolume>5</JournalVolume>
+		<JournalPages>923-933</JournalPages>
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Li YI, Kong L, Ponting CP, Haerty W</ContributorList>
+		<Year>2013</Year>
+		<Month>4</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/gb-2013-14-5-r49</id>
@@ -14431,6 +14465,23 @@
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/bioinformatics/btv623</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The minimum evolution problem is hard: a link between tree inference and graph clustering problems</Title>
+		<DOI>10.1093/bioinformatics/btv623</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>32</JournalVolume>
+		<JournalPages>518-522</JournalPages>
+		<ContributorIds>sbastkow</ContributorIds>
+		<ContributorList>Bastkowski S, Moulton V, Spillner A, Wu T</ContributorList>
+		<Year>2015</Year>
+		<Month>10</Month>
+		<Day>24</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pone.0138313</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -16471,6 +16522,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.4049/jimmunol.1600960</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>IL-6 Signaling Regulates Small Intestinal Crypt Homeostasis</Title>
+		<DOI>10.4049/jimmunol.1600960</DOI>
+		<JournalName>The Journal of Immunology</JournalName>
+		<JournalVolume>199</JournalVolume>
+		<JournalPages>304-311</JournalPages>
+		<ContributorIds>goldson</ContributorIds>
+		<ContributorList>Jeffery V, Goldson AJ, Dainty JR, Chieppa M, Sobolewski A</ContributorList>
+		<Year>2017</Year>
+		<Month>7</Month>
+		<Day>1</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s12864-017-3964-3</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -16554,6 +16622,23 @@
 		<Month>9</Month>
 		<Day />
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13068-017-0880-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Bioethanol production from spent mushroom compost derived from chaff of millet and sorghum</Title>
+		<DOI>10.1186/s13068-017-0880-3</DOI>
+		<JournalName>Biotechnology for Biofuels</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>efthymim, elliston, malakar, waldron, wilson</ContributorIds>
+		<ContributorList>Ryden P, Efthymiou M, Tindyebwa TAM, Elliston A, Wilson DR, Waldron KW, Malakar PK</ContributorList>
+		<Year>2017</Year>
+		<Month>8</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1042/ETLS20170011</id>
@@ -16998,6 +17083,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1098/rsob.170184</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Comparative genomic analysis of the ‘pseudofungus’Hyphochytrium catenoides</Title>
+		<DOI>10.1098/rsob.170184</DOI>
+		<JournalName>Open Biology</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>170184</JournalPages>
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Leonard G, Labarre A, Milner DS, Monier A, Soanes D, Wideman JG, Maguire F, Stevens S, Sain D, Grau-Bové X, Sebé-Pedrós A, Stajich JE, Paszkiewicz K, Brown MW, Hall N, Wickstead B, Richards TA</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/nph.14993</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -17372,6 +17474,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/323907</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Cerox1 and microRNA-488-3p noncoding RNAs jointly regulate mitochondrial complex I catalytic activity</Title>
+		<DOI>10.1101/323907</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Sirey TM, Roberts K, Haerty W, Bedoya-Reina O, Rogatti-Granados S, Tan JY, Li N, Heather LC, Cooper S, Marques AC, Ponting CP</ContributorList>
+		<Year>2018</Year>
+		<Month>5</Month>
+		<Day>16</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/pbi.12941</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Zinc finger nuclease‐mediated precision genome editing of an endogenous gene in hexaploid bread wheat (Triticum aestivum) using a DNA repair template</Title>
+		<DOI>10.1111/pbi.12941</DOI>
+		<JournalName>Plant Biotechnology Journal</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages>2088-2101</JournalPages>
+		<ContributorIds>patronn</ContributorIds>
+		<ContributorList>Ran Y, Patron N, Kay P, Wong D, Buchanan M, Cao Y, Sawbridge T, Davies JP, Mason J, Webb SR, Spangenberg G, Ainley WM, Walsh TA, Hayden MJ</ContributorList>
+		<Year>2018</Year>
+		<Month>5</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.cels.2018.05.012</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -17608,6 +17744,23 @@
 		<Month>7</Month>
 		<Day>24</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1126/science.aar6089</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The transcriptional landscape of polyploid wheat</Title>
+		<DOI>10.1126/science.aar6089</DOI>
+		<JournalName>Science</JournalName>
+		<JournalVolume>361</JournalVolume>
+		<JournalPages />
+		<ContributorIds>swarbred, wrightj, borrillp, brintonj, floriot, harrings, ramirezr, ridout, schoonbh, steuerna, uauyc, venturil, wulff</ContributorIds>
+		<ContributorList>Ramírez-González RH, Borrill P, Lang D, Harrington SA, Brinton J, Venturini L, Davey M, Jacobs J, van Ex F, Pasha A, Khedikar Y, Robinson SJ, Cory AT, Florio T, Concia L, Juery C, Schoonbeek H, Steuernagel B, Xiang D, Ridout CJ, Chalhoub B, Mayer KFX, Benhamed M, Latrasse D, Bendahmane A, Wulff BBH, Appels R, Tiwari V, Datla R, Choulet F, Pozniak CJ, Provart NJ, Sharpe AG, Paux E, Spannagl M, Bräutigam A, Uauy C, Korol A, Sharpe AG, Juhász A, Rohde A, Bellec A, Distelfeld A, Akpinar BA, Keller B, Darrier B, Gill B, Chalhoub B, Steuernagel B, Feuillet C, Chaudhary C, Uauy C, Pozniak C, Ormanbekova D, Xiang D, Latrasse D, Swarbreck D, Barabaschi D, Raats D, Sergeeva E, Salina E, Paux E, Cattonaro F, Choulet F, Kobayashi F, Keeble-Gagnere G, Kaur G, Muehlbauer G, Kettleborough G, Yu G, Šimková H, Gundlach H, Berges H, Rimbert H, Budak H, Handa H, Small I, Bartoš J, Rogers J, Doležel J, Keilwagen J, Poland J, Melonek J, Jacobs J, Wright J, Jones JDG, Gutierrez-Gonzalez J, Eversole K, Nilsen K, Mayer KF, Kanyuka K, Singh K, Gao L, Concia L, Venturini L, Cattivelli L, Spannagl M, Mascher M, Hayden M, Abrouk M, Alaux M, Luo M, Valárik M, Benhamed M, Singh NK, Sharma N, Guilhot N, Ravin N, Stein N, Olsen O, Gupta OP, Khurana P, Chhuneja P, Bayer PE, Borrill P, Leroy P, Rigault P, Sourdille P, Hernandez P, Flores R, Ramirez-Gonzalez RH, King R, Knox R, Appels R, Zhou R, Walkowiak S, Galvez S, Biyiklioglu S, Nasuda S, Sandve S, Chalabi S, Weining S, Sehgal S, Jindal S, Belova T, Letellier T, Wicker T, Tanaka T, Fahima T, Barbe V, Tiwari V, Kumar V, Tan Y, International Wheat Genome Sequencing Consortium</ContributorList>
+		<Year>2018</Year>
+		<Month>8</Month>
+		<Day>17</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3389/fcell.2018.00092</id>
@@ -18104,6 +18257,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1038/s41598-018-37284-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A gene expression signature in developing Purkinje cells predicts autism and intellectual disability co-morbidity status</Title>
+		<DOI>10.1038/s41598-018-37284-1</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Clifford H, Dulneva A, Ponting CP, Haerty W, Becker EBE</ContributorList>
+		<Year>2019</Year>
+		<Month>1</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/nph.15417</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -18137,6 +18307,23 @@
 		<Month>12</Month>
 		<Day>23</Day>
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/gigascience/giy163</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A critical comparison of technologies for a plant genome sequencing project</Title>
+		<DOI>10.1093/gigascience/giy163</DOI>
+		<JournalName>GigaScience</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages />
+		<ContributorIds>heavensd, abinnie, macaulai, dbaker, giolaim, kettlebg, mclark, paajanep</ContributorIds>
+		<ContributorList>Paajanen P, Kettleborough G, López-Girona E, Giolai M, Heavens D, Baker D, Lister A, Cugliandolo F, Wilde G, Hein I, Macaulay I, Bryan GJ, Clark MD</ContributorList>
+		<Year>2019</Year>
+		<Month>1</Month>
+		<Day>9</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.cub.2018.11.029</id>
@@ -18377,6 +18564,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1186/s13059-019-1675-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Analysis of the recombination landscape of hexaploid bread wheat reveals genes controlling recombination and gene conversion frequency</Title>
+		<DOI>10.1186/s13059-019-1675-6</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages />
+		<ContributorIds>brabbst, halln, halla, joynsonr</ContributorIds>
+		<ContributorList>Gardiner L, Wingen LU, Bailey P, Joynson R, Brabbs T, Wright J, Higgins JD, Hall N, Griffiths S, Clavijo BJ, Hall A</ContributorList>
+		<Year>2019</Year>
+		<Month>4</Month>
+		<Day>15</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/pbi.13137</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -18428,6 +18632,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.cub.2019.04.020</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Ice-Age Climate Adaptations Trap the Alpine Marmot in a State of Low Genetic Diversity</Title>
+		<DOI>10.1016/j.cub.2019.04.020</DOI>
+		<JournalName>Current Biology</JournalName>
+		<JournalVolume>29</JournalVolume>
+		<JournalPages>1712-1720.e7</JournalPages>
+		<ContributorIds>hildebrf, hildebra</ContributorIds>
+		<ContributorList>Gossmann TI, Shanmugasundram A, Börno S, Duvaux L, Lemaire C, Kuhl H, Klages S, Roberts LD, Schade S, Gostner JM, Hildebrand F, Vowinckel J, Bichet C, Mülleder M, Calvani E, Zelezniak A, Griffin JL, Bork P, Allaine D, Cohas A, Welch JJ, Timmermann B, Ralser M</ContributorList>
+		<Year>2019</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s13104-019-4349-2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -18459,6 +18680,23 @@
 		<Year>2019</Year>
 		<Month>5</Month>
 		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-019-10079-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Building a global alliance of biofoundries</Title>
+		<DOI>10.1038/s41467-019-10079-2</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>patronn, carrascj</ContributorIds>
+		<ContributorList>Hillson N, Caddick M, Cai Y, Carrasco JA, Chang MW, Curach NC, Bell DJ, Le Feuvre R, Friedman DC, Fu X, Gold ND, Herrgård MJ, Holowko MB, Johnson JR, Johnson RA, Keasling JD, Kitney RI, Kondo A, Liu C, Martin VJJ, Menolascina F, Ogino C, Patron NJ, Pavan M, Poh CL, Pretorius IS, Rosser SJ, Scrutton NS, Storch M, Tekotte H, Travnik E, Vickers CE, Yew WS, Yuan Y, Zhao H, Freemont PS</ContributorList>
+		<Year>2019</Year>
+		<Month>5</Month>
+		<Day>9</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -18598,6 +18836,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/663401</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Alvis: a tool for contig and read ALignment VISualisation and chimera detection</Title>
+		<DOI>10.1101/663401</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorList>Martin S, Leggett RM</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day>6</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1080/19491034.2019.1644592</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -18666,6 +18921,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/mec.15216</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Sex‐specific changes in the aphid DNA methylation landscape</Title>
+		<DOI>10.1111/mec.15216</DOI>
+		<JournalName>Molecular Ecology</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>4228-4241</JournalPages>
+		<ContributorIds>kaithakg, swarbred, cheny, hogenhos, mugford, percival, tmathers</ContributorIds>
+		<ContributorList>Mathers TC, Mugford ST, Percival‐Alwyn L, Chen Y, Kaithakottil G, Swarbreck D, Hogenhout SA, van Oosterhout C</ContributorList>
+		<Year>2019</Year>
+		<Month>9</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/gbe/evz164</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -18732,6 +19004,23 @@
 		<Month>8</Month>
 		<Day>6</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1080/19490976.2019.1638722</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Gut microbes and metabolites as modulators of blood-brain barrier integrity and brain health</Title>
+		<DOI>10.1080/19490976.2019.1638722</DOI>
+		<JournalName>Gut Microbes</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>135-157</JournalPages>
+		<ContributorIds>jod23rof, cardings, parkera</ContributorIds>
+		<ContributorList>Parker A, Fonseca S, Carding SR</ContributorList>
+		<Year>2019</Year>
+		<Month>8</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/782771</id>
@@ -18836,6 +19125,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1186/s13059-019-1819-8</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>SEPATH: benchmarking the search for pathogens in human tissue whole genome sequence data leads to template pipelines</Title>
+		<DOI>10.1186/s13059-019-1819-8</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages />
+		<ContributorIds>leggettr, brewerd</ContributorIds>
+		<ContributorList>Gihawi A, Rallapalli G, Hurst R, Cooper CS, Leggett RM, Brewer DS</ContributorList>
+		<Year>2019</Year>
+		<Month>10</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/859728</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -18867,6 +19173,23 @@
 		<Year>2019</Year>
 		<Month>3</Month>
 		<Day>11</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/851394</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>microRNA profiling in the Weddell Seal suggests novel regulatory mechanisms contributing to diving adaptation</Title>
+		<DOI>10.1101/851394</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw, dipalmaf, pensodl</ContributorIds>
+		<ContributorList>Penso-Dolfin L, Haerty W, Hindle A, Di Palma F</ContributorList>
+		<Year>2019</Year>
+		<Month>11</Month>
+		<Day>22</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -19057,6 +19380,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1039/c9mo00130a</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Regulatory network analysis of Paneth cell and goblet cell enriched gut organoids using transcriptomics approaches</Title>
+		<DOI>10.1039/c9mo00130a</DOI>
+		<JournalName>Molecular Omics</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages>39-58</JournalPages>
+		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, hallli, ihautefo, jbrooks, korcsmat, olbeim, sudhakap, treveila, wilemant, wrzesint</ContributorIds>
+		<ContributorList>Treveil A, Sudhakar P, Matthews ZJ, Wrzesiński T, Jones EJ, Brooks J, Ölbei M, Hautefort I, Hall LJ, Carding SR, Mayer U, Powell PP, Wileman T, Di Palma F, Haerty W, Korcsmáros T</ContributorList>
+		<Year>2020</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.jcmgh.2020.01.010</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -19123,6 +19463,23 @@
 		<Month>11</Month>
 		<Day>17</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pone.0227535</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Increasing prevalence of a fluoroquinolone resistance mutation amongst Campylobacter jejuni isolates from four human infectious intestinal disease studies in the United Kingdom</Title>
+		<DOI>10.1371/journal.pone.0227535</DOI>
+		<JournalName>PLOS ONE</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages>e0227535</JournalPages>
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Haldenby S, Bronowski C, Nelson C, Kenny J, Martinez-Rodriguez C, Chaudhuri R, Williams NJ, Forbes K, Strachan NJ, Pulman J, Winstanley IN, Corless CE, Humphrey TJ, Bolton FJ, O’Brien SJ, Hall N, Hertz-Fowler C, Winstanley C</ContributorList>
+		<Year>2020</Year>
+		<Month>1</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/jxb/eraa469</id>
@@ -19550,6 +19907,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.12688/f1000research.23889.1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>COPO: a metadata platform for brokering FAIR data in the life sciences</Title>
+		<DOI>10.12688/f1000research.23889.1</DOI>
+		<JournalName>F1000Research</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>495</JournalPages>
+		<ContributorIds>fshaw, davey, etuka, minottoa</ContributorIds>
+		<ContributorList>Shaw F, Etuk A, Minotto A, Gonzalez-Beltran A, Johnson D, Rocca-Serra P, Laporte M, Arnaud E, Devare M, Kersey P, Sansone S, Davey RP</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/age.12954</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -19686,6 +20060,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2020.07.14.202564</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genome analyses reveal the hybrid origin of the staple food crop white Guinea yam</Title>
+		<DOI>10.1101/2020.07.14.202564</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>whiteb</ContributorIds>
+		<ContributorList>Sugihara Y, Darkwa K, Yaegashi H, Natsume S, Shimizu M, Abe A, Hirabuchi A, Ito K, Oikawa K, Tamiru-Oli M, Ohta A, Matsumoto R, Paterne A, De Koeyer D, Pachakkil B, Yamanaka S, Muranaka S, Takagi H, White B, Asiedu R, Innan H, Asfaw A, Adebola P, Terauchi R</ContributorList>
+		<Year>2020</Year>
+		<Month>7</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21203/rs.3.rs-46956/v2</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -19752,6 +20143,23 @@
 		<Month>5</Month>
 		<Day>14</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.07.07.191981</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Evidence of selection, adaptation and untapped diversity in Vietnamese rice landraces</Title>
+		<DOI>10.1101/2020.07.07.191981</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>halla, devegaj, higginsj</ContributorIds>
+		<ContributorList>Higgins J, Santos B, Khanh TD, Trung KH, Duong TD, Doai NTP, Khoa NT, Ha DTT, Diep NT, Dung KT, Phi CN, Thuy TT, Tuan NT, Tran HD, Trung NT, Giang HT, Nhung TK, Tran CD, Lang SV, Nghia LT, Giang NV, Xuan TD, Hall A, Dyer S, Ham LH, Caccamo M, Vega JD</ContributorList>
+		<Year>2020</Year>
+		<Month>7</Month>
+		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pgen.1008900</id>
@@ -19888,6 +20296,23 @@
 		<Month>8</Month>
 		<Day>17</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/ecco-jcc/jjaa257</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Organoid-based Models to Study the Role of Host-microbiota Interactions in IBD</Title>
+		<DOI>10.1093/ecco-jcc/jjaa257</DOI>
+		<JournalName>Journal of Crohn's and Colitis</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages>1222-1235</JournalPages>
+		<ContributorIds>korcsmat, poletti</ContributorIds>
+		<ContributorList>Poletti M, Arnauts K, Ferrante M, Korcsmaros T</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.08.03.221242</id>
@@ -20333,6 +20758,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.3389/fmicb.2020.575595</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Regulation of Enteroendocrine Cell Networks by the Major Human Gut Symbiont Bacteroides thetaiotaomicron</Title>
+		<DOI>10.3389/fmicb.2020.575595</DOI>
+		<JournalName>Frontiers in Microbiology</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>goldson, blacksha, blakesle, briona, cardings, defernez, modasiaa, parkera, stentzr, wilemant</ContributorIds>
+		<ContributorList>Modasia A, Parker A, Jones E, Stentz R, Brion A, Goldson A, Defernez M, Wileman T, Ashley Blackshaw L, Carding SR</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>6</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21203/rs.3.rs-56027/v3</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -20364,6 +20806,23 @@
 		<Year>2020</Year>
 		<Month>11</Month>
 		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1073/pnas.2015830117</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genome analyses reveal the hybrid origin of the staple crop white Guinea yam ( Dioscorea rotundata )</Title>
+		<DOI>10.1073/pnas.2015830117</DOI>
+		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
+		<JournalVolume>117</JournalVolume>
+		<JournalPages>31987-31992</JournalPages>
+		<ContributorIds>whiteb</ContributorIds>
+		<ContributorList>Sugihara Y, Darkwa K, Yaegashi H, Natsume S, Shimizu M, Abe A, Hirabuchi A, Ito K, Oikawa K, Tamiru-Oli M, Ohta A, Matsumoto R, Agre P, De Koeyer D, Pachakkil B, Yamanaka S, Muranaka S, Takagi H, White B, Asiedu R, Innan H, Asfaw A, Adebola P, Terauchi R</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day>2</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -20586,6 +21045,23 @@
 		<Month>1</Month>
 		<Day>2</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s43587-020-00019-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Lifelong sex-dependent trajectories of the human gut microbiota</Title>
+		<DOI>10.1038/s43587-020-00019-x</DOI>
+		<JournalName>Nature Aging</JournalName>
+		<JournalVolume>1</JournalVolume>
+		<JournalPages>22-23</JournalPages>
+		<ContributorIds>hildebrf, hildebra, okurt</ContributorIds>
+		<ContributorList>Özkurt E, Hildebrand F</ContributorList>
+		<Year>2021</Year>
+		<Month>1</Month>
+		<Day>14</Day>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/synbio/ysab004</id>
@@ -20962,6 +21438,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.celrep.2021.108807</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Systematic analysis of gut microbiome reveals the role of bacterial folate and homocysteine metabolism in Parkinson’s disease</Title>
+		<DOI>10.1016/j.celrep.2021.108807</DOI>
+		<JournalName>Cell Reports</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages>108807</JournalPages>
+		<ContributorIds>hildebrf, bedart, hildebra</ContributorIds>
+		<ContributorList>Rosario D, Bidkhori G, Lee S, Bedarf J, Hildebrand F, Le Chatelier E, Uhlen M, Ehrlich SD, Proctor G, Wüllner U, Mardinoglu A, Shoaie S</ContributorList>
+		<Year>2021</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.15252/msb.20209923</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -20993,6 +21486,23 @@
 		<Year>2021</Year>
 		<Month>3</Month>
 		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12859-021-04056-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Alvis: a tool for contig and read ALignment VISualisation and chimera detection</Title>
+		<DOI>10.1186/s12859-021-04056-0</DOI>
+		<JournalName>BMC Bioinformatics</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages />
+		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorList>Martin S, Leggett RM</ContributorList>
+		<Year>2021</Year>
+		<Month>3</Month>
+		<Day>16</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -21337,6 +21847,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2021.07.23.453484</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Capturing variation in metagenomic assembly graphs with MetaCortex</Title>
+		<DOI>10.1101/2021.07.23.453484</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
+		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
+		<Year>2021</Year>
+		<Month>7</Month>
+		<Day>25</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.chom.2021.05.008</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -21437,6 +21964,23 @@
 		<Month>8</Month>
 		<Day>31</Day>
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3390/cells10092242</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>CytokineLink: A Cytokine Communication Map to Analyse Immune Responses—Case Studies in Inflammatory Bowel Disease and COVID-19</Title>
+		<DOI>10.3390/cells10092242</DOI>
+		<JournalName>Cells</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages>2242</JournalPages>
+		<ContributorIds>boharb, csabail, ihautefo, korcsmat, lgul, madgwicm, modos, olbeim, thomas, treveila</ContributorIds>
+		<ContributorList>Olbei M, Thomas JP, Hautefort I, Treveil A, Bohar B, Madgwick M, Gul L, Csabai L, Modos D, Korcsmaros T</ContributorList>
+		<Year>2021</Year>
+		<Month>8</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-021-25646-9</id>
@@ -21830,6 +22374,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1073/pnas.2115635118</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The Earth BioGenome Project 2020: Starting the clock</Title>
+		<DOI>10.1073/pnas.2115635118</DOI>
+		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
+		<JournalVolume>119</JournalVolume>
+		<JournalPages />
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Lewin HA, Richards S, Lieberman Aiden E, Allende ML, Archibald JM, Bálint M, Barker KB, Baumgartner B, Belov K, Bertorelle G, Blaxter ML, Cai J, Caperello ND, Carlson K, Castilla-Rubio JC, Chaw S, Chen L, Childers AK, Coddington JA, Conde DA, Corominas M, Crandall KA, Crawford AJ, DiPalma F, Durbin R, Ebenezer TE, Edwards SV, Fedrigo O, Flicek P, Formenti G, Gibbs RA, Gilbert MTP, Goldstein MM, Graves JM, Greely HT, Grigoriev IV, Hackett KJ, Hall N, Haussler D, Helgen KM, Hogg CJ, Isobe S, Jakobsen KS, Janke A, Jarvis ED, Johnson WE, Jones SJM, Karlsson EK, Kersey PJ, Kim J, Kress WJ, Kuraku S, Lawniczak MKN, Leebens-Mack JH, Li X, Lindblad-Toh K, Liu X, Lopez JV, Marques-Bonet T, Mazard S, Mazet JAK, Mazzoni CJ, Myers EW, O’Neill RJ, Paez S, Park H, Robinson GE, Roquet C, Ryder OA, Sabir JSM, Shaffer HB, Shank TM, Sherkow JS, Soltis PS, Tang B, Tedersoo L, Uliano-Silva M, Wang K, Wei X, Wetzer R, Wilson JL, Xu X, Yang H, Yoder AD, Zhang G</ContributorList>
+		<Year>2022</Year>
+		<Month>1</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1073/pnas.2115639118</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -21841,6 +22402,23 @@
 		<JournalPages />
 		<ContributorIds>haertyw, halln, swarbred</ContributorIds>
 		<ContributorList>Lawniczak MKN, Durbin R, Flicek P, Lindblad-Toh K, Wei X, Archibald JM, Baker WJ, Belov K, Blaxter ML, Marques Bonet T, Childers AK, Coddington JA, Crandall KA, Crawford AJ, Davey RP, Di Palma F, Fang Q, Haerty W, Hall N, Hoff KJ, Howe K, Jarvis ED, Johnson WE, Johnson RN, Kersey PJ, Liu X, Lopez JV, Myers EW, Pettersson OV, Phillippy AM, Poelchau MF, Pruitt KD, Rhie A, Castilla-Rubio JC, Sahu SK, Salmon NA, Soltis PS, Swarbreck D, Thibaud-Nissen F, Wang S, Wegrzyn JL, Zhang G, Zhang H, Lewin HA, Richards S</ContributorList>
+		<Year>2022</Year>
+		<Month>1</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1073/pnas.2115636118</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Why sequence all eukaryotes?</Title>
+		<DOI>10.1073/pnas.2115636118</DOI>
+		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
+		<JournalVolume>119</JournalVolume>
+		<JournalPages />
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Blaxter M, Archibald JM, Childers AK, Coddington JA, Crandall KA, Di Palma F, Durbin R, Edwards SV, Graves JAM, Hackett KJ, Hall N, Jarvis ED, Johnson RN, Karlsson EK, Kress WJ, Kuraku S, Lawniczak MKN, Lindblad-Toh K, Lopez JV, Moran NA, Robinson GE, Ryder OA, Shapiro B, Soltis PS, Warnow T, Zhang G, Lewin HA</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
 		<Day>18</Day>
@@ -22340,6 +22918,23 @@
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.cell.2022.06.019</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Flaviviruses hijack the host microbiota to facilitate their transmission</Title>
+		<DOI>10.1016/j.cell.2022.06.019</DOI>
+		<JournalName>Cell</JournalName>
+		<JournalVolume>185</JournalVolume>
+		<JournalPages>2395-2397</JournalPages>
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Gul L, Korcsmaros T, Hall N</ContributorList>
+		<Year>2022</Year>
+		<Month>7</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.12688/f1000research.122312.1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -22456,6 +23051,23 @@
 		<Year>2022</Year>
 		<Month>9</Month>
 		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1099/mgen.0.000871</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single-cell genomics reveals population structures from in vitro evolutionary studies of Salmonella</Title>
+		<DOI>10.1099/mgen.0.000871</DOI>
+		<JournalName>Microbial Genomics</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages />
+		<ContributorIds>bawnm, quince, halln, macaulai</ContributorIds>
+		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Quince C, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
+		<Year>2022</Year>
+		<Month>9</Month>
+		<Day>30</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -22663,6 +23275,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/ene.15671</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Gut microbiota dysbiosis in Parkinson disease: A systematic review and pooled analysis</Title>
+		<DOI>10.1111/ene.15671</DOI>
+		<JournalName>European Journal of Neurology</JournalName>
+		<JournalVolume>30</JournalVolume>
+		<JournalPages>3581-3594</JournalPages>
+		<ContributorIds>hildebrf, hildebra</ContributorIds>
+		<ContributorList>Kleine Bardenhorst S, Cereda E, Severgnini M, Barichella M, Pezzoli G, Keshavarzian A, Desideri A, Pietrucci D, Aho VTE, Scheperjans F, Hildebrand F, Weis S, Egert M, Karch A, Vital M, Rübsamen N</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioinformatics/btad020</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Capturing variation in metagenomic assembly graphs with MetaCortex</Title>
+		<DOI>10.1093/bioinformatics/btad020</DOI>
+		<JournalName>Bioinformatics</JournalName>
+		<JournalVolume>39</JournalVolume>
+		<JournalPages />
+		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
+		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s00248-022-02168-5</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -22712,6 +23358,23 @@
 		<Month>2</Month>
 		<Day>18</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-36633-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Population-level impacts of antibiotic usage on the human gut microbiome</Title>
+		<DOI>10.1038/s41467-023-36633-7</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>raguidea, hildebrf, quince</ContributorIds>
+		<ContributorList>Lee K, Raguideau S, Sirén K, Asnicar F, Cumbo F, Hildebrand F, Segata N, Cha C, Quince C</ContributorList>
+		<Year>2023</Year>
+		<Month>3</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/pbi.14048</id>
