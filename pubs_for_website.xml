@@ -359,6 +359,57 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/241760</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Stability of association between Arabidopsis thaliana and Pseudomonas pathogens over evolutionary time scales</Title>
+		<DOI>10.1101/241760</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd</ContributorIds>
+		<ContributorList>Karasov TL, Almario J, Friedemann C, Ding W, Giolai M, Heavens D, Kersten S, Lundberg DS, Neumann M, Regalado J, Neher RA, Kemen E, Weigel D</ContributorList>
+		<Year>2018</Year>
+		<Month>1</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/665083</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>An ultra high-densityArabidopsis thalianacrossover map that refines the influences of structural variation and epigenetic features</Title>
+		<DOI>10.1101/665083</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd</ContributorIds>
+		<ContributorList>Rowan BA, Heavens D, Feuerborn TR, Tock AJ, Henderson IR, Weigel D</ContributorList>
+		<Year>2019</Year>
+		<Month>6</Month>
+		<Day>10</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/720086</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Spatially resolved transcriptomics reveals plant host responses to pathogens</Title>
+		<DOI>10.1101/720086</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, heavensd, macaulai</ContributorIds>
+		<ContributorList>Giolai M, Verweij W, Lister A, Heavens D, Macaulay I, Clark MD</ContributorList>
+		<Year>2019</Year>
+		<Month>7</Month>
+		<Day>31</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2023.05.19.541459</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -764,6 +815,40 @@
 		<Year>2019</Year>
 		<Month>7</Month>
 		<Day>11</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1109/tcbb.2021.3115023</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Degradome Assisted Plant MicroRNA Prediction under Alternative Annotation Criteria</Title>
+		<DOI>10.1109/tcbb.2021.3115023</DOI>
+		<JournalName>IEEE/ACM Transactions on Computational Biology and Bioinformatics</JournalName>
+		<JournalVolume />
+		<JournalPages>1-1</JournalPages>
+		<ContributorIds>swarbred</ContributorIds>
+		<ContributorList>Alzahrani S, Applegate C, Swarbreck D, Dalmay T, Folkes L, Moulton V</ContributorList>
+		<Year>2021</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-36503-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomics and biochemical analyses reveal a metabolon key to β-L-ODAP biosynthesis in Lathyrus sativus</Title>
+		<DOI>10.1038/s41467-023-36503-2</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
+		<ContributorList>Edwards A, Njaci I, Sarkar A, Jiang Z, Kaithakottil GG, Moore C, Cheema J, Stevenson CEM, Rejzek M, Novák P, Vigouroux M, Vickers M, Wouters RHM, Paajanen P, Steuernagel B, Moore JD, Higgins J, Swarbreck D, Martens S, Kim CY, Weng J, Mundree S, Kilian B, Kumar S, Loose M, Yant L, Macas J, Wang TL, Martin C, Emmrich PMF</ContributorList>
+		<Year>2023</Year>
+		<Month>2</Month>
+		<Day>16</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -5939,6 +6024,23 @@
 		<Month>5</Month>
 		<Day>2</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/nph.13433</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>An introduction to synthetic biology in plant systems</Title>
+		<DOI>10.1111/nph.13433</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>208</JournalVolume>
+		<JournalPages>20-22</JournalPages>
+		<ContributorIds>patronn</ContributorIds>
+		<ContributorList>Carmichael RE, Boyce A, Matthewman C, Patron NJ</ContributorList>
+		<Year>2015</Year>
+		<Month>8</Month>
+		<Day>26</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/b978-0-12-409547-2.14724-9</id>
