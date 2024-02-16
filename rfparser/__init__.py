@@ -540,6 +540,8 @@ def main() -> None:
 
             pub["metadata_ok"] = True
         except Exception as e:
+            if str(e).startswith("Failed too many times to get URL"):
+                raise
             log.error("Skipping publication '%s': %s", doi, e)
 
     if args.xml:
