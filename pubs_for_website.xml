@@ -4239,6 +4239,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.drudis.2020.12.007</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Road to effective data curation for translational research</Title>
+		<DOI>10.1016/j.drudis.2020.12.007</DOI>
+		<JournalName>Drug Discovery Today</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>626-630</JournalPages>
+		<ContributorIds />
+		<ContributorList>Gu W, Hasan S, Rocca-Serra P, Satagopam VP</ContributorList>
+		<Year>2021</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2020.09.22.20199455</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
