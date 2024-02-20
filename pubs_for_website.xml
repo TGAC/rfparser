@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.02.15.580261</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genusGaeumannomyces</Title>
+		<DOI>10.1101/2024.02.15.580261</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, olivera, irishn, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Fedi MO, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan VE, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.02.05.578917</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -356,6 +373,23 @@
 		<Year>2023</Year>
 		<Month>8</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.01.09.574802</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>De novo annotation of the wheat pan-genome reveals complexity and diversity within the hexaploid wheat pan-transcriptome</Title>
+		<DOI>10.1101/2024.01.09.574802</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rusholmr, kaithakg, wrightj, coombes, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, halla</ContributorIds>
+		<ContributorList>White B, Lux T, Rusholme-Pilcher RL, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger S, Stein N, Mayer KF, Pozniak C, Spannagl M, Hall A, 10+ Wheat Genome Project</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>9</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
