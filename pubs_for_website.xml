@@ -113,7 +113,7 @@
 		<JournalName>Genomics</JournalName>
 		<JournalVolume>115</JournalVolume>
 		<JournalPages>110633</JournalPages>
-		<ContributorIds>mehtat, mana, haertyw</ContributorIds>
+		<ContributorIds>mehtat, mana, ciezarek, haertyw</ContributorIds>
 		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
@@ -393,6 +393,57 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1186/s13059-017-1202-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Erratum to: Rapid transcriptional plasticity of duplicated gene clusters enables a clonally reproducing aphid to colonise diverse plant species</Title>
+		<DOI>10.1186/s13059-017-1202-6</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
+		<ContributorList>Mathers TC, Chen Y, Kaithakottil G, Legeai F, Mugford ST, Baa-Puyoulet P, Bretaudeau A, Clavijo B, Colella S, Collin O, Dalmay T, Derrien T, Feng H, Gabaldón T, Jordan A, Julca I, Kettles GJ, Kowitwanich K, Lavenier D, Lenzi P, Lopez-Gomollon S, Loska D, Mapleson D, Maumus F, Moxon S, Price DRG, Sugio A, van Munster M, Uzest M, Waite D, Jander G, Tagu D, Wilson ACC, van Oosterhout C, Swarbreck D, Hogenhout SA</ContributorList>
+		<Year>2017</Year>
+		<Month>4</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/mmi.13684</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>High‐resolution transcriptional analysis of the regulatory influence of cell‐to‐cell signalling reveals novel genes that contribute to Xanthomonas phytopathogenesis</Title>
+		<DOI>10.1111/mmi.13684</DOI>
+		<JournalName>Molecular Microbiology</JournalName>
+		<JournalVolume>104</JournalVolume>
+		<JournalPages>693-694</JournalPages>
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
+		<ContributorList>An S, Febrer M, McCarthy Y, Tang D, Clissold L, Kaithakottil G, Swarbreck D, Tang J, Rogers J, Dow JM, Ryan RP</ContributorList>
+		<Year>2017</Year>
+		<Month>4</Month>
+		<Day>21</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-40984-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Author Correction: Genomics and biochemical analyses reveal a metabolon key to β-L-ODAP biosynthesis in Lathyrus sativus</Title>
+		<DOI>10.1038/s41467-023-40984-6</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
+		<ContributorList>Edwards A, Njaci I, Sarkar A, Jiang Z, Kaithakottil GG, Moore C, Cheema J, Stevenson CEM, Rejzek M, Novák P, Vigouroux M, Vickers M, Wouters RHM, Paajanen P, Steuernagel B, Moore JD, Higgins J, Swarbreck D, Martens S, Kim CY, Weng J, Mundree S, Kilian B, Kumar S, Loose M, Yant L, Macas J, Wang TL, Martin C, Emmrich PMF</ContributorList>
+		<Year>2023</Year>
+		<Month>8</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/241760</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -453,7 +504,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, mana, haertyw</ContributorIds>
+		<ContributorIds>ciezarek, mehtat, mana, haertyw</ContributorIds>
 		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AG, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Palma FD, Turner GF, Genner MJ, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>5</Month>
@@ -2204,7 +2255,7 @@
 		<JournalName>Journal of Heredity</JournalName>
 		<JournalVolume>113</JournalVolume>
 		<JournalPages>500-515</JournalPages>
-		<ContributorIds>ethering, shawr, haertyw</ContributorIds>
+		<ContributorIds>ethering, ciezarek, shawr, haertyw</ContributorIds>
 		<ContributorList>Etherington GJ, Ciezarek A, Shaw R, Michaux J, Croose E, Haerty W, Di Palma F</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
@@ -3585,7 +3636,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, shawr, haertyw</ContributorIds>
+		<ContributorIds>ethering, ciezarek, shawr, haertyw</ContributorIds>
 		<ContributorList>Etherington GJ, Ciezarek A, Shaw R, Michaux J, Croose E, Haerty W, Di Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -20545,7 +20596,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, haertyw, ciezarek, dipalmaf</ContributorIds>
+		<ContributorIds>ciezarek, ethering, haertyw, dipalmaf</ContributorIds>
 		<ContributorList>Blackwell T, Ford AG, Ciezarek AG, Bradbeer SJ, Juarez CAG, Ngatunga BP, Shechonge AH, Tamatamah R, Etherington G, Haerty W, Di Palma F, Turner GF, Genner MJ</ContributorList>
 		<Year>2020</Year>
 		<Month>8</Month>
@@ -20750,7 +20801,7 @@
 		<JournalName>Molecular Ecology</JournalName>
 		<JournalVolume>30</JournalVolume>
 		<JournalPages>895-911</JournalPages>
-		<ContributorIds>ethering, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>ciezarek, ethering, haertyw</ContributorIds>
 		<ContributorList>Blackwell T, Ford AGP, Ciezarek AG, Bradbeer SJ, Gracida Juarez CA, Smith AM, Ngatunga BP, Shechonge A, Tamatamah R, Etherington G, Haerty W, Di Palma F, Turner GF, Genner MJ</ContributorList>
 		<Year>2020</Year>
 		<Month>10</Month>
@@ -21583,7 +21634,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, haertyw, ciezarek, ethering</ContributorIds>
+		<ContributorIds>ciezarek, mehtat, haertyw, ethering</ContributorIds>
 		<ContributorList>Ciezarek A, Ford A, Etherington G, Kasozi N, Malinsky M, Mehta T, Penso-Dolfin L, Ngatunga B, Shechonge A, Tamatamah R, Haerty W, Di Palma F, Genner M, Turner G</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -22689,7 +22740,7 @@
 		<JournalName>Aquaculture</JournalName>
 		<JournalVolume>548</JournalVolume>
 		<JournalPages>737637</JournalPages>
-		<ContributorIds>ethering, mehtat, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>ciezarek, ethering, mehtat, haertyw</ContributorIds>
 		<ContributorList>Ciezarek A, Ford AG, Etherington GJ, Kasozi N, Malinsky M, Mehta TK, Penso-Dolfin L, Ngatunga BP, Shechonge A, Tamatamah R, Haerty W, Di Palma F, Genner MJ, Turner GF</ContributorList>
 		<Year>2022</Year>
 		<Month>2</Month>
@@ -22961,7 +23012,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, nashw, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, ciezarek, forreste, kaithakg, mehtat</ContributorIds>
+		<ContributorIds>ethering, nashw, ciezarek, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, kaithakg, mehtat</ContributorIds>
 		<ContributorList>Etherington G, Nash W, Ciezarek A, Mehta T, Barria A, Peñaloza C, Khan M, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil G, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston R, Benzie J, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -23403,7 +23454,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, nashw, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, ciezarek, forreste</ContributorIds>
+		<ContributorIds>ethering, nashw, ciezarek, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste</ContributorIds>
 		<ContributorList>Etherington GJ, Nash W, Ciezarek A, Mehta TK, Barria A, Peñaloza C, Khan MGQ, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil GG, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston RD, Benzie JAH, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -23505,7 +23556,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, mana, haertyw, ciezarek</ContributorIds>
+		<ContributorIds>mehtat, mana, ciezarek, haertyw</ContributorIds>
 		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
 		<Year>2023</Year>
 		<Month>2</Month>
