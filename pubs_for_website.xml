@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2023.11.03.565500</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The feature landscape of visual cortex</Title>
+		<DOI>10.1101/2023.11.03.565500</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>pil24hef</ContributorIds>
+		<ContributorList>Tong R, da Silva R, Lin D, Ghosh A, Wilsenach J, Cianfarano E, Bashivan P, Richards B, Trenholm S</ContributorList>
+		<Year>2023</Year>
+		<Month>11</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.02.15.580261</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -663,6 +680,23 @@
 		<Month>10</Month>
 		<Day>19</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.10.04.560829</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Introgressions lead to reference bias in wheat RNA-Seq analysis</Title>
+		<DOI>10.1101/2023.10.04.560829</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>coombes, halla</ContributorIds>
+		<ContributorList>Coombes B, Lux T, Akhunov E, Hall A</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>6</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.09.28.559913</id>
@@ -1379,23 +1413,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1111/pbi.13859</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Whole‐genome sequencing uncovers the structural and transcriptomic landscape of hexaploid wheat/Ambylopyrum muticum introgression lines</Title>
-		<DOI>10.1111/pbi.13859</DOI>
-		<JournalName>Plant Biotechnology Journal</JournalName>
-		<JournalVolume>21</JournalVolume>
-		<JournalPages>482-496</JournalPages>
-		<ContributorIds>coombes, rusholmr, halla</ContributorIds>
-		<ContributorList>Coombes B, Fellers JP, Grewal S, Rusholme‐Pilcher R, Hubbart‐Edwards S, Yang C, Joynson R, King IP, King J, Hall A</ContributorList>
-		<Year>2023</Year>
-		<Month>1</Month>
-		<Day>24</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1093/jxb/erac096</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -2091,6 +2108,23 @@
 		<Month>10</Month>
 		<Day>26</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/pbi.13859</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Whole‐genome sequencing uncovers the structural and transcriptomic landscape of hexaploid wheat/Ambylopyrum muticum introgression lines</Title>
+		<DOI>10.1111/pbi.13859</DOI>
+		<JournalName>Plant Biotechnology Journal</JournalName>
+		<JournalVolume>21</JournalVolume>
+		<JournalPages>482-496</JournalPages>
+		<ContributorIds>coombes, rusholmr, halla</ContributorIds>
+		<ContributorList>Coombes B, Fellers JP, Grewal S, Rusholme‐Pilcher R, Hubbart‐Edwards S, Yang C, Joynson R, King IP, King J, Hall A</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day>24</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.jbc.2021.100533</id>
