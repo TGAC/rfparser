@@ -121,6 +121,125 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1371/journal.pone.0289407</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Exploring Endotypes in Chronic Rhinosinusitis (ExpRess): Protocol for a cohort study</Title>
+		<DOI>10.1371/journal.pone.0289407</DOI>
+		<JournalName>PLOS ONE</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>e0289407</JournalPages>
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Gokani SA, Jefferson M, Gavrilovic J, Clark A, Hildebrand F, Wileman T, Hopkins C, Philpott C</ContributorList>
+		<Year>2023</Year>
+		<Month>8</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1755-0998.13847</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A pile of pipelines: An overview of the bioinformatics software for metabarcoding data analyses</Title>
+		<DOI>10.1111/1755-0998.13847</DOI>
+		<JournalName>Molecular Ecology Resources</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Hakimzadeh A, Abdala Asbun A, Albanese D, Bernard M, Buchner D, Callahan B, Caporaso JG, Curd E, Djemiel C, Brandström Durling M, Elbrecht V, Gold Z, Gweon HS, Hajibabaei M, Hildebrand F, Mikryukov V, Normandeau E, Özkurt E, M. Palmer J, Pascal G, Porter TM, Straub D, Vasar M, Větrovský T, Zafeiropoulos H, Anslan S</ContributorList>
+		<Year>2023</Year>
+		<Month>8</Month>
+		<Day>7</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41564-023-01465-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Life history strategies of soil bacterial communities across global terrestrial biomes</Title>
+		<DOI>10.1038/s41564-023-01465-0</DOI>
+		<JournalName>Nature Microbiology</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages>2093-2102</JournalPages>
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Piton G, Allison SD, Bahram M, Hildebrand F, Martiny JBH, Treseder KK, Martiny AC</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.xcrm.2023.101341</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Potential therapeutic implications of histidine catabolism by the gut microbiota in NAFLD patients with morbid obesity</Title>
+		<DOI>10.1016/j.xcrm.2023.101341</DOI>
+		<JournalName>Cell Reports Medicine</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages>101341</JournalPages>
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Quesada-Vázquez S, Castells-Nobau A, Latorre J, Oliveras-Cañellas N, Puig-Parnau I, Tejera N, Tobajas Y, Baudin J, Hildebrand F, Beraza N, Burcelin R, Martinez-Gili L, Chilloux J, Dumas M, Federici M, Hoyles L, Caimari A, del Bas JM, Escoté X, Fernández-Real J, Mayneris-Perxachs J</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1751-7915.14396</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Community‐scale models of microbiomes: Articulating metabolic modelling and metagenome sequencing</Title>
+		<DOI>10.1111/1751-7915.14396</DOI>
+		<JournalName>Microbial Biotechnology</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Cerk K, Ugalde‐Salas P, Nedjad CG, Lecomte M, Muller C, Sherman DJ, Hildebrand F, Labarthe S, Frioux C</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-44172-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Pervasive associations between dark septate endophytic fungi with tree root and soil microbiomes across Europe</Title>
+		<DOI>10.1038/s41467-023-44172-4</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Netherway T, Bengtsson J, Buegger F, Fritscher J, Oja J, Pritsch K, Hildebrand F, Krab EJ, Bahram M</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s13659-023-00426-8</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Precision enzyme discovery through targeted mining of metagenomic data</Title>
+		<DOI>10.1007/s13659-023-00426-8</DOI>
+		<JournalName>Natural Products and Bioprospecting</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Ariaeenejad S, Gharechahi J, Foroozandeh Shahraki M, Fallah Atanaki F, Han J, Ding X, Hildebrand F, Bahram M, Kavousi K, Hosseini Salekdeh G</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>11</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.ygeno.2023.110633</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -580,6 +699,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1128/msystems.00745-23</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A single dietary factor, daily consumption of a fermented beverage, can modulate the gut bacteria and fecal metabolites within the same ethnic community</Title>
+		<DOI>10.1128/msystems.00745-23</DOI>
+		<JournalName>mSystems</JournalName>
+		<JournalVolume>8</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Das S, Özkurt E, Joishy TK, Mukherjee AK, Hildebrand F, Khan MR</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/jxb/eraa289</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -784,6 +920,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2023.08.21.554127</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Improved taxonomic annotation of Archaea communities using LotuS2, the Genome Taxonomy Database and RNAseq data</Title>
+		<DOI>10.1101/2023.08.21.554127</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Grant A, Aleidan A, Davies CS, Udochi SC, Fritscher J, Bahram M, Hildebrand F</ContributorList>
+		<Year>2023</Year>
+		<Month>8</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2023.07.17.549299</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -866,6 +1019,23 @@
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.chom.2023.05.024</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Enterosignatures define common bacterial guilds in the human gut microbiome</Title>
+		<DOI>10.1016/j.chom.2023.05.024</DOI>
+		<JournalName>Cell Host &amp;amp; Microbe</JournalName>
+		<JournalVolume>31</JournalVolume>
+		<JournalPages>1111-1125.e6</JournalPages>
+		<ContributorIds>quince, hildebrf</ContributorIds>
+		<ContributorList>Frioux C, Ansorge R, Özkurt E, Ghassemi Nedjad C, Fritscher J, Quince C, Waszak SM, Hildebrand F</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
