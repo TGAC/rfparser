@@ -750,23 +750,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1371/journal.pgen.1010913</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Identification of a non-canonical ciliate nuclear genetic code where UAA and UAG code for different amino acids</Title>
-		<DOI>10.1371/journal.pgen.1010913</DOI>
-		<JournalName>PLOS Genetics</JournalName>
-		<JournalVolume>19</JournalVolume>
-		<JournalPages>e1010913</JournalPages>
-		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
-		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
-		<Year>2023</Year>
-		<Month>10</Month>
-		<Day>5</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.cell.2023.10.015</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -833,6 +816,23 @@
 		<Month>10</Month>
 		<Day>6</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pgen.1010913</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Identification of a non-canonical ciliate nuclear genetic code where UAA and UAG code for different amino acids</Title>
+		<DOI>10.1371/journal.pgen.1010913</DOI>
+		<JournalName>PLOS Genetics</JournalName>
+		<JournalVolume>19</JournalVolume>
+		<JournalPages>e1010913</JournalPages>
+		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
+		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.09.28.559913</id>
@@ -10565,7 +10565,7 @@
 		<Year>2009</Year>
 		<Month>8</Month>
 		<Day>9</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1139/G09-073</id>
