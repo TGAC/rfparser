@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.12688/f1000research.109080.2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Recommendations for the formatting of Variant Call Format (VCF) files to make plant genotyping data FAIR</Title>
+		<DOI>10.12688/f1000research.109080.2</DOI>
+		<JournalName>F1000Research</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>231</JournalPages>
+		<ContributorIds />
+		<ContributorList>Beier S, Fiebig A, Pommier C, Liyanage I, Lange M, Kersey PJ, Weise S, Finkers R, Koylass B, Cezard T, Courtot M, Contreras-Moreira B, Naamati G, Dyer S, Scholz U</ContributorList>
+		<Year>2022</Year>
+		<Month>5</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/978-3-031-13276-6_8</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Plant Science Data Integration, from Building Community Standards to Defining a Consistent Data Lifecycle</Title>
+		<DOI>10.1007/978-3-031-13276-6_8</DOI>
+		<BookTitle>Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development</BookTitle>
+		<JournalVolume />
+		<JournalPages>149-160</JournalPages>
+		<ContributorIds />
+		<ContributorList>Pommier C, Coppens F, Ćwiek-Kupczyńska H, Faria D, Beier S, Miguel C, Michotey C, D’Anna F, Owen S, Gruden K</ContributorList>
+		<Year>2022</Year>
+		<Month>10</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2023.11.03.565500</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
