@@ -24,6 +24,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Plant Science Data Integration, from Building Community Standards to Defining a Consistent Data Lifecycle</Title>
 		<DOI>10.1007/978-3-031-13276-6_8</DOI>
+		<JournalName />
 		<BookTitle>Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development</BookTitle>
 		<JournalVolume />
 		<JournalPages>149-160</JournalPages>
@@ -143,6 +144,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Structural and Functional Annotation of the Wheat Genome</Title>
 		<DOI>10.1007/978-3-031-38294-9_4</DOI>
+		<JournalName />
 		<BookTitle>Compendium of Plant Genomes</BookTitle>
 		<SeriesTitle>The Wheat Genome</SeriesTitle>
 		<JournalVolume />
@@ -2626,6 +2628,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>CerealsDB: A Whistle-Stop Tour of an Open Access SNP Resource</Title>
 		<DOI>10.1007/978-1-0716-2067-0_6</DOI>
+		<JournalName />
 		<BookTitle>Plant Bioinformatics</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -3069,6 +3072,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Cas9-Mediated Targeted Mutagenesis in Plants</Title>
 		<DOI>10.1007/978-1-0716-1791-5_1</DOI>
+		<JournalName />
 		<BookTitle>Plant Synthetic Biology</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -3121,6 +3125,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>High Spatial Resolution Luciferase Imaging of the Arabidopsis thaliana Circadian Clock</Title>
 		<DOI>10.1007/978-1-0716-1912-4_4</DOI>
+		<JournalName />
 		<BookTitle>Plant Circadian Networks</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -3326,6 +3331,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Mitochondria and the Tumour Microenvironment in Blood Cancer</Title>
 		<DOI>10.1007/978-3-030-73119-9_10</DOI>
+		<JournalName />
 		<BookTitle>Tumor Microenvironment</BookTitle>
 		<SeriesTitle>Advances in Experimental Medicine and Biology</SeriesTitle>
 		<JournalVolume />
@@ -3616,6 +3622,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>The ties that bind: collective experimentation and participatory design as paradigms for responsible innovation</Title>
 		<DOI>10.4337/9781784718862.00019</DOI>
+		<JournalName />
 		<BookTitle>International Handbook on Responsible Innovation</BookTitle>
 		<JournalVolume />
 		<JournalPages />
@@ -5639,6 +5646,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Understanding DNA Methylation Patterns in Wheat</Title>
 		<DOI>10.1007/978-1-0716-0179-2_3</DOI>
+		<JournalName />
 		<BookTitle>Plant Epigenetics and Epigenomics</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -6286,6 +6294,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>SpikeletFCN: Counting Spikelets from Infield Wheat Crop Images Using Fully Convolutional Networks</Title>
 		<DOI>10.1007/978-3-030-20912-4_1</DOI>
+		<JournalName />
 		<BookTitle>Artificial Intelligence and Soft Computing</BookTitle>
 		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
 		<JournalVolume />
@@ -6440,6 +6449,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Engineering Tobacco for Plant Natural Product Production</Title>
 		<DOI>10.1016/b978-0-12-409547-2.14724-9</DOI>
+		<JournalName />
 		<BookTitle>Comprehensive Natural Products III</BookTitle>
 		<JournalVolume />
 		<JournalPages>244-262</JournalPages>
@@ -7596,6 +7606,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Population Structure of Red Clover Ecotypes Collected from Europe and Asia</Title>
 		<DOI>10.1007/978-3-319-89578-9_4</DOI>
+		<JournalName />
 		<BookTitle>Breeding Grasses and Protein Crops in the Era of Genomics</BookTitle>
 		<JournalVolume />
 		<JournalPages>20-26</JournalPages>
@@ -7630,6 +7641,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Field Pathogenomics: An Advanced Tool for Wheat Rust Surveillance</Title>
 		<DOI>10.1007/978-1-4939-7249-4_2</DOI>
+		<JournalName />
 		<BookTitle>Wheat Rust Diseases</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -7699,6 +7711,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Automatic Counting of Wheat Spikes from Wheat Growth Images</Title>
 		<DOI>10.5220/0006580403460355</DOI>
+		<JournalName />
 		<BookTitle>Proceedings of the 7th International Conference on Pattern Recognition Applications and Methods</BookTitle>
 		<JournalVolume />
 		<JournalPages />
@@ -8515,6 +8528,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Isolating Antifungals from Fungus-Growing Ant Symbionts Using a Genome-Guided Chemistry Approach</Title>
 		<DOI>10.1016/b978-0-12-404634-4.00003-6</DOI>
+		<JournalName />
 		<BookTitle>Natural Product Biosynthesis by Microorganisms and Plants, Part C</BookTitle>
 		<SeriesTitle>Methods in Enzymology</SeriesTitle>
 		<JournalVolume />
@@ -9383,6 +9397,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Next Generation Sequencing Enabled Genetics in Hexaploid Wheat</Title>
 		<DOI>10.1007/978-4-431-55675-6_22</DOI>
+		<JournalName />
 		<BookTitle>Advances in Wheat Genetics: From Genome to Field</BookTitle>
 		<JournalVolume />
 		<JournalPages>201-209</JournalPages>
@@ -9468,6 +9483,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Synthetic Biology and Gene Cloning</Title>
 		<DOI>10.1016/b978-0-12-394807-6.00132-5</DOI>
+		<JournalName />
 		<BookTitle>Encyclopedia of Applied Plant Sciences</BookTitle>
 		<JournalVolume />
 		<JournalPages>112-117</JournalPages>
@@ -10250,6 +10266,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>The Wheat Black Jack: Advances Towards Sequencing the 21 Chromosomes of Bread Wheat</Title>
 		<DOI>10.1007/978-94-007-7572-5_17</DOI>
+		<JournalName />
 		<BookTitle>Genomics of Plant Genetic Resources</BookTitle>
 		<JournalVolume />
 		<JournalPages>405-438</JournalPages>
@@ -10624,6 +10641,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Genomics of Thermophilic &lt;i&gt;Campylobacter&lt;/i&gt; Species</Title>
 		<DOI>10.1159/000235765</DOI>
+		<JournalName />
 		<BookTitle>Microbial Pathogenomics</BookTitle>
 		<SeriesTitle>Genome Dynamics</SeriesTitle>
 		<JournalVolume />
@@ -11424,6 +11442,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Single Nucleotide Polymorphism (SNP) Panels for Rapid Positional Cloning in Zebrafish</Title>
 		<DOI>10.1016/B978-0-12-374814-0.00013-6</DOI>
+		<JournalName />
 		<BookTitle>The Zebrafish: Genetics, Genomics and Informatics</BookTitle>
 		<SeriesTitle>Methods in Cell Biology</SeriesTitle>
 		<JournalVolume />
@@ -11561,6 +11580,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>What Determines the Efficiency of N2-Fixing Rhizobium-Legume Symbioses?</Title>
 		<DOI>10.1016/B978-0-12-398264-3.00005-X</DOI>
+		<JournalName />
 		<BookTitle>Advances in Microbial Physiology Volume 60</BookTitle>
 		<SeriesTitle>Advances in Microbial Physiology</SeriesTitle>
 		<JournalVolume />
@@ -12667,6 +12687,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Defining Systems Biology: A Brief Overview of the Term and Field</Title>
 		<DOI>10.1007/978-1-62703-450-0_1</DOI>
+		<JournalName />
 		<BookTitle>In Silico Systems Biology</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -14096,6 +14117,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>A Novel Multi-objectivisation Approach for Optimising the Protein Inverse Folding Problem</Title>
 		<DOI>10.1007/978-3-319-16549-3_2</DOI>
+		<JournalName />
 		<BookTitle>Applications of Evolutionary Computation</BookTitle>
 		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
 		<JournalVolume />
@@ -18364,6 +18386,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>SignaLink: Multilayered Regulatory Networks</Title>
 		<DOI>10.1007/978-1-4939-8618-7_3</DOI>
+		<JournalName />
 		<BookTitle>Computational Cell Biology</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -18790,6 +18813,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Network Biology Approaches to Identify Molecular and Systems-Level Differences Between Salmonella Pathovars</Title>
 		<DOI>10.1007/978-1-4939-9000-9_21</DOI>
+		<JournalName />
 		<BookTitle>Foodborne Bacterial Pathogens</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -20916,6 +20940,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>Phytobricks: Manual and Automated Assembly of Constructs for Engineering Plants</Title>
 		<DOI>10.1007/978-1-0716-0908-8_11</DOI>
+		<JournalName />
 		<BookTitle>DNA Cloning and Assembly</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
@@ -22107,6 +22132,7 @@
 		<CategoryID>2</CategoryID>
 		<Title>RNA-Seq Data Analysis in Galaxy</Title>
 		<DOI>10.1007/978-1-0716-1307-8_20</DOI>
+		<JournalName />
 		<BookTitle>RNA Bioinformatics</BookTitle>
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
