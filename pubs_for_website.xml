@@ -563,6 +563,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/aob/mcad192</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Characterizing subgenome recombination and chromosomal imbalances in banana varietal lineages</Title>
+		<DOI>10.1093/aob/mcad192</DOI>
+		<JournalName>Annals of Botany</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>olaveac, devegaj</ContributorIds>
+		<ContributorList>Higgins J, Osorio-Guarín JA, Olave-Achury C, Toloza-Moreno DL, Enriquez A, Di Palma F, Yockteng R, De Vega JJ</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s13059-017-1202-6</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -679,6 +696,23 @@
 		<Year>2023</Year>
 		<Month>5</Month>
 		<Day>22</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.12.30.573698</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genome-wide characterisation of pathogenicity-related proteins inMycena citricolor,the causal agent of the American Leaf Spot in coffee</Title>
+		<DOI>10.1101/2023.12.30.573698</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>devegaj</ContributorIds>
+		<ContributorList>Larke-Mejía NL, Arciniegas N, Di Palma F, Angel C CA, De Vega JJ</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>30</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -1104,6 +1138,23 @@
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.08.04.236885</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Differential expression of starch and sucrose metabolic genes linked to varying biomass yield in Miscanthus hybrids</Title>
+		<DOI>10.1101/2020.08.04.236885</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>devegaj, peeln</ContributorIds>
+		<ContributorList>De Vega JJ, Peel N, Purdy SJ, Hawkins S, Donnison I, Dyer S, Farrar K</ContributorList>
+		<Year>2020</Year>
+		<Month>8</Month>
+		<Day>5</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -23182,7 +23233,7 @@
 		<JournalName>Trends in Genetics</JournalName>
 		<JournalVolume>38</JournalVolume>
 		<JournalPages>831-843</JournalPages>
-		<ContributorIds>ogbeide, macaulai, mincarel</ContributorIds>
+		<ContributorIds>macaulai, mincarel, ogbeide</ContributorIds>
 		<ContributorList>Ogbeide S, Giannese F, Mincarelli L, Macaulay IC</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
