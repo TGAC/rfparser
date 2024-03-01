@@ -343,6 +343,7 @@ def write_xml_output(
                 ElementTree.SubElement(publication_el, "JournalName").text = pub["container-title"]
             else:
                 # category_id == "2", i.e. a book chapter
+                ElementTree.SubElement(publication_el, "JournalName").text = ""
                 ElementTree.SubElement(publication_el, "BookTitle").text = pub["container-title"]
                 if "series-title" in pub:
                     ElementTree.SubElement(publication_el, "SeriesTitle").text = pub["series-title"]
