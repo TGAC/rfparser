@@ -1,6 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1007/978-3-030-22999-3_54</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Introducing the Theory of Probabilistic Hierarchical Learning for Classification</Title>
+		<DOI>10.1007/978-3-030-22999-3_54</DOI>
+		<JournalName />
+		<BookTitle>Advances and Trends in Artificial Intelligence. From Theory to Practice</BookTitle>
+		<SeriesTitle>Lecture Notes in Computer Science</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>628-641</JournalPages>
+		<ContributorIds />
+		<ContributorList>Ursani Z, Dicks J</ContributorList>
+		<Year>2019</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.12688/f1000research.109080.2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
