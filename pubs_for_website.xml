@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.17138/tgft(11)11-21</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Nutritional and biomass evaluation of a Megathyrsus maximus collection in a dry tropical climate in Colombia</Title>
+		<DOI>10.17138/tgft(11)11-21</DOI>
+		<JournalName>Tropical Grasslands-Forrajes Tropicales</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages>11-21</JournalPages>
+		<ContributorIds />
+		<ContributorList>Carvajal-Tapia JI, Barahona-Rosales R, Castro-Montoya J, Arango J, Vivas-Quila NJ</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17138/tgft(10)237-248</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The impact of COVID-19 on the sustainable intensification of forage-based beef and dairy value chains in Colombia: a blessing and a curse</Title>
+		<DOI>10.17138/tgft(10)237-248</DOI>
+		<JournalName>Tropical Grasslands-Forrajes Tropicales</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages>237-248</JournalPages>
+		<ContributorIds />
+		<ContributorList>Burkart S, Díaz M, Enciso K, Charry A, Triana N, Mena M, Urrea-Benítez JL, Gallo Caro I, Van der Hoek R</ContributorList>
+		<Year>2022</Year>
+		<Month>9</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s00374-022-01635-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Nitrogen acquisition by two U. humidicola genotypes differing in biological nitrification inhibition (BNI) capacity and associated microorganisms</Title>
+		<DOI>10.1007/s00374-022-01635-y</DOI>
+		<JournalName>Biology and Fertility of Soils</JournalName>
+		<JournalVolume>58</JournalVolume>
+		<JournalPages>355-364</JournalPages>
+		<ContributorIds />
+		<ContributorList>Teutscherová N, Vázquez E, Lehndorff E, Pulleman M, Arango J</ContributorList>
+		<Year>2022</Year>
+		<Month>3</Month>
+		<Day>17</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/978-3-030-22999-3_54</id>
 		<Organisation>EI</Organisation>
 		<Category>Book chapter</Category>
