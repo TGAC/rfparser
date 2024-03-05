@@ -1,6 +1,142 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.15252/embj.2023115008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>“Be sustainable”: EOSC‐Life recommendations for implementation of FAIR principles in life science data handling</Title>
+		<DOI>10.15252/embj.2023115008</DOI>
+		<JournalName>The EMBO Journal</JournalName>
+		<JournalVolume>42</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>David R, Rybina A, Burel J, Heriche J, Audergon P, Boiten J, Coppens F, Crockett S, Exter K, Fahrner S, Fratelli M, Goble C, Gormanns P, Grantner T, Grüning B, Gurwitz KT, Hancock JM, Harmse H, Holub P, Juty N, Karnbach G, Karoune E, Keppler A, Klemeier J, Lancelotti C, Legras J, Lister AL, Longo DL, Ludwig R, Madon B, Massimi M, Matser V, Matteoni R, Mayrhofer MT, Ohmann C, Panagiotopoulou M, Parkinson H, Perseil I, Pfander C, Pieruschka R, Raess M, Rauber A, Richard AS, Romano P, Rosato A, Sánchez‐Pla A, Sansone S, Sarkans U, Serrano‐Solano B, Tang J, Tanoli Z, Tedds J, Wagener H, Weise M, Westerhoff HV, Wittner R, Ewbank J, Blomberg N, Gribbon P</ContributorList>
+		<Year>2023</Year>
+		<Month>11</Month>
+		<Day>15</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41597-023-02166-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The FAIR Cookbook - the essential resource for and by FAIR doers</Title>
+		<DOI>10.1038/s41597-023-02166-3</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Rocca-Serra P, Gu W, Ioannidis V, Abbassi-Daloii T, Capella-Gutierrez S, Chandramouliswaran I, Splendiani A, Burdett T, Giessmann RT, Henderson D, Batista D, Emam I, Gadiya Y, Giovanni L, Willighagen E, Evelo C, Gray AJG, Gribbon P, Juty N, Welter D, Quast K, Peeters P, Plasterer T, Wood C, van der Horst E, Reilly D, van Vlijmen H, Scollen S, Lister A, Thurston M, Granell R, Backianathan G, Baier S, Thomsen AC, Cook M, Courtot M, d’Arcy M, Dauth K, del Piico EM, Garcia L, Goldmann U, Grouès V, Clarke DJB, Lefloch E, Liyanage I, Papadopoulos P, Pommier C, Reynares E, Ronzano F, Delfin-Rossaro A, Sagatopam V, Sedani A, Sedlyarov V, Shilova L, Singh S, Strubel J, van Bochove K, Warnes Z, Woollard P, Xu F, Zaliani A, Sansone S, the FAIR Cookbook Contributors</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/function/zqac071</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Lipidomics Moves to Center Stage of Biomedicine</Title>
+		<DOI>10.1093/function/zqac071</DOI>
+		<JournalName>Function</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>B O'Donnell V</ContributorList>
+		<Year>2022</Year>
+		<Month>12</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkad896</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>LIPID MAPS: update to databases and tools for the lipidomics community</Title>
+		<DOI>10.1093/nar/gkad896</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>52</JournalVolume>
+		<JournalPages>D1677-D1682</JournalPages>
+		<ContributorIds />
+		<ContributorList>Conroy MJ, Andrews RM, Andrews S, Cockayne L, Dennis EA, Fahy E, Gaud C, Griffiths WJ, Jukes G, Kolchin M, Mendivelso K, Lopez-Clavijo AF, Ready C, Subramaniam S, O’Donnell VB</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13326-023-00286-8</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Features of a FAIR vocabulary</Title>
+		<DOI>10.1186/s13326-023-00286-8</DOI>
+		<JournalName>Journal of Biomedical Semantics</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Xu F, Juty N, Goble C, Jupp S, Parkinson H, Courtot M</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41597-023-02167-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>FAIR in action - a flexible framework to guide FAIRification</Title>
+		<DOI>10.1038/s41597-023-02167-2</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Welter D, Juty N, Rocca-Serra P, Xu F, Henderson D, Gu W, Strubel J, Giessmann RT, Emam I, Gadiya Y, Abbassi-Daloii T, Alharbi E, Gray AJG, Courtot M, Gribbon P, Ioannidis V, Reilly DS, Lynch N, Boiten J, Satagopam V, Goble C, Sansone S, Burdett T</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pcbi.1011120</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Bioschemas training profiles: A set of specifications for standardizing training information to facilitate the discovery of training programs and resources</Title>
+		<DOI>10.1371/journal.pcbi.1011120</DOI>
+		<JournalName>PLOS Computational Biology</JournalName>
+		<JournalVolume>19</JournalVolume>
+		<JournalPages>e1011120</JournalPages>
+		<ContributorIds />
+		<ContributorList>Castro LJ, Palagi PM, Beard N, Attwood TK, Brazas MD</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.09.04.556195</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Telomere-to-telomereSchizosaccharomyces japonicusgenome assembly reveals hitherto unknown genome features</Title>
+		<DOI>10.1101/2023.09.04.556195</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering, nieduszc</ContributorIds>
+		<ContributorList>Etherington GJ, Wu P, Oliferenko S, Uhlmann F, Nieduszynski CA</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>6</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.17138/tgft(11)11-21</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1160,6 +1296,23 @@
 		<Month>6</Month>
 		<Day>27</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.06.28.546652</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Contextualising samples: Supporting reference genomes of European biodiversity through sample and associated metadata collection</Title>
+		<DOI>10.1101/2023.06.28.546652</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>mctaggar</ContributorIds>
+		<ContributorList>Böhne A, Fernández R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Pettersson OV, Struck TH</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>30</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.chom.2023.05.024</id>
