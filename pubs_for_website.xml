@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.03.01.582753</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Low protein diet protects liver function upon Salmonella infection by metabolic reprogramming of macrophages</Title>
+		<DOI>10.1101/2024.03.01.582753</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>wojtowic, uttingc, lany, macaulai</ContributorIds>
+		<ContributorList>Wojtowicz EE, Hampton K, Moreno-Gonzalez M, Utting CL, Lan Y, Ruiz P, Beasy G, Bone C, Hellmich C, Maynard R, Acton L, Telatin A, Kingsley RA, Macaulay IC, Rushworth SA, Beraza N</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1126/sciadv.adl0515</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single-cell nanobiopsy enables multigenerational longitudinal transcriptomics of cancer cells</Title>
+		<DOI>10.1126/sciadv.adl0515</DOI>
+		<JournalName>Science Advances</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Marcuccio F, Chau CC, Tanner G, Elpidorou M, Finetti MA, Ajaib S, Taylor M, Lascelles C, Carr I, Macaulay I, Stead LF, Actis P</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.15252/embj.2023115008</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
