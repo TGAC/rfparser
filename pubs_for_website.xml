@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1002/yea.3912</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Telomere‐to‐telomere Schizosaccharomyces japonicus genome assembly reveals hitherto unknown genome features</Title>
+		<DOI>10.1002/yea.3912</DOI>
+		<JournalName>Yeast</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering, nieduszc</ContributorIds>
+		<ContributorList>Etherington GJ, Wu P, Oliferenko S, Uhlmann F, Nieduszynski CA</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day>7</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.03.01.582753</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
