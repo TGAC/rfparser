@@ -8,13 +8,13 @@
 		<Title>Telomere‐to‐telomere Schizosaccharomyces japonicus genome assembly reveals hitherto unknown genome features</Title>
 		<DOI>10.1002/yea.3912</DOI>
 		<JournalName>Yeast</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>41</JournalVolume>
+		<JournalPages>73-86</JournalPages>
 		<ContributorIds>ethering, nieduszc</ContributorIds>
 		<ContributorList>Etherington GJ, Wu P, Oliferenko S, Uhlmann F, Nieduszynski CA</ContributorList>
 		<Year>2024</Year>
 		<Month>3</Month>
-		<Day>7</Day>
+		<Day />
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -308,6 +308,23 @@
 		<Month>11</Month>
 		<Day>5</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7554/elife.66877</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Vision, challenges and opportunities for a Plant Cell Atlas</Title>
+		<DOI>10.7554/elife.66877</DOI>
+		<JournalName>eLife</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>macaulai</ContributorIds>
+		<ContributorList>Plant Cell Atlas Consortium, Ahmed J, Alaba O, Ameen G, Arora V, Arteaga-Vazquez MA, Arun A, Bailey-Serres J, Bartley LE, Bassel GW, Bergmann DC, Bertolini E, Bhati KK, Blanco-Touriñán N, Briggs SP, Brumos J, Buer B, Burlaocot A, Cervantes-Pérez SA, Chen S, Contreras-Moreira B, CORPAS FJ, Cruz-Ramirez A, Cuevas-Velazquez CL, Cuperus JT, David LI, de Folter S, Denolf PH, Ding P, Dwyer WP, Evans MM, George N, Handakumbura PP, Harrison MJ, Haswell ES, Herath V, Jiao Y, Jinkerson RE, John U, Joshi S, Joshi A, Joubert L, Katam R, Kaur H, Kazachkova Y, Raju SKK, Khan MA, Khangura R, Kumar A, Kumar A, Kumar P, Kumar P, Lavania D, Lew TTS, Lewsey MG, Lin C, Liu D, Liu L, Liu T, Lokdarshi A, My Luong A, Macaulay IC, Mahmud S, Mähönen AP, Malukani KK, Marand AP, Martin CA, McWhite CD, Mehta D, Martín MM, Mortimer JC, Nikolov LA, Nobori T, Nolan TM, Ogden AJ, Otegui MS, Ott M, Palma JM, Paul P, Rehman AU, Romera-Branchat M, Romero LC, Roth R, Sah SK, Shahan R, Solanki S, Song B, Sozzani R, Stacey G, Stepanova AN, Taylor NL, Tello-Ruiz MK, Tran TM, Tripathi RK, Vadde BVLV, Varga T, Vidovic M, Walley JW, Wang Z, Weizbauer RA, Whelan J, Wijeratne AJ, Xiang T, Xu S, Yadegari R, Yu H, Yuan HY, Zanini F, Zhao F, Zhu J, Zhuang X, Jha SG, Borowsky AT, Cole BJ, Fahlgren N, Farmer A, Huang SC, Karia P, Libault M, Provart NJ, Rice SL, Saura-Sanchez M, Agarwal P, Ahkami AH, Anderton CR, Briggs SP, Brophy JA, Denolf P, Di Costanzo LF, Exposito-Alonso M, Giacomello S, Gomez-Cano F, Kaufmann K, Ko DK, Kumar S, Malkovskiy AV, Nakayama N, Obata T, Otegui MS, Palfalvi G, Quezada-Rodríguez EH, Singh R, Uhrig RG, Waese J, Van Wijk K, Wright RC, Ehrhardt DW, Birnbaum KD, Rhee SY</ContributorList>
+		<Year>2021</Year>
+		<Month>9</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.02.15.580261</id>
@@ -999,8 +1016,8 @@
 		<Title>Schizosaccharomyces versatilis represents a distinct evolutionary lineage of fission yeast</Title>
 		<DOI>10.1002/yea.3919</DOI>
 		<JournalName>Yeast</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>41</JournalVolume>
+		<JournalPages>95-107</JournalPages>
 		<ContributorIds>ethering, haertyw, nieduszc</ContributorIds>
 		<ContributorList>Etherington GJ, Gil EG, Haerty W, Oliferenko S, Nieduszynski CA</ContributorList>
 		<Year>2023</Year>
