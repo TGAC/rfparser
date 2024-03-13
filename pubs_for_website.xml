@@ -1349,6 +1349,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.12688/wellcomeopenres.18499.2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>COPO - Managing sample metadata for biodiversity: considerations from the Darwin Tree of Life project</Title>
+		<DOI>10.12688/wellcomeopenres.18499.2</DOI>
+		<JournalName>Wellcome Open Research</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages>279</JournalPages>
+		<ContributorIds>fshaw, mctaggar, providen</ContributorIds>
+		<ContributorList>Shaw F, Minotto A, McTaggart S, Providence A, Harrison P, Paupério J, Rajan J, Burgin J, Cochrane G, Kilias E, Lawniczak M, Davey R</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s13059-023-02976-z</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
