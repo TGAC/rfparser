@@ -1,6 +1,244 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.21203/rs.3.rs-2923767/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The genomic epidemiology of shigellosis in South Africa</Title>
+		<DOI>10.21203/rs.3.rs-2923767/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>halln</ContributorIds>
+		<ContributorList>Stenhouse G, Keddy K, Bengtsson R, Hall N, Smith A, Thomas J, Iturriza-Gómara M, Baker K</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>26</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1126/sciadv.adh8839</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Citizen science reveals landscape-scale exposures to multiazole-resistant Aspergillus fumigatus bioaerosols</Title>
+		<DOI>10.1126/sciadv.adh8839</DOI>
+		<JournalName>Science Advances</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Shelton JMG, Rhodes J, Uzzell CB, Hemmings S, Brackin AP, Sewell TR, Alghamdi A, Dyer PS, Fraser M, Borman AM, Johnson EM, Piel FB, Singer AC, Fisher MC</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-38902-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A global genomic analysis of Salmonella Concord reveals lineages with high antimicrobial resistance in Ethiopia</Title>
+		<DOI>10.1038/s41467-023-38902-x</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Cuypers WL, Meysman P, Weill F, Hendriksen RS, Beyene G, Wain J, Nair S, Chattaway MA, Perez-Sepulveda BM, Ceyssens P, de Block T, Lee WWY, Pardos de la Gandara M, Kornschober C, Moran-Gilad J, Veldman KT, Cormican M, Torpdahl M, Fields PI, Černý T, Hardy L, Tack B, Mellor KC, Thomson N, Dougan G, Deborggraeve S, Jacobs J, Laukens K, Van Puyvelde S</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/jb.00135-23</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Global Effects of the Developmental Regulator BldB in Streptomyces venezuelae</Title>
+		<DOI>10.1128/jb.00135-23</DOI>
+		<JournalName>Journal of Bacteriology</JournalName>
+		<JournalVolume>205</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Avramova MM, Stevenson CEM, Chandra G, Holmes NA, Bush MJ, Findlay KC, Buttner MJ</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s11046-023-00740-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Long-read Sequencing and de novo Genome Assembly of Three Aspergillus fumigatus Genomes</Title>
+		<DOI>10.1007/s11046-023-00740-2</DOI>
+		<JournalName>Mycopathologia</JournalName>
+		<JournalVolume>188</JournalVolume>
+		<JournalPages>409-412</JournalPages>
+		<ContributorIds />
+		<ContributorList>Hemmings SJ, Rhodes JL, Fisher MC</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-2924009/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Bacterial community structure and mucin drive Pseudomonas aeruginosa diversification and pathoadaptation</Title>
+		<DOI>10.21203/rs.3.rs-2924009/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Johansen HK, Pitchford J, Friman V, Bottery M</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>19</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pone.0285756</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromosome-scale genome sequence assemblies of the ‘Autumn Bliss’ and ‘Malling Jewel’ cultivars of the highly heterozygous red raspberry (Rubus idaeus L.) derived from long-read Oxford Nanopore sequence data</Title>
+		<DOI>10.1371/journal.pone.0285756</DOI>
+		<JournalName>PLOS ONE</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>e0285756</JournalPages>
+		<ContributorIds />
+		<ContributorList>Price RJ, Davik J, Fernandéz Fernandéz F, Bates HJ, Lynn S, Nellist CF, Buti M, Røen D, Šurbanovski N, Alsheikh M, Harrison RJ, Sargent DJ</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-37839-5</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Identification of d-arabinan-degrading enzymes in mycobacteria</Title>
+		<DOI>10.1038/s41467-023-37839-5</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Al-Jourani O, Benedict ST, Ross J, Layton AJ, van der Peet P, Marando VM, Bailey NP, Heunis T, Manion J, Mensitieri F, Franklin A, Abellon-Ruiz J, Oram SL, Parsons L, Cartmell A, Wright GSA, Baslé A, Trost M, Henrissat B, Munoz-Munoz J, Hirt RP, Kiessling LL, Lovering AL, Williams SJ, Lowe EC, Moynihan PJ</ContributorList>
+		<Year>2023</Year>
+		<Month>4</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-023-37551-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Major proliferation of transposable elements shaped the genome of the soybean rust pathogen Phakopsora pachyrhizi</Title>
+		<DOI>10.1038/s41467-023-37551-4</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Gupta YK, Marcelino-Guimarães FC, Lorrain C, Farmer A, Haridas S, Ferreira EGC, Lopes-Caitar VS, Oliveira LS, Morin E, Widdison S, Cameron C, Inoue Y, Thor K, Robinson K, Drula E, Henrissat B, LaButti K, Bini AMR, Paget E, Singan V, Daum C, Dorme C, van Hoek M, Janssen A, Chandat L, Tarriotte Y, Richardson J, Melo BdVA, Wittenberg AHJ, Schneiders H, Peyrard S, Zanardo LG, Holtman VC, Coulombier-Chauvel F, Link TI, Balmer D, Müller AN, Kind S, Bohnert S, Wirtz L, Chen C, Yan M, Ng V, Gautier P, Meyer MC, Voegele RT, Liu Q, Grigoriev IV, Conrath U, Brommonschenkel SH, Loehrer M, Schaffrath U, Sirven C, Scalliet G, Duplessis S, van Esse HP</ContributorList>
+		<Year>2023</Year>
+		<Month>4</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ebiom.2022.104088</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Systematic review of donor and recipient predictive biomarkers of response to faecal microbiota transplantation in patients with ulcerative colitis</Title>
+		<DOI>10.1016/j.ebiom.2022.104088</DOI>
+		<JournalName>eBioMedicine</JournalName>
+		<JournalVolume>81</JournalVolume>
+		<JournalPages>104088</JournalPages>
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Rees NP, Shaheen W, Quince C, Tselepis C, Horniblow RD, Sharma N, Beggs AD, Iqbal TH, Quraishi MN</ContributorList>
+		<Year>2022</Year>
+		<Month>7</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13059-023-02924-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Metabolic independence drives gut microbial colonization and resilience in health and disease</Title>
+		<DOI>10.1186/s13059-023-02924-x</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages />
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Watson AR, Füssel J, Veseli I, DeLongchamp JZ, Silva M, Trigodet F, Lolans K, Shaiber A, Fogarty E, Runde JM, Quince C, Yu MK, Söylev A, Morrison HG, Lee STM, Kao D, Rubin DT, Jabri B, Louie T, Eren AM</ContributorList>
+		<Year>2023</Year>
+		<Month>4</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41591-023-02372-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Antigen-driven colonic inflammation is associated with development of dysplasia in primary sclerosing cholangitis</Title>
+		<DOI>10.1038/s41591-023-02372-x</DOI>
+		<JournalName>Nature Medicine</JournalName>
+		<JournalVolume>29</JournalVolume>
+		<JournalPages>1520-1529</JournalPages>
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Shaw DG, Aguirre-Gamboa R, Vieira MC, Gona S, DiNardi N, Wang A, Dumaine A, Gelderloos-Arends J, Earley ZM, Meckel KR, Ciszewski C, Castillo A, Monroe K, Torres J, Shah SC, Colombel J, Itzkowitz S, Newberry R, Cohen RD, Rubin DT, Quince C, Cobey S, Jonkers IH, Weber CR, Pekow J, Wilson PC, Barreiro LB, Jabri B</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/ecco-jcc/jjad031</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Transient Suppression of Bacterial Populations Associated with Gut Health is Critical in Success of Exclusive Enteral Nutrition for Children with Crohn’s Disease</Title>
+		<DOI>10.1093/ecco-jcc/jjad031</DOI>
+		<JournalName>Journal of Crohn's and Colitis</JournalName>
+		<JournalVolume>17</JournalVolume>
+		<JournalPages>1103-1113</JournalPages>
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Runde J, Veseli I, Fogarty EC, Watson AR, Clayssen Q, Yosef M, Shaiber A, Verma R, Quince C, Gerasimidis K, Rubin DT, Eren AM</ContributorList>
+		<Year>2023</Year>
+		<Month>3</Month>
+		<Day>19</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/femsec/fiad154</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Adaptive radiations in natural populations of prokaryotes: innovation is key</Title>
+		<DOI>10.1093/femsec/fiad154</DOI>
+		<JournalName>FEMS Microbiology Ecology</JournalName>
+		<JournalVolume>99</JournalVolume>
+		<JournalPages />
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Vos M, Padfield D, Quince C, Vos R</ContributorList>
+		<Year>2023</Year>
+		<Month>11</Month>
+		<Day>13</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1002/yea.3912</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1363,6 +1601,23 @@
 		<Year>2023</Year>
 		<Month>7</Month>
 		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41437-023-00641-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genetic architecture of dispersal behaviour in the post-harvest pest and model organism Tribolium castaneum</Title>
+		<DOI>10.1038/s41437-023-00641-6</DOI>
+		<JournalName>Heredity</JournalName>
+		<JournalVolume>131</JournalVolume>
+		<JournalPages>253-262</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Pointer MD, Spurgin LG, Gage MJG, McMullan M, Richardson DS</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>29</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
