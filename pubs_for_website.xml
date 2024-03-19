@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1371/journal.pcbi.1011270</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>CyVerse: Cyberinfrastructure for open science</Title>
+		<DOI>10.1371/journal.pcbi.1011270</DOI>
+		<JournalName>PLOS Computational Biology</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages>e1011270</JournalPages>
+		<ContributorIds />
+		<ContributorList>Swetnam TL, Antin PB, Bartelme R, Bucksch A, Camhy D, Chism G, Choi I, Cooksey AM, Cosi M, Cowen C, Culshaw-Maurer M, Davey R, Davey S, Devisetty U, Edgin T, Edmonds A, Fedorov D, Frady J, Fonner J, Gillan JK, Hossain I, Joyce B, Lang K, Lee T, Littin S, McEwen I, Merchant N, Micklos D, Nelson A, Ramsey A, Roberts S, Sarando P, Skidmore E, Song J, Sprinkle MM, Srinivasan S, Stanzione D, Strootman JD, Stryeck S, Tuteja R, Vaughn M, Wali M, Wall M, Walls R, Wang L, Wickizer T, Williams J, Wregglesworth J, Lyons E</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21203/rs.3.rs-2923767/v1</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
