@@ -14,6 +14,7 @@ from typing import (
     Dict,
     List,
     Optional,
+    TYPE_CHECKING,
 )
 from xml.etree import ElementTree
 
@@ -35,6 +36,9 @@ if sys.version_info >= (3, 9):
     from xml.etree.ElementTree import indent
 else:
     from .ElementTree39 import indent
+
+if TYPE_CHECKING:
+    from typing_extensions import Self
 
 __version__ = "0.0.1"
 
@@ -73,6 +77,7 @@ UNPAYWALL_OA_STATUS_TO_XML_OPENACCESS = {
     "green": "Green Open Access",
     "hybrid": "Gold Open Access",
 }
+VALID_DOI = re.compile(r"[\d.]+/.+")
 VALID_ORCID_ID = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
 
 log = logging.getLogger(__name__)
@@ -84,6 +89,33 @@ class Person:
     given_names: str
     family_names: str
     orcid_id: Optional[str]
+
+
+class DOI(str):
+    def __new__(cls, doi: Optional[str]) -> "Self":
+        """
+        Sanitise a DOI, see
+        https://www.doi.org/doi-handbook/DOI_Handbook_Final.pdf
+        """
+        doi = (doi or "").strip()
+        if doi in ("", "A", "NA", "n/a"):
+            raise ValueError("no DOI")
+        match = VALID_DOI.search(doi)
+        if not match:
+            raise ValueError("malformed DOI")
+        return super().__new__(cls, match.group(0))
+
+    def lower(self) -> str:
+        # Change only ASCII characters to lowercase
+        return "".join(c.lower() if c.isascii() else c for c in self)
+
+    def __eq__(self, __value: object) -> bool:
+        if not isinstance(__value, DOI):
+            return False
+        return self.lower() == __value.lower()
+
+    def __hash__(self) -> int:
+        return hash(self.lower())
 
 
 def RF_login(username: str, password: str) -> Session:
@@ -176,23 +208,7 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     return r_dict["oa_status"]
 
 
-def sanitise_doi(doi: Optional[str]) -> Optional[str]:
-    """
-    Sanitise a doi, which should always start with "10.", see
-    https://www.doi.org/the-identifier/resources/handbook/2_numbering
-    """
-    doi = (doi or "").strip()
-    if doi in ("", "A", "NA", "n/a"):
-        return None
-    doi_start = doi.find("10.")
-    if doi_start > 0:
-        return doi[doi_start:]
-    elif doi_start == -1:
-        raise ValueError("Malformed DOI")
-    return doi
-
-
-def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: Dict[str, Dict[str, Any]]) -> None:
+def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: Dict[DOI, Dict[str, Any]]) -> None:
     """
     Get the DOIs from the old ei.xml file generated from NBIROS.
     """
@@ -213,15 +229,20 @@ def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_do
         doi_el = pub_el.find("DOI")
         assert doi_el is not None
         try:
-            doi = sanitise_doi(doi_el.text)
-        except ValueError:
-            log.warning("Publication %s has malformed DOI: %s", pub_old_id, doi_el.text)
-            continue
-        if not doi:
+            doi = DOI(doi_el.text)
+        except ValueError as e:
+            title_el = pub_el.find("Title")
+            assert title_el is not None
             category_el = pub_el.find("Category")
             assert category_el is not None
-            pub_type = category_el.text
-            log.warning("Publication %s of type %s has no DOI", pub_old_id, pub_type)
+            log.warning(
+                "Skipping NBIROS publication '%s' (doi: '%s'; title '%s'; type '%s'): %s",
+                pub_old_id,
+                doi_el.text,
+                title_el.text,
+                category_el.text,
+                e,
+            )
             continue
         pubs_with_doi.setdefault(doi, {})
         pubs_with_doi[doi].setdefault("nbiros_entries", [])
@@ -235,7 +256,7 @@ def sanitise_orcid_id(orcid_id: Optional[str]) -> Optional[str]:
     number = orcid_id.split("/")[-1]
     number = number.replace("-", "-")
     assert len(number) == 19, f"Malformed ORCID id {orcid_id}"
-    assert re.match(VALID_ORCID_ID, number), f"Malformed ORCID id {orcid_id}"
+    assert VALID_ORCID_ID.match(number), f"Malformed ORCID id {orcid_id}"
     return f"https://orcid.org/{number}"
 
 
@@ -267,7 +288,7 @@ def get_persons(people_data_csv_url: Optional[str]) -> List[Person]:
 
 
 def write_xml_output(
-    pubs_with_doi: Dict[str, Dict[str, Any]],
+    pubs_with_doi: Dict[DOI, Dict[str, Any]],
     outfile: str,
     people_data_csv_url: Optional[str],
 ) -> None:
@@ -421,7 +442,7 @@ def main() -> None:
     assert config.get("email"), "Email not configured"
 
     # Create dictionary of publications indexed by DOI
-    pubs_with_doi: Dict[str, Dict[str, Any]] = {}
+    pubs_with_doi: Dict[DOI, Dict[str, Any]] = {}
 
     get_dois_from_old_xml(config.get("nbiros_pub_export_xml_url"), pubs_with_doi)
     log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
@@ -444,13 +465,16 @@ def main() -> None:
     log.info(f"Total publications on ResearchFish: {len(publications)}")
 
     for p in publications:
-        doi = p["r1_2_19"]
-        if doi is None:
+        try:
+            doi = DOI(p["r1_2_19"])
+        except ValueError as e:
             log.warning(
-                "Skipping ResearchFish publication '%s': publication '%s' of type %s has no DOI",
+                "Skipping ResearchFish publication '%s' (doi: '%s'; title '%s'; type '%s'): %s",
                 p["id"],
+                p["r1_2_19"],
                 p["title"],
                 p["r1_2"],
+                e,
             )
         else:
             pubs_with_doi.setdefault(doi, {})
