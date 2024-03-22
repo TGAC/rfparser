@@ -51,6 +51,7 @@ BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
 KNOWN_BOOK_SERIES = {
     "Advances in Experimental Medicine and Biology",
     "Advances in Microbial Physiology",
+    "Compendium of Plant Genomes",
     "Genome Dynamics",
     "Lecture Notes in Computer Science",
     "Methods in Cell Biology",
@@ -516,8 +517,11 @@ def main() -> None:
                     container_title = pub_metadata["institution"][0]["name"]
                 elif "Research Square" in pub_metadata["publisher"]:
                     container_title = "Research Square"
-                elif "PeerJ" in pub_metadata["publisher"]:
+                elif "PeerJ" in pub_metadata["publisher"] or doi.startswith("10.37044/osf.io/"):
+                    # PeerJ Preprints or BioHackrXiv
                     container_title = pub_metadata["group-title"]
+                elif doi.startswith("10.17504/protocols.io."):
+                    container_title = "protocols.io"
                 else:
                     raise Exception("cannot determine preprint journal")
             elif len(container_title_list) == 1:
@@ -532,15 +536,12 @@ def main() -> None:
                 # the book title and book series are not in a fixed order
                 if container_title_list[0] in KNOWN_BOOK_SERIES:
                     container_title, pub["series-title"] = reversed(container_title_list)
-                else:
-                    if container_title_list[1] not in KNOWN_BOOK_SERIES:
-                        log.warning(
-                            "publication with doi %s of type %s has container-title with unknown book series: %s",
-                            doi,
-                            pub_type,
-                            container_title_list,
-                        )
+                elif container_title_list[1] in KNOWN_BOOK_SERIES:
                     container_title, pub["series-title"] = container_title_list
+                else:
+                    raise Exception(
+                        f"publication with doi '{doi}' of type {pub_type} has container-title with unknown book series: {container_title_list}"
+                    )
             pub["container-title"] = container_title
 
             pub["volume"] = pub_metadata.get("volume")
