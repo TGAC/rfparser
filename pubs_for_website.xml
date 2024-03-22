@@ -307,6 +307,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.37044/osf.io/24jst</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates</Title>
+		<DOI>10.37044/osf.io/24jst</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Eguinoa I, Suchánek M, Knaisl V, Slifka J, De Geest P, López D, Gruning B, Leo S, Soiland-Reyes S</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day>29</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.37044/osf.io/emc2f</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>BioHackEU22 Report for Project 31: The What &amp;amp; How in data management: Improving connectivity between RDMkit and FAIR Cookbook</Title>
+		<DOI>10.37044/osf.io/emc2f</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Welter D, Andrade Buono R, Abbassi-Daloii T, Alper P, Andrabi M, Bianchini F, Droesbeke B, Fatima N, Popleteeva M, Portell-Silva L, Rocca-Serra P</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.15252/embj.2023115008</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -599,6 +633,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.37044/osf.io/fy49g</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genome Annotation and Other Post-Assembly Workflows for the Tree of Life</Title>
+		<DOI>10.37044/osf.io/fy49g</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>swarbred</ContributorIds>
+		<ContributorList>Brown T, Collier KA, Cruz F, Gkanogiannis A, Joye-Dind S, Nevers Y, Saenko S, Alioto T, Bretaudeau A, Charleston M, Doan PD, Hahn C, Harrop TW, Herron KE, Kebaso F, Libouban R, Mansueto L, Manu S, Oba A, Swarbreck D, Syme A, Zanarello F, Aury J, Gómez-Garrido J, Dennis AB</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>11</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.02.05.578917</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -674,8 +725,8 @@
 		<Title>Structural and Functional Annotation of the Wheat Genome</Title>
 		<DOI>10.1007/978-3-031-38294-9_4</DOI>
 		<JournalName />
-		<BookTitle>Compendium of Plant Genomes</BookTitle>
-		<SeriesTitle>The Wheat Genome</SeriesTitle>
+		<BookTitle>The Wheat Genome</BookTitle>
+		<SeriesTitle>Compendium of Plant Genomes</SeriesTitle>
 		<JournalVolume />
 		<JournalPages>51-73</JournalPages>
 		<ContributorIds>swarbred</ContributorIds>
@@ -1210,6 +1261,23 @@
 		<Year>2019</Year>
 		<Month>7</Month>
 		<Day>31</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bhftj3nn</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Extraction of high molecular weight DNA from aphids and other sap-feeding insects for long-read sequencing. v1</Title>
+		<DOI>10.17504/protocols.io.bhftj3nn</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd</ContributorIds>
+		<ContributorList>Wouters R, Mugford S, Biello R, Heavens D, Hogenhout S</ContributorList>
+		<Year>2020</Year>
+		<Month>6</Month>
+		<Day>12</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -1754,23 +1822,6 @@
 		<Year>2022</Year>
 		<Month>2</Month>
 		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1042/etls20170011</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>CRISPR-based tools for plant genome engineering</Title>
-		<DOI>10.1042/etls20170011</DOI>
-		<JournalName>Emerging Topics in Life Sciences</JournalName>
-		<JournalVolume>1</JournalVolume>
-		<JournalPages>135-149</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Volpi e Silva N, Patron NJ</ContributorList>
-		<Year>2017</Year>
-		<Month>9</Month>
-		<Day>15</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -3682,23 +3733,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1172/jci153157</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>LC3-associated phagocytosis in bone marrow macrophages suppresses acute myeloid leukemia progression through STING activation</Title>
-		<DOI>10.1172/jci153157</DOI>
-		<JournalName>Journal of Clinical Investigation</JournalName>
-		<JournalVolume>132</JournalVolume>
-		<JournalPages />
-		<ContributorIds>wojtowic</ContributorIds>
-		<ContributorList>Moore JA, Mistry JJ, Hellmich C, Horton RH, Wojtowicz EE, Jibril A, Jefferson M, Wileman T, Beraza N, Bowles KM, Rushworth SA</ContributorList>
-		<Year>2022</Year>
-		<Month>3</Month>
-		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1002/tpg2.20193</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -3955,23 +3989,6 @@
 		<Year>2021</Year>
 		<Month>5</Month>
 		<Day>13</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.isci.2021.103012</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Antibiotic-induced disturbances of the gut microbiota result in accelerated breast tumor growth</Title>
-		<DOI>10.1016/j.isci.2021.103012</DOI>
-		<JournalName>iScience</JournalName>
-		<JournalVolume>24</JournalVolume>
-		<JournalPages>103012</JournalPages>
-		<ContributorIds />
-		<ContributorList>McKee AM, Kirkup BM, Madgwick M, Fowler WJ, Price CA, Dreger SA, Ansorge R, Makin KA, Caim S, Le Gall G, Paveley J, Leclaire C, Dalby M, Alcon-Giner C, Andrusaite A, Feng T, Di Modica M, Triulzi T, Tagliabue E, Milling SW, Weilbaecher KN, Rutkowski MR, Korcsmáros T, Hall LJ, Robinson SD</ContributorList>
-		<Year>2021</Year>
-		<Month>9</Month>
-		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -4637,23 +4654,6 @@
 		<Month>9</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/msystems.00881-21</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Ultra-resolution Metagenomics: When Enough Is Not Enough</Title>
-		<DOI>10.1128/msystems.00881-21</DOI>
-		<JournalName>mSystems</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>hildebrf</ContributorIds>
-		<ContributorList>Hildebrand F</ContributorList>
-		<Year>2021</Year>
-		<Month>8</Month>
-		<Day>31</Day>
-		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s43588-021-00124-w</id>
@@ -6135,23 +6135,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.7554/elife.54489</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Bioengineering horizon scan 2020</Title>
-		<DOI>10.7554/elife.54489</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Kemp L, Adam L, Boehm CR, Breitling R, Casagrande R, Dando M, Djikeng A, Evans NG, Hammond R, Hills K, Holt LA, Kuiken T, Markotić A, Millett P, Napier JA, Nelson C, ÓhÉigeartaigh SS, Osbourn A, Palmer MJ, Patron NJ, Perello E, Piyawattanametha W, Restrepo-Schild V, Rios-Rojas C, Rhodes C, Roessing A, Scott D, Shapira P, Simuntala C, Smith RD, Sundaram LS, Takano E, Uttmark G, Wintle BC, Zahra NB, Sutherland WJ</ContributorList>
-		<Year>2020</Year>
-		<Month>5</Month>
-		<Day>29</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1093/bioinformatics/btaa047</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6972,40 +6955,6 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1128/mbio.01165-19</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A Central Small RNA Regulatory Circuit Controlling Bacterial Denitrification and N 2 O Emissions</Title>
-		<DOI>10.1128/mbio.01165-19</DOI>
-		<JournalName>mBio</JournalName>
-		<JournalVolume>10</JournalVolume>
-		<JournalPages />
-		<ContributorIds />
-		<ContributorList>Gaimster H, Hews CL, Griffiths R, Soriano-Laguna MJ, Alston M, Richardson DJ, Gates AJ, Rowley G</ContributorList>
-		<Year>2019</Year>
-		<Month>8</Month>
-		<Day>27</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.7554/elife.45051</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>The long non-coding RNA Cerox1 is a post transcriptional regulator of mitochondrial complex I catalytic activity</Title>
-		<DOI>10.7554/elife.45051</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Sirey TM, Roberts K, Haerty W, Bedoya-Reina O, Rogatti-Granados S, Tan JY, Li N, Heather LC, Carter RN, Cooper S, Finch AJ, Wills J, Morton NM, Marques AC, Ponting CP</ContributorList>
-		<Year>2019</Year>
-		<Month>5</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/nph.13433</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -7158,23 +7107,6 @@
 		<Month>8</Month>
 		<Day>7</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1111/2041-210x.13265</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Semi‐quantitative characterisation of mixed pollen samples using MinION sequencing and Reverse Metagenomics (RevMet)</Title>
-		<DOI>10.1111/2041-210x.13265</DOI>
-		<JournalName>Methods in Ecology and Evolution</JournalName>
-		<JournalVolume>10</JournalVolume>
-		<JournalPages>1690-1701</JournalPages>
-		<ContributorIds>peeln, heavensd, leggettr</ContributorIds>
-		<ContributorList>Peel N, Dicks LV, Clark MD, Heavens D, Percival‐Alwyn L, Cooper C, Davies RG, Leggett RM, Yu DW</ContributorList>
-		<Year>2019</Year>
-		<Month>8</Month>
-		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41588-019-0393-z</id>
@@ -7415,23 +7347,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1128/iai.00079-18</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genome Variation and Molecular Epidemiology of Salmonella enterica Serovar Typhimurium Pathovariants</Title>
-		<DOI>10.1128/iai.00079-18</DOI>
-		<JournalName>Infection and Immunity</JournalName>
-		<JournalVolume>86</JournalVolume>
-		<JournalPages />
-		<ContributorIds>bawnm</ContributorIds>
-		<ContributorList>Branchu P, Bawn M, Kingsley RA</ContributorList>
-		<Year>2018</Year>
-		<Month>8</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/gr.237636.118</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -7464,23 +7379,6 @@
 		<Month>12</Month>
 		<Day>31</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1074/jbc.ra119.007712</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Unraveling the subtleties of β-(1→3)-glucan phosphorylase specificity in the GH94, GH149, and GH161 glycoside hydrolase families</Title>
-		<DOI>10.1074/jbc.ra119.007712</DOI>
-		<JournalName>Journal of Biological Chemistry</JournalName>
-		<JournalVolume>294</JournalVolume>
-		<JournalPages>6483-6493</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Kuhaudomlarp S, Pergolizzi G, Patron NJ, Henrissat B, Field RA</ContributorList>
-		<Year>2019</Year>
-		<Month>4</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.7287/peerj.preprints.3112v1</id>
@@ -8146,40 +8044,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1096/fj.201800565rr</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Suppression ofAMPK/aak‐2by NRF2/SKN‐1 down‐regulates autophagy during prolonged oxidative stress</Title>
-		<DOI>10.1096/fj.201800565rr</DOI>
-		<JournalName>The FASEB Journal</JournalName>
-		<JournalVolume>33</JournalVolume>
-		<JournalPages>2372-2387</JournalPages>
-		<ContributorIds />
-		<ContributorList>Kosztelnik M, Kurucz A, Papp D, Jones E, Sigmond T, Barna J, Traka MH, Lorincz T, Szarka A, Banhegyi G, Vellai T, Korcsmaros T, Kapuy O</ContributorList>
-		<Year>2018</Year>
-		<Month>10</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1158/0008-5472.can-18-2553</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>MDH1 and MPP7 Regulate Autophagy in Pancreatic Ductal Adenocarcinoma</Title>
-		<DOI>10.1158/0008-5472.can-18-2553</DOI>
-		<JournalName>Cancer Research</JournalName>
-		<JournalVolume>79</JournalVolume>
-		<JournalPages>1884-1898</JournalPages>
-		<ContributorIds />
-		<ContributorList>New M, Van Acker T, Sakamaki J, Jiang M, Saunders RE, Long J, Wang VM, Behrens A, Cerveira J, Sudhakar P, Korcsmaros T, Jefferies HB, Ryan KM, Howell M, Tooze SA</ContributorList>
-		<Year>2019</Year>
-		<Month>4</Month>
-		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1038/s41421-018-0032-3</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -8402,23 +8266,6 @@
 		<Year>2018</Year>
 		<Month>5</Month>
 		<Day>1</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.7554/elife.31700</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Coordination of robust single cell rhythms in the Arabidopsis circadian clock via spatial waves of gene expression</Title>
-		<DOI>10.7554/elife.31700</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages />
-		<ContributorIds>halla</ContributorIds>
-		<ContributorList>Gould PD, Domijan M, Greenwood M, Tokuda IT, Rees H, Kozma-Bognar L, Hall AJ, Locke JC</ContributorList>
-		<Year>2018</Year>
-		<Month>4</Month>
-		<Day>26</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -9580,23 +9427,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1111/2049-632x.12107</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Draft genomes of 12 host-adapted and environmental isolates ofPseudomonas aeruginosaand their positions in the core genome phylogeny</Title>
-		<DOI>10.1111/2049-632x.12107</DOI>
-		<JournalName>Pathogens and Disease</JournalName>
-		<JournalVolume>71</JournalVolume>
-		<JournalPages>20-25</JournalPages>
-		<ContributorIds />
-		<ContributorList>Stewart L, Ford A, Sangal V, Jeukens J, Boyle B, Kukavica-Ibrulj I, Caim S, Crossman L, Hoskisson PA, Levesque R, Tucker NP</ContributorList>
-		<Year>2013</Year>
-		<Month>12</Month>
-		<Day>16</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.12688/f1000research.3-53.v2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -9645,125 +9475,6 @@
 		<Year>2014</Year>
 		<Month>2</Month>
 		<Day>13</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.01231-13</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Draft Genome Sequence of a Novel Lactobacillus salivarius Strain Isolated from Piglet</Title>
-		<DOI>10.1128/genomea.01231-13</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>2</JournalVolume>
-		<JournalPages />
-		<ContributorIds>swarbred</ContributorIds>
-		<ContributorList>MacKenzie DA, McLay K, Roos S, Walter J, Swarbreck D, Drou N, Crossman LC, Juge N</ContributorList>
-		<Year>2014</Year>
-		<Month>2</Month>
-		<Day>27</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/1471-2164-15-s4-s10</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Reference-free SNP detection: dealing with the data deluge</Title>
-		<DOI>10.1186/1471-2164-15-s4-s10</DOI>
-		<JournalName>BMC Genomics</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages />
-		<ContributorIds>leggettr</ContributorIds>
-		<ContributorList>Leggett RM, MacLean D</ContributorList>
-		<Year>2014</Year>
-		<Month>5</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.7554/elife.03058</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Considerations when investigating lncRNA function in vivo</Title>
-		<DOI>10.7554/elife.03058</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>3</JournalVolume>
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Bassett AR, Akhtar A, Barlow DP, Bird AP, Brockdorff N, Duboule D, Ephrussi A, Ferguson-Smith AC, Gingeras TR, Haerty W, Higgs DR, Miska EA, Ponting CP</ContributorList>
-		<Year>2014</Year>
-		<Month>8</Month>
-		<Day>14</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/aem.02867-14</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Microarray-Based Detection of Salmonella enterica Serovar Enteritidis Genes Involved in Chicken Reproductive Tract Colonization</Title>
-		<DOI>10.1128/aem.02867-14</DOI>
-		<JournalName>Applied and Environmental Microbiology</JournalName>
-		<JournalVolume>80</JournalVolume>
-		<JournalPages>7710-7716</JournalPages>
-		<ContributorIds>nshearer</ContributorIds>
-		<ContributorList>Raspoet R, Appia-Ayme C, Shearer N, Martel A, Pasmans F, Haesebrouck F, Ducatelle R, Thompson A, Van Immerseel F</ContributorList>
-		<Year>2014</Year>
-		<Month>12</Month>
-		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1074/mcp.m113.032086</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Hippocampal Extracellular Matrix Levels and Stochasticity in Synaptic Protein Expression Increase with Age and Are Associated with Age-dependent Cognitive Decline</Title>
-		<DOI>10.1074/mcp.m113.032086</DOI>
-		<JournalName>Molecular &amp;amp; Cellular Proteomics</JournalName>
-		<JournalVolume>13</JournalVolume>
-		<JournalPages>2975-2985</JournalPages>
-		<ContributorIds />
-		<ContributorList>Végh MJ, Rausell A, Loos M, Heldring CM, Jurkowski W, van Nierop P, Paliukhovich I, Li KW, del Sol A, Smit AB, Spijker S, van Kesteren RE</ContributorList>
-		<Year>2014</Year>
-		<Month>11</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/2047-217x-2-2</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Crowdsourcing genomic analyses of ash and ash dieback – power to the people</Title>
-		<DOI>10.1186/2047-217x-2-2</DOI>
-		<JournalName>GigaScience</JournalName>
-		<JournalVolume>2</JournalVolume>
-		<JournalPages />
-		<ContributorIds>swarbred</ContributorIds>
-		<ContributorList>MacLean D, Yoshida K, Edwards A, Crossman L, Clavijo B, Clark M, Swarbreck D, Bashton M, Chapman P, Gijzen M, Caccamo M, Downie A, Kamoun S, Saunders DG</ContributorList>
-		<Year>2013</Year>
-		<Month>2</Month>
-		<Day>12</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.00683-14</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Complete Genome Sequence of the Model Rhizosphere Strain Azospirillum brasilense Az39, Successfully Applied in Agriculture</Title>
-		<DOI>10.1128/genomea.00683-14</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>2</JournalVolume>
-		<JournalPages />
-		<ContributorIds>watkinsc</ContributorIds>
-		<ContributorList>Rivera D, Revale S, Molina R, Gualpa J, Puente M, Maroniche G, Paris G, Baker D, Clavijo B, McLay K, Spaepen S, Perticari A, Vazquez M, Wisniewski-Dyé F, Watkins C, Martínez-Abarca F, Vanderleyden J, Cassán F</ContributorList>
-		<Year>2014</Year>
-		<Month>8</Month>
-		<Day>28</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -9835,40 +9546,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1094/mpmi-01-15-0003-r</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Candidate Effector Proteins of the Rust Pathogen Melampsora larici-populina Target Diverse Plant Cell Compartments</Title>
-		<DOI>10.1094/mpmi-01-15-0003-r</DOI>
-		<JournalName>Molecular Plant-Microbe Interactions®</JournalName>
-		<JournalVolume>28</JournalVolume>
-		<JournalPages>689-700</JournalPages>
-		<ContributorIds />
-		<ContributorList>Petre B, Saunders DGO, Sklenar J, Lorrain C, Win J, Duplessis S, Kamoun S</ContributorList>
-		<Year>2015</Year>
-		<Month>6</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1530/erc-14-0454</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>HES5 silencing is an early and recurrent change in prostate tumourigenesis</Title>
-		<DOI>10.1530/erc-14-0454</DOI>
-		<JournalName>Endocrine-Related Cancer</JournalName>
-		<JournalVolume>22</JournalVolume>
-		<JournalPages>131-144</JournalPages>
-		<ContributorIds>brewerd</ContributorIds>
-		<ContributorList>Massie CE, Spiteri I, Ross-Adams H, Luxton H, Kay J, Whitaker HC, Dunning MJ, Lamb AD, Ramos-Montoya A, Brewer DS, Cooper CS, Eeles R, _ _, Warren AY, Tavaré S, Neal DE, Lynch AG</ContributorList>
-		<Year>2015</Year>
-		<Month>1</Month>
-		<Day>5</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.7554/elife.07460</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -9886,23 +9563,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.7554/elife.07009</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Anatomy of BioJS, an open source community for the life sciences</Title>
-		<DOI>10.7554/elife.07009</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>4</JournalVolume>
-		<JournalPages />
-		<ContributorIds />
-		<ContributorList>Yachdav G, Goldberg T, Wilzbach S, Dao D, Shih I, Choudhary S, Crouch S, Franz M, García A, García LJ, Grüning BA, Inupakutika D, Sillitoe I, Thanki AS, Vieira B, Villaveces JM, Schneider MV, Lewis S, Pettifer S, Rost B, Corpas M</ContributorList>
-		<Year>2015</Year>
-		<Month>7</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.7554/elife.06620</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -9917,23 +9577,6 @@
 		<Year>2015</Year>
 		<Month>7</Month>
 		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1094/mpmi-07-15-0147-r</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Tomato I2 Immune Receptor Can Be Engineered to Confer Partial Resistance to the Oomycete Phytophthora infestans in Addition to the Fungus Fusarium oxysporum</Title>
-		<DOI>10.1094/mpmi-07-15-0147-r</DOI>
-		<JournalName>Molecular Plant-Microbe Interactions®</JournalName>
-		<JournalVolume>28</JournalVolume>
-		<JournalPages>1316-1329</JournalPages>
-		<ContributorIds />
-		<ContributorList>Giannakopoulou A, Steele JFC, Segretin ME, Bozkurt TO, Zhou J, Robatzek S, Banfield MJ, Pais M, Kamoun S</ContributorList>
-		<Year>2015</Year>
-		<Month>12</Month>
-		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -9969,23 +9612,6 @@
 		<Month>10</Month>
 		<Day>21</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.01520-15</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Revised Genome Sequence of the Purple Photosynthetic Bacterium Blastochloris viridis</Title>
-		<DOI>10.1128/genomea.01520-15</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>4</JournalVolume>
-		<JournalPages />
-		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Liu L, Faulkner M, Liu X, Huang F, Darby AC, Hall N</ContributorList>
-		<Year>2016</Year>
-		<Month>2</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13007-016-0104-z</id>
@@ -10038,23 +9664,6 @@
 		<Month>5</Month>
 		<Day>17</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1042/bst20160044</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Blueprints for green biotech: development and application of standards for plant synthetic biology</Title>
-		<DOI>10.1042/bst20160044</DOI>
-		<JournalName>Biochemical Society Transactions</JournalName>
-		<JournalVolume>44</JournalVolume>
-		<JournalPages>702-708</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Patron NJ</ContributorList>
-		<Year>2016</Year>
-		<Month>6</Month>
-		<Day>9</Day>
-		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13007-016-0114-x</id>
@@ -10313,23 +9922,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1042/bst20160012</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>GeneMill: A 21st century platform for innovation</Title>
-		<DOI>10.1042/bst20160012</DOI>
-		<JournalName>Biochemical Society Transactions</JournalName>
-		<JournalVolume>44</JournalVolume>
-		<JournalPages>681-683</JournalPages>
-		<ContributorIds>halln, halla</ContributorIds>
-		<ContributorList>Johnson JR, D'Amore R, Thain SC, Craig T, McCue HV, Hertz-Fowler C, Hall N, Hall AJ</ContributorList>
-		<Year>2016</Year>
-		<Month>6</Month>
-		<Day>9</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/209585</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -10381,23 +9973,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1074/jbc.ra117.000936</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Identification of Euglena gracilis β-1,3-glucan phosphorylase and establishment of a new glycoside hydrolase (GH) family GH149</Title>
-		<DOI>10.1074/jbc.ra117.000936</DOI>
-		<JournalName>Journal of Biological Chemistry</JournalName>
-		<JournalVolume>293</JournalVolume>
-		<JournalPages>2865-2876</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Kuhaudomlarp S, Patron NJ, Henrissat B, Rejzek M, Saalbach G, Field RA</ContributorList>
-		<Year>2018</Year>
-		<Month>2</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/257006</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -10415,23 +9990,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1158/0008-5472.can-16-1095</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>MIF-Induced Stromal PKCβ/IL8 Is Essential in Human Acute Myeloid Leukemia</Title>
-		<DOI>10.1158/0008-5472.can-16-1095</DOI>
-		<JournalName>Cancer Research</JournalName>
-		<JournalVolume>77</JournalVolume>
-		<JournalPages>303-311</JournalPages>
-		<ContributorIds />
-		<ContributorList>Abdul-Aziz AM, Shafat MS, Mehta TK, Di Palma F, Lawes MJ, Rushworth SA, Bowles KM</ContributorList>
-		<Year>2017</Year>
-		<Month>1</Month>
-		<Day>15</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/229096</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -10447,23 +10005,6 @@
 		<Month>12</Month>
 		<Day>4</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.7554/elife.30247</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>A transatlantic perspective on 20 emerging issues in biological engineering</Title>
-		<DOI>10.7554/elife.30247</DOI>
-		<JournalName>eLife</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
-		<ContributorList>Wintle BC, Boehm CR, Rhodes C, Molloy JC, Millett P, Adam L, Breitling R, Carlson R, Casagrande R, Dando M, Doubleday R, Drexler E, Edwards B, Ellis T, Evans NG, Hammond R, Haseloff J, Kahl L, Kuiken T, Lichman BR, Matthewman CA, Napier JA, ÓhÉigeartaigh SS, Patron NJ, Perello E, Shapira P, Tait J, Takano E, Sutherland WJ</ContributorList>
-		<Year>2017</Year>
-		<Month>11</Month>
-		<Day>14</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/110999</id>
@@ -10769,40 +10310,6 @@
 		<Year>2015</Year>
 		<Month>12</Month>
 		<Day>19</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.00678-15</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Complete Genome Sequence of Leptospira interrogans Serovar Bratislava, Strain PigK151</Title>
-		<DOI>10.1128/genomea.00678-15</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>3</JournalVolume>
-		<JournalPages />
-		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Alt DP, Wilson-Welder JH, Bayles DO, Cameron C, Adler B, Bulach DM, Seemann T, Lehane MJ, Haines LR, Darby AC, Hall N, Radford AD, Zuerner RL</ContributorList>
-		<Year>2015</Year>
-		<Month>6</Month>
-		<Day>25</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/genomea.00957-15</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Draft Genome Sequence of Bacillus Species from the Rhizosphere of the Desert Plant Rhazya stricta</Title>
-		<DOI>10.1128/genomea.00957-15</DOI>
-		<JournalName>Genome Announcements</JournalName>
-		<JournalVolume>3</JournalVolume>
-		<JournalPages />
-		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Abo-Aba SEM, Sabir JSM, Baeshen MN, Sabir MJ, Mutwakil MHZ, Baeshen NA, D’Amore R, Hall N</ContributorList>
-		<Year>2015</Year>
-		<Month>12</Month>
-		<Day>31</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
