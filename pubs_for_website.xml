@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.37044/osf.io/qjbxc</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>How to increase the findability, visibility, and impact of Galaxy tools for your scientific community</Title>
+		<DOI>10.37044/osf.io/qjbxc</DOI>
+		<JournalName>BioHackrXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>soranzon</ContributorIds>
+		<ContributorList>Zierep P, Batut B, Kalaš M, Kayikcioglu T, Nasr E, Soranzo N, Thang WC, Wang J, Gustafsson OJR</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>2</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pcbi.1011270</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
