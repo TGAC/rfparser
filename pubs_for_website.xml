@@ -1120,7 +1120,7 @@
 		<JournalName>Nature Biotechnology</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, jamesro, quince</ContributorIds>
+		<ContributorIds>raguidea, quince</ContributorIds>
 		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
@@ -22275,7 +22275,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, jamesro, quince, rjames</ContributorIds>
+		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
 		<ContributorList>Delaney J, Raguideau S, Holden J, Zhang L, Tipper H, Hill G, Klümper U, Zhang T, Cha C, Lee K, James R, Travis E, Bowes M, Hawkey P, Lindstrom H, Tang C, Gaze W, Mead A, Quince C, Singer A, Wellington E</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -22462,7 +22462,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, raguidea, jamesro, rjames</ContributorIds>
+		<ContributorIds>quince, raguidea, rjames</ContributorIds>
 		<ContributorList>Quince C, Nurk S, Raguideau S, James R, Soyer OS, Summers JK, Limasset A, Eren AM, Chikhi R, Darling AE</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -23363,7 +23363,7 @@
 		<JournalName>Trends in Genetics</JournalName>
 		<JournalVolume>38</JournalVolume>
 		<JournalPages>831-843</JournalPages>
-		<ContributorIds>macaulai, mincarel, ogbeide</ContributorIds>
+		<ContributorIds>ogbeide, macaulai, mincarel</ContributorIds>
 		<ContributorList>Ogbeide S, Giannese F, Mincarelli L, Macaulay IC</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
