@@ -1791,6 +1791,24 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/978-3-319-89578-9_4</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Population Structure of Red Clover Ecotypes Collected from Europe and Asia</Title>
+		<DOI>10.1007/978-3-319-89578-9_4</DOI>
+		<JournalName />
+		<BookTitle>Breeding Grasses and Protein Crops in the Era of Genomics</BookTitle>
+		<JournalVolume />
+		<JournalPages>20-26</JournalPages>
+		<ContributorIds>devegaj</ContributorIds>
+		<ContributorList>Jones C, De Vega J, Lloyd D, Hegarty M, Ayling S, Powell W, Skøt L</ContributorList>
+		<Year>2018</Year>
+		<Month />
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s10340-022-01476-6</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -8042,24 +8060,6 @@
 		<Month>6</Month>
 		<Day>19</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1007/978-3-319-89578-9_4</id>
-		<Organisation>EI</Organisation>
-		<Category>Book chapter</Category>
-		<CategoryID>2</CategoryID>
-		<Title>Population Structure of Red Clover Ecotypes Collected from Europe and Asia</Title>
-		<DOI>10.1007/978-3-319-89578-9_4</DOI>
-		<JournalName />
-		<BookTitle>Breeding Grasses and Protein Crops in the Era of Genomics</BookTitle>
-		<JournalVolume />
-		<JournalPages>20-26</JournalPages>
-		<ContributorIds>devegaj</ContributorIds>
-		<ContributorList>Jones C, De Vega J, Lloyd D, Hegarty M, Ayling S, Powell W, Skøt L</ContributorList>
-		<Year>2018</Year>
-		<Month />
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-018-5240-6</id>
