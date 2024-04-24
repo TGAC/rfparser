@@ -1120,7 +1120,7 @@
 		<JournalName>Nature Biotechnology</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince</ContributorIds>
+		<ContributorIds>raguidea, jamesro, quince</ContributorIds>
 		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
@@ -2073,7 +2073,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>whiteb</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Natsume S, Yaegashi H, Sugihara Y, Abe A, Shimizu M, Oikawa K, White B, Kudoh A, Terauchi R</ContributorList>
 		<Year>2022</Year>
 		<Month>6</Month>
@@ -4615,7 +4615,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rusholmr, whiteb, creynold, halla</ContributorIds>
+		<ContributorIds>rusholmr, creynold, halla</ContributorIds>
 		<ContributorList>Rees H, Rusholme-Pilcher R, Bailey P, Colmer J, White B, Reynolds C, Ward SJ, Graham CA, Dantas LLdB, Dodd AN, Hall A</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -9641,7 +9641,7 @@
 		<JournalName>F1000Research</JournalName>
 		<JournalVolume>5</JournalVolume>
 		<JournalPages>902</JournalPages>
-		<ContributorIds>whiteb</ContributorIds>
+		<ContributorIds />
 		<ContributorList>White B, Fatima V, Fatima N, Das S, Rahman F, Hassan M</ContributorList>
 		<Year>2016</Year>
 		<Month>5</Month>
@@ -22275,7 +22275,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea, quince, jamesro, rjames</ContributorIds>
+		<ContributorIds>raguidea, jamesro, quince, rjames</ContributorIds>
 		<ContributorList>Delaney J, Raguideau S, Holden J, Zhang L, Tipper H, Hill G, Klümper U, Zhang T, Cha C, Lee K, James R, Travis E, Bowes M, Hawkey P, Lindstrom H, Tang C, Gaze W, Mead A, Quince C, Singer A, Wellington E</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -22462,7 +22462,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, raguidea, rjames</ContributorIds>
+		<ContributorIds>quince, raguidea, jamesro, rjames</ContributorIds>
 		<ContributorList>Quince C, Nurk S, Raguideau S, James R, Soyer OS, Summers JK, Limasset A, Eren AM, Chikhi R, Darling AE</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
