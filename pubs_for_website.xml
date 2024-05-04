@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41597-024-03260-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromosome-scale genome assembly of bread wheat’s wild relative Triticum timopheevii</Title>
+		<DOI>10.1038/s41597-024-03260-w</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>swarbred</ContributorIds>
+		<ContributorList>Grewal S, Yang C, Scholefield D, Ashling S, Ghosh S, Swarbreck D, Collins J, Yao E, Sen TZ, Wilson M, Yant L, King IP, King J</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.04.03.587942</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The genome sequence of the Violet Carpenter Bee, Xylocopa violacea (Linnaeus, 1785): a hymenopteran species undergoing range expansion.</Title>
+		<DOI>10.1101/2024.04.03.587942</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.37044/osf.io/qjbxc</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -20321,7 +20355,7 @@
 		<Year>2020</Year>
 		<Month>3</Month>
 		<Day>12</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-020-6669-y</id>
