@@ -4228,7 +4228,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>9</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.09.07.459151</id>
@@ -12279,7 +12279,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Coiled-coil protein Scy is a key component of a multiprotein assembly controlling polarized growth in Streptomyces</Title>
+		<Title>Coiled-coil protein Scy is a key component of a multiprotein assembly controlling polarized growth inStreptomyces</Title>
 		<DOI>10.1073/pnas.1210657110</DOI>
 		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
 		<JournalVolume>110</JournalVolume>
@@ -22790,7 +22790,7 @@
 		<Year>2021</Year>
 		<Month>4</Month>
 		<Day>12</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.12.20.473597</id>
