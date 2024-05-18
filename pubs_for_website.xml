@@ -759,7 +759,7 @@
 		<Title>Automated Purification of DNA Origami with SPRI Beads</Title>
 		<DOI>10.1002/smll.202308776</DOI>
 		<JournalName>Small</JournalName>
-		<JournalVolume />
+		<JournalVolume>20</JournalVolume>
 		<JournalPages />
 		<ContributorIds>macaulai</ContributorIds>
 		<ContributorList>Chau C, Mohanan G, Macaulay I, Actis P, Wälti C</ContributorList>
@@ -17094,7 +17094,7 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>SMRT Gate: A method for validation of synthetic constructs on Pacific Biosciences sequencing platforms</Title>
+		<Title>SMRT Gate: A Method for Validation of Synthetic Constructs on Pacific Biosciences Sequencing Platforms</Title>
 		<DOI>10.2144/000114565</DOI>
 		<JournalName>BioTechniques</JournalName>
 		<JournalVolume>63</JournalVolume>
