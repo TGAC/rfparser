@@ -52,23 +52,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2024.04.03.587942</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>The genome sequence of the Violet Carpenter Bee, Xylocopa violacea (Linnaeus, 1785): a hymenopteran species undergoing range expansion.</Title>
-		<DOI>10.1101/2024.04.03.587942</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
-		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
-		<Year>2024</Year>
-		<Month>4</Month>
-		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.37044/osf.io/qjbxc</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -735,23 +718,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2024.02.05.578917</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Single-cell and spatial transcriptomics of the avian embryo tailbud</Title>
-		<DOI>10.1101/2024.02.05.578917</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>abinnie, lipscomj, haertyw</ContributorIds>
-		<ContributorList>Mok G, Turner S, Smith E, Mincarelli L, Lister A, Lipscombe J, Uzun V, Haerty W, Macaulay I, Münsterberg A</ContributorList>
-		<Year>2024</Year>
-		<Month>2</Month>
-		<Day>5</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1038/nature25995</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -938,23 +904,6 @@
 		<Year>2024</Year>
 		<Month>1</Month>
 		<Day>11</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.ygeno.2023.110633</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Chromatin accessibility in gill tissue identifies candidate genes and loci associated with aquaculture relevant traits in tilapia</Title>
-		<DOI>10.1016/j.ygeno.2023.110633</DOI>
-		<JournalName>Genomics</JournalName>
-		<JournalVolume>115</JournalVolume>
-		<JournalPages>110633</JournalPages>
-		<ContributorIds>mehtat, mana, ciezarek, haertyw</ContributorIds>
-		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
-		<Year>2023</Year>
-		<Month>7</Month>
-		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -1349,23 +1298,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2023.05.19.541459</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Ancient and ongoing hybridization in theOreochromiscichlid fishes</Title>
-		<DOI>10.1101/2023.05.19.541459</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>ciezarek, mehtat, mana, haertyw</ContributorIds>
-		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AG, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Palma FD, Turner GF, Genner MJ, Haerty W</ContributorList>
-		<Year>2023</Year>
-		<Month>5</Month>
-		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2023.12.30.573698</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -1381,40 +1313,6 @@
 		<Month>12</Month>
 		<Day>30</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/molbev/msad278</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Comparative Genome Microsynteny Illuminates the Fast Evolution of Nuclear Mitochondrial Segments (NUMTs) in Mammals</Title>
-		<DOI>10.1093/molbev/msad278</DOI>
-		<JournalName>Molecular Biology and Evolution</JournalName>
-		<JournalVolume>41</JournalVolume>
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Uvizl M, Puechmaille SJ, Power S, Pippel M, Carthy S, Haerty W, Myers EW, Teeling EC, Huang Z</ContributorList>
-		<Year>2023</Year>
-		<Month>12</Month>
-		<Day>20</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1002/yea.3919</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Schizosaccharomyces versatilis represents a distinct evolutionary lineage of fission yeast</Title>
-		<DOI>10.1002/yea.3919</DOI>
-		<JournalName>Yeast</JournalName>
-		<JournalVolume>41</JournalVolume>
-		<JournalPages>95-107</JournalPages>
-		<ContributorIds>ethering, haertyw, nieduszc</ContributorIds>
-		<ContributorList>Etherington GJ, Gil EG, Haerty W, Oliferenko S, Nieduszynski CA</ContributorList>
-		<Year>2023</Year>
-		<Month>12</Month>
-		<Day>26</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-023-43345-5</id>
@@ -1553,40 +1451,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2023.09.28.559913</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Socially plastic responses in females are robust to evolutionary manipulations of adult sex ratio and adult nutrition</Title>
-		<DOI>10.1101/2023.09.28.559913</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>McConnell N, Haerty W, Gage M, Chapman T</ContributorList>
-		<Year>2023</Year>
-		<Month>9</Month>
-		<Day>29</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1101/2023.09.16.558044</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>U6 snRNA m6A modification is required for accurate and efficient cis- and trans-splicing ofC. elegansmRNAs</Title>
-		<DOI>10.1101/2023.09.16.558044</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Shen A, Hencel K, Parker MT, Scott R, Skukan R, Adesina AS, Metheringham CL, Miska EA, Nam Y, Haerty W, Simpson GG, Akay A</ContributorList>
-		<Year>2023</Year>
-		<Month>9</Month>
-		<Day>16</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.7287/peerj.preprints.27332</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -1689,23 +1553,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1038/s42003-023-04936-6</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Single-cell gene and isoform expression analysis reveals signatures of ageing in haematopoietic stem and progenitor cells</Title>
-		<DOI>10.1038/s42003-023-04936-6</DOI>
-		<JournalName>Communications Biology</JournalName>
-		<JournalVolume>6</JournalVolume>
-		<JournalPages />
-		<ContributorIds>dwright, scoones, haertyw, macaulai</ContributorIds>
-		<ContributorList>Mincarelli L, Uzun V, Wright D, Scoones A, Rushworth SA, Haerty W, Macaulay IC</ContributorList>
-		<Year>2023</Year>
-		<Month>5</Month>
-		<Day>24</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1038/s42003-023-04965-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1754,23 +1601,6 @@
 		<Year>2023</Year>
 		<Month>7</Month>
 		<Day>29</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1186/s13059-023-02976-z</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Panhematopoietic RNA barcoding enables kinetic measurements of nucleate and anucleate lineages and the activation of myeloid clones following acute platelet depletion</Title>
-		<DOI>10.1186/s13059-023-02976-z</DOI>
-		<JournalName>Genome Biology</JournalName>
-		<JournalVolume>24</JournalVolume>
-		<JournalPages />
-		<ContributorIds>wojtowic, scoones, dwright, ethering, haertyw, macaulai</ContributorIds>
-		<ContributorList>Wojtowicz EE, Mistry JJ, Uzun V, Hellmich C, Scoones A, Chin DW, Kettyle LM, Grasso F, Lord AM, Wright DJ, Etherington GJ, Woll PS, Belderbos ME, Bowles KM, Nerlov C, Haerty W, Bystrykh LV, Jacobsen SEW, Rushworth SA, Macaulay IC</ContributorList>
-		<Year>2023</Year>
-		<Month>6</Month>
-		<Day>27</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -2997,23 +2827,6 @@
 		<Month>7</Month>
 		<Day>19</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1016/j.stemcr.2022.11.011</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>What has single-cell transcriptomics taught us about long non-coding RNAs in the ventricular-subventricular zone?</Title>
-		<DOI>10.1016/j.stemcr.2022.11.011</DOI>
-		<JournalName>Stem Cell Reports</JournalName>
-		<JournalVolume>18</JournalVolume>
-		<JournalPages>354-376</JournalPages>
-		<ContributorIds>haertyw</ContributorIds>
-		<ContributorList>Becker J, Sun B, Alammari F, Haerty W, Vance KW, Szele FG</ContributorList>
-		<Year>2023</Year>
-		<Month>1</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/aob/mcac115</id>
@@ -23949,6 +23762,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1016/j.stemcr.2022.11.011</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>What has single-cell transcriptomics taught us about long non-coding RNAs in the ventricular-subventricular zone?</Title>
+		<DOI>10.1016/j.stemcr.2022.11.011</DOI>
+		<JournalName>Stem Cell Reports</JournalName>
+		<JournalVolume>18</JournalVolume>
+		<JournalPages>354-376</JournalPages>
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Becker J, Sun B, Alammari F, Haerty W, Vance KW, Szele FG</ContributorList>
+		<Year>2023</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/ene.15671</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -24068,6 +23898,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1038/s42003-023-04936-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single-cell gene and isoform expression analysis reveals signatures of ageing in haematopoietic stem and progenitor cells</Title>
+		<DOI>10.1038/s42003-023-04936-6</DOI>
+		<JournalName>Communications Biology</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages />
+		<ContributorIds>dwright, scoones, haertyw, macaulai, mincarel, uzunv</ContributorIds>
+		<ContributorList>Mincarelli L, Uzun V, Wright D, Scoones A, Rushworth SA, Haerty W, Macaulay IC</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13059-023-02976-z</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Panhematopoietic RNA barcoding enables kinetic measurements of nucleate and anucleate lineages and the activation of myeloid clones following acute platelet depletion</Title>
+		<DOI>10.1186/s13059-023-02976-z</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages />
+		<ContributorIds>wojtowic, scoones, dwright, ethering, haertyw, macaulai, uzunv</ContributorIds>
+		<ContributorList>Wojtowicz EE, Mistry JJ, Uzun V, Hellmich C, Scoones A, Chin DW, Kettyle LM, Grasso F, Lord AM, Wright DJ, Etherington GJ, Woll PS, Belderbos ME, Bowles KM, Nerlov C, Haerty W, Bystrykh LV, Jacobsen SEW, Rushworth SA, Macaulay IC</ContributorList>
+		<Year>2023</Year>
+		<Month>6</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3390/biom13060986</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -24083,6 +23947,74 @@
 		<Month>6</Month>
 		<Day>14</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ygeno.2023.110633</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromatin accessibility in gill tissue identifies candidate genes and loci associated with aquaculture relevant traits in tilapia</Title>
+		<DOI>10.1016/j.ygeno.2023.110633</DOI>
+		<JournalName>Genomics</JournalName>
+		<JournalVolume>115</JournalVolume>
+		<JournalPages>110633</JournalPages>
+		<ContributorIds>mehtat, mana, ciezarek, haertyw</ContributorIds>
+		<ContributorList>Mehta TK, Man A, Ciezarek A, Ranson K, Penman D, Di-Palma F, Haerty W</ContributorList>
+		<Year>2023</Year>
+		<Month>7</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.05.19.541459</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Ancient and ongoing hybridization in theOreochromiscichlid fishes</Title>
+		<DOI>10.1101/2023.05.19.541459</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ciezarek, mehtat, mana, haertyw, dipalmaf</ContributorIds>
+		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AG, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Palma FD, Turner GF, Genner MJ, Haerty W</ContributorList>
+		<Year>2023</Year>
+		<Month>5</Month>
+		<Day>22</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.09.28.559913</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Socially plastic responses in females are robust to evolutionary manipulations of adult sex ratio and adult nutrition</Title>
+		<DOI>10.1101/2023.09.28.559913</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>McConnell N, Haerty W, Gage M, Chapman T</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>29</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2023.09.16.558044</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>U6 snRNA m6A modification is required for accurate and efficient cis- and trans-splicing ofC. elegansmRNAs</Title>
+		<DOI>10.1101/2023.09.16.558044</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Shen A, Hencel K, Parker MT, Scott R, Skukan R, Adesina AS, Metheringham CL, Miska EA, Nam Y, Haerty W, Simpson GG, Akay A</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>16</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1371/journal.pgen.1010913</id>
@@ -24102,6 +24034,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/molbev/msad278</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Comparative Genome Microsynteny Illuminates the Fast Evolution of Nuclear Mitochondrial Segments (NUMTs) in Mammals</Title>
+		<DOI>10.1093/molbev/msad278</DOI>
+		<JournalName>Molecular Biology and Evolution</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Uvizl M, Puechmaille SJ, Power S, Pippel M, Carthy S, Haerty W, Myers EW, Teeling EC, Huang Z</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>20</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.01.09.574802</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -24116,6 +24065,74 @@
 		<Year>2024</Year>
 		<Month>1</Month>
 		<Day>9</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.02.05.578917</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-cell and spatial transcriptomics of the avian embryo tailbud</Title>
+		<DOI>10.1101/2024.02.05.578917</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, lipscomj, haertyw, macaulai, mincarel, uzunv</ContributorIds>
+		<ContributorList>Mok G, Turner S, Smith E, Mincarelli L, Lister A, Lipscombe J, Uzun V, Haerty W, Macaulay I, Münsterberg A</ContributorList>
+		<Year>2024</Year>
+		<Month>2</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/yea.3919</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Schizosaccharomyces versatilis represents a distinct evolutionary lineage of fission yeast</Title>
+		<DOI>10.1002/yea.3919</DOI>
+		<JournalName>Yeast</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages>95-107</JournalPages>
+		<ContributorIds>ethering, haertyw, nieduszc</ContributorIds>
+		<ContributorList>Etherington GJ, Gil EG, Haerty W, Oliferenko S, Nieduszynski CA</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.04.26.591110</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Gene pseudogenization in fertility-associated genes in cheetah (Acinonyx jubatus), a species with long-term low effective population size</Title>
+		<DOI>10.1101/2024.04.26.591110</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
+		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>29</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.04.03.587942</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The genome sequence of the Violet Carpenter Bee, Xylocopa violacea (Linnaeus, 1785): a hymenopteran species undergoing range expansion.</Title>
+		<DOI>10.1101/2024.04.03.587942</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>5</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 </publications>
