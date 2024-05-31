@@ -7,6 +7,7 @@ import logging
 import os
 import re
 import sys
+import urllib.parse
 from dataclasses import dataclass
 from time import sleep
 from typing import (
@@ -45,6 +46,7 @@ __version__ = "0.0.1"
 REQUEST_TIMEOUT = 5.0
 REQUEST_RETRIES = 3
 BASE_CR_URL = "https://api.crossref.org"
+BASE_DOI_URL = "https://doi.org/api"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
 
@@ -186,14 +188,40 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     return ret
 
 
+def doi_exists(doi: str) -> bool:
+    """
+    Check that the given DOI handle exists at doi.org
+    """
+    try:
+        get_url(f"{BASE_DOI_URL}/handles/{urllib.parse.quote(doi, safe='')}")
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code != 404:
+            raise
+        return False
+    return True
+
+
 def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
-    r = get_url(f"{BASE_CR_URL}/works/{doi}", headers=headers)
-    r.raise_for_status()
+    cr_url = f"{BASE_CR_URL}/works/{urllib.parse.quote(doi, safe='')}"
+    try:
+        r = get_url(cr_url, headers=headers)
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code != 404:
+            raise
+        if not doi_exists(doi):
+            raise Exception(f"DOI {doi} cannot be resolved by doi.org, so it is probably incorrect")
+        r2 = get_url(f"{cr_url}/agency", headers=headers)
+        r2_dict = r2.json()
+        agency = r2_dict["message"]["agency"]
+        if agency["id"] != "crossref":
+            raise Exception(f"Registration agency for DOI {doi} is {agency['label']}, not CrossRef")
+        else:
+            raise
     r_dict = r.json()
     assert r_dict["status"] == "ok"
     return r_dict["message"]
@@ -203,8 +231,7 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     """
     Get the Open Access status of a publication using the Unpaywall API
     """
-    r = get_url(f"{BASE_UNPAYWALL_URL}/v2/{doi}?email={email}", s=s)
-    r.raise_for_status()
+    r = get_url(f"{BASE_UNPAYWALL_URL}/v2/{urllib.parse.quote(doi, safe='')}?email={email}", s=s)
     r_dict = r.json()
     return r_dict["oa_status"]
 
@@ -540,7 +567,7 @@ def main() -> None:
                     container_title, pub["series-title"] = container_title_list
                 else:
                     raise Exception(
-                        f"publication with doi '{doi}' of type {pub_type} has container-title with unknown book series: {container_title_list}"
+                        f"publication with DOI '{doi}' of type {pub_type} has container-title with unknown book series: {container_title_list}"
                     )
             pub["container-title"] = container_title
 
