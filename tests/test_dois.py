@@ -24,8 +24,8 @@ def test_doi_exists():
     assert doi_exists("10.1128/AEM.72.1.946-949.2006") is True
     assert doi_exists("10.17138/tgft(11)11-21") is True
     assert doi_exists("foo/bar") is False
-    with pytest.raises(requests.exceptions.HTTPError):
-        doi_exists("")
+    assert doi_exists("0.1101/2021.08.04.455072") is False
+    assert doi_exists("") is False
 
 
 def test_unpaywall_get_oa_status():

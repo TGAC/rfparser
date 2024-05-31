@@ -195,7 +195,7 @@ def doi_exists(doi: str) -> bool:
     try:
         get_url(f"{BASE_DOI_URL}/handles/{urllib.parse.quote(doi, safe='')}")
     except requests.exceptions.HTTPError as e:
-        if e.response.status_code != 404:
+        if e.response.status_code not in (400, 404):
             raise
         return False
     return True
