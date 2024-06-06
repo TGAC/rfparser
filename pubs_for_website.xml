@@ -1026,23 +1026,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1038/s41587-023-01983-6</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>High-quality metagenome assembly from long accurate reads with metaMDBG</Title>
-		<DOI>10.1038/s41587-023-01983-6</DOI>
-		<JournalName>Nature Biotechnology</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>raguidea, jamesro, quince</ContributorIds>
-		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
-		<Year>2024</Year>
-		<Month>1</Month>
-		<Day>2</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2023.08.20.553715</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -3764,7 +3747,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>raguidea</ContributorIds>
+		<ContributorIds>raguidea, quince</ContributorIds>
 		<ContributorList>Lidbury ID, Raguideau S, Liu S, Murphy ARJ, Stark R, Borsetto C, Fraser T, Goodall A, Bottrill A, Jones A, Bending GD, Tibbet M, Hammond JP, Quince C, Scanlan DJ, Pandhal J, Wellington EMH</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
@@ -23966,6 +23949,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1038/s41587-023-01983-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>High-quality metagenome assembly from long accurate reads with metaMDBG</Title>
+		<DOI>10.1038/s41587-023-01983-6</DOI>
+		<JournalName>Nature Biotechnology</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>raguidea, jamesro, quince</ContributorIds>
+		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>2</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s13659-023-00426-8</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -24119,6 +24119,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/molbev/msae088</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Macroevolutionary Dynamics in Micro-organisms: Generalists Give Rise to Specialists Across Biomes in the Ubiquitous Bacterial Phylum Myxococcota</Title>
+		<DOI>10.1093/molbev/msae088</DOI>
+		<JournalName>Molecular Biology and Evolution</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages />
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Padfield D, Kay S, Vos R, Quince C, Vos M</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41564-024-01688-9</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -24126,8 +24143,8 @@
 		<Title>Reply to: Microbial dark matter could add uncertainties to metagenomic trait estimations</Title>
 		<DOI>10.1038/s41564-024-01688-9</DOI>
 		<JournalName>Nature Microbiology</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>1431-1433</JournalPages>
 		<ContributorIds>hildebrf, hildebra</ContributorIds>
 		<ContributorList>Piton G, Allison SD, Bahram M, Hildebrand F, Martiny JBH, Treseder KK, Martiny AC</ContributorList>
 		<Year>2024</Year>
