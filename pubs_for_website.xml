@@ -24153,6 +24153,23 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1186/s12864-024-10525-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>adhesiomeR: a tool for Escherichia coli adhesin classification and analysis</Title>
+		<DOI>10.1186/s12864-024-10525-6</DOI>
+		<JournalName>BMC Genomics</JournalName>
+		<JournalVolume>25</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf, cerk, fritsche, hildebra, kar23yal, kingsler, kolenda</ContributorIds>
+		<ContributorList>Sidorczuk K, Burdukiewicz M, Cerk K, Fritscher J, Kingsley RA, Schierack P, Hildebrand F, Kolenda R</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/1755-0998.13847</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
