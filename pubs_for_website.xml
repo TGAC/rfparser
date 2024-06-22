@@ -1,6 +1,108 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1186/s12915-024-01853-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Introgressions lead to reference bias in wheat RNA-seq analysis</Title>
+		<DOI>10.1186/s12915-024-01853-w</DOI>
+		<JournalName>BMC Biology</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages />
+		<ContributorIds>coombes, halla</ContributorIds>
+		<ContributorList>Coombes B, Lux T, Akhunov E, Hall A</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day>7</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1021/acssynbio.4c00047</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Engineering Plant Cell Fates and Functions for Agriculture and Industry</Title>
+		<DOI>10.1021/acssynbio.4c00047</DOI>
+		<JournalName>ACS Synthetic Biology</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages>998-1005</JournalPages>
+		<ContributorIds>tansley, patronn, reg23vok</ContributorIds>
+		<ContributorList>Tansley C, Patron NJ, Guiziou S</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.ppat.1012182</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Tools for pathogen genetic surveillance: Lessons from the ash dieback invasion of Europe</Title>
+		<DOI>10.1371/journal.ppat.1012182</DOI>
+		<JournalName>PLOS Pathogens</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages>e1012182</JournalPages>
+		<ContributorIds>jpeers, leggettr, mcmullam</ContributorIds>
+		<ContributorList>Peers JA, Leggett RM, Clark MD, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1755-0998.13967</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomics‐informed captive breeding can reduce inbreeding depression and the genetic load in zoo populations</Title>
+		<DOI>10.1111/1755-0998.13967</DOI>
+		<JournalName>Molecular Ecology Resources</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Speak SA, Birley T, Bortoluzzi C, Clark MD, Percival‐Alwyn L, Morales HE, van Oosterhout C</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/g3journal/jkae108</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genome-wide association analyses using multilocus models on bananas (Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
+		<DOI>10.1093/g3journal/jkae108</DOI>
+		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>devegaj</ContributorIds>
+		<ContributorList>Osorio-Guarin JA, Higgins J, Toloza-Moreno DL, Di Palma F, Enriquez Valencia AL, Riveros Munévar F, De Vega JJ, Yockteng R</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1073/pnas.2314213121</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Deep sequencing of Phox2a nuclei reveals five classes of anterolateral system neurons</Title>
+		<DOI>10.1073/pnas.2314213121</DOI>
+		<JournalName>Proceedings of the National Academy of Sciences</JournalName>
+		<JournalVolume>121</JournalVolume>
+		<JournalPages />
+		<ContributorIds>uttingc, lany, macaulai</ContributorIds>
+		<ContributorList>Bell AM, Utting C, Dickie AC, Kucharczyk MW, Quillet R, Gutierrez-Mecinas M, Razlan ANB, Cooper AH, Lan Y, Hachisuka J, Weir GA, Bannister K, Watanabe M, Kania A, Hoon MA, Macaulay IC, Denk F, Todd AJ</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/nar/gkae410</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
