@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1007/s11538-024-01314-z</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Dimensions of Level-1 Group-Based Phylogenetic Networks</Title>
+		<DOI>10.1007/s11538-024-01314-z</DOI>
+		<JournalName>Bulletin of Mathematical Biology</JournalName>
+		<JournalVolume>86</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Gross E, Krone R, Martin S</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s12915-024-01853-w</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -6728,7 +6745,7 @@
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>5815</JournalPages>
 		<ContributorIds />
-		<ContributorList>Kovács, Sigmond, Hotzi, Bohár, Fazekas, Deák, Vellai, Barna</ContributorList>
+		<ContributorList>Kovács D, Sigmond T, Hotzi B, Bohár B, Fazekas D, Deák V, Vellai T, Barna J</ContributorList>
 		<Year>2019</Year>
 		<Month>11</Month>
 		<Day>19</Day>
@@ -19756,7 +19773,7 @@
 		<JournalVolume>11</JournalVolume>
 		<JournalPages>6863</JournalPages>
 		<ContributorIds>sudhakap</ContributorIds>
-		<ContributorList>Chalmers, Stetkiewicz, Sudhakar, Osei-Kwasi, Reynolds</ContributorList>
+		<ContributorList>Chalmers N, Stetkiewicz S, Sudhakar P, Osei-Kwasi H, Reynolds CJ</ContributorList>
 		<Year>2019</Year>
 		<Month>12</Month>
 		<Day>2</Day>
