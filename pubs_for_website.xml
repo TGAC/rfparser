@@ -1597,7 +1597,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>mctaggar</ContributorIds>
-		<ContributorList>Böhne A, Fernández R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Pettersson OV, Struck TH</ContributorList>
+		<ContributorList>Böhne A, Fernández R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Vinnere Pettersson O, Struck TH</ContributorList>
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>30</Day>
@@ -4041,7 +4041,7 @@
 		<Year>2021</Year>
 		<Month>8</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2021.09.07.459151</id>
