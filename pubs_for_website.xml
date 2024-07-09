@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.3324/haematol.2023.283944</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Acute myeloid leukemia driven IL-3-dependent upregulation of BCL2 in non-malignant hematopoietic stem and progenitor cells increases venetoclax-induced cytopenias</Title>
+		<DOI>10.3324/haematol.2023.283944</DOI>
+		<JournalName>Haematologica</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>wojtowic</ContributorIds>
+		<ContributorList>Fowler-Shorten DJ, Maynard RS, Hampton K, Altera A, Markham M, Ehikioya M, Wojtowicz EE, Bowles KM, Rushworth SA, Hellmich C</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1007/s11538-024-01314-z</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
