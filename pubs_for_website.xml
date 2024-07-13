@@ -1614,7 +1614,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>mctaggar</ContributorIds>
-		<ContributorList>Boehne A, Fernandez R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Vinnere Pettersson O, Struck TH</ContributorList>
+		<ContributorList>Böhne A, Fernández R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Vinnere Pettersson O, Struck TH</ContributorList>
 		<Year>2023</Year>
 		<Month>6</Month>
 		<Day>30</Day>
@@ -2911,6 +2911,23 @@
 		<Year>2021</Year>
 		<Month>1</Month>
 		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/msystems.01493-21</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Multilayered Networks of SalmoNet2 Enable Strain Comparisons of the Salmonella Genus on a Molecular Level</Title>
+		<DOI>10.1128/msystems.01493-21</DOI>
+		<JournalName>mSystems</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Olbei M, Bohar B, Fazekas D, Madgwick M, Sudhakar P, Hautefort I, Métris A, Baranyi J, Kingsley RA, Korcsmaros T</ContributorList>
+		<Year>2022</Year>
+		<Month>8</Month>
+		<Day>30</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -10263,40 +10280,6 @@
 		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1016/j.mib.2004.04.009</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Benefits and pitfalls of using microarrays to monitor bacterial gene expression during infection</Title>
-		<DOI>10.1016/j.mib.2004.04.009</DOI>
-		<JournalName>Current Opinion in Microbiology</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages>277-282</JournalPages>
-		<ContributorIds>hinton, ihautefo, thompsoa</ContributorIds>
-		<ContributorList>HINTON J, HAUTEFORT I, ERIKSSON S, THOMPSON A, RHEN M</ContributorList>
-		<Year>2004</Year>
-		<Month>6</Month>
-		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1128/AEM.72.1.946-949.2006</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Butyrate Specifically Down-Regulates Salmonella Pathogenicity Island 1 Gene Expression</Title>
-		<DOI>10.1128/AEM.72.1.946-949.2006</DOI>
-		<JournalName>Applied and Environmental Microbiology</JournalName>
-		<JournalVolume>72</JournalVolume>
-		<JournalPages>946-949</JournalPages>
-		<ContributorIds>hinton, ihautefo, thompsoa</ContributorIds>
-		<ContributorList>Gantois I, Ducatelle R, Pasmans F, Haesebrouck F, Hautefort I, Thompson A, Hinton JC, Van Immerseel F</ContributorList>
-		<Year>2006</Year>
-		<Month>1</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.mib.2005.12.010</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -10397,23 +10380,6 @@
 		<Month>5</Month>
 		<Day>1</Day>
 		<OpenAccess>Bronze Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1111/j.1462-5822.2006.00799.x</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Real-time studies of the progression of bacterial infections and immediate tissue responses in live animals</Title>
-		<DOI>10.1111/j.1462-5822.2006.00799.x</DOI>
-		<JournalName>Cellular Microbiology</JournalName>
-		<JournalVolume>9</JournalVolume>
-		<JournalPages>413-424</JournalPages>
-		<ContributorIds>ihautefo</ContributorIds>
-		<ContributorList>Månsson LE, Melican K, Boekel J, Sandoval RM, Hautefort I, Tanner GA, Molitoris BA, Richter-Dahlfors A</ContributorList>
-		<Year>2007</Year>
-		<Month>2</Month>
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1105/tpc.108.057976</id>
@@ -12753,23 +12719,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1371/journal.pone.0084553</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Intestinal Intraepithelial Lymphocyte-Enterocyte Crosstalk Regulates Production of Bactericidal Angiogenin 4 by Paneth Cells upon Microbial Challenge</Title>
-		<DOI>10.1371/journal.pone.0084553</DOI>
-		<JournalName>PLoS ONE</JournalName>
-		<JournalVolume>8</JournalVolume>
-		<JournalPages>e84553</JournalPages>
-		<ContributorIds>cardings, ihautefo, overwegk</ContributorIds>
-		<ContributorList>Walker CR, Hautefort I, Dalton JE, Overweg K, Egan CE, Bongaerts RJ, Newton DJ, Cruickshank SM, Andrew EM, Carding SR</ContributorList>
-		<Year>2013</Year>
-		<Month>12</Month>
-		<Day>17</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.12688/f1000research.2-248.v2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -12932,7 +12881,7 @@
 		<JournalName>Cell Reports</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages>646-656</JournalPages>
-		<ContributorIds>baileyp, cardings, horn, ihautefo, stentzr</ContributorIds>
+		<ContributorIds>baileyp, cardings, horn, rek24cel, stentzr</ContributorIds>
 		<ContributorList>Stentz R, Osborne S, Horn N, Li AW, Hautefort I, Bongaerts R, Rouyer M, Bailey P, Shears SB, Hemmings AM, Brearley CA, Carding SR</ContributorList>
 		<Year>2014</Year>
 		<Month>2</Month>
@@ -13516,23 +13465,6 @@
 		<Month>9</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/glycob/cwu088</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Mice deficient in intestinal γδ intraepithelial lymphocytes display an altered intestinal O-glycan profile compared with wild-type littermates</Title>
-		<DOI>10.1093/glycob/cwu088</DOI>
-		<JournalName>Glycobiology</JournalName>
-		<JournalVolume>25</JournalVolume>
-		<JournalPages>42-54</JournalPages>
-		<ContributorIds>fuell, ihautefo, jugen, kobero</ContributorIds>
-		<ContributorList>Fuell C, Kober OI, Hautefort I, Juge N</ContributorList>
-		<Year>2014</Year>
-		<Month>9</Month>
-		<Day>3</Day>
-		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/1471-2164-15-901</id>
@@ -18956,7 +18888,7 @@
 		<JournalName>Disease Models &amp;amp; Mechanisms</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, divekard, hallli, ihautefo, korcsmat, lgul, sudhakap, treveila, watsona, wilemant, wrzesint</ContributorIds>
+		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, divekard, hallli, korcsmat, lgul, rek24cel, sudhakap, treveila, watsona, wilemant, wrzesint</ContributorIds>
 		<ContributorList>Jones EJ, Matthews ZJ, Gul L, Sudhakar P, Treveil A, Divekar D, Buck J, Wrzesinski T, Jefferson M, Armstrong SD, Hall LJ, Watson AJM, Carding SR, Haerty W, Di Palma F, Mayer U, Powell PP, Hautefort I, Wileman T, Korcsmaros T</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -19007,7 +18939,7 @@
 		<JournalName>Autophagy</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages>1620-1633</JournalPages>
-		<ContributorIds>demeter, emjones, ihautefo, korcsmat, lgul, sudhakap</ContributorIds>
+		<ContributorIds>demeter, emjones, korcsmat, lgul, rek24cel, sudhakap</ContributorIds>
 		<ContributorList>Sudhakar P, Jacomin A, Hautefort I, Samavedam S, Fatemian K, Ari E, Gul L, Demeter A, Jones E, Korcsmaros T, Nezis IP</ContributorList>
 		<Year>2019</Year>
 		<Month>3</Month>
@@ -19874,7 +19806,7 @@
 		<JournalName>Molecular Omics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages>39-58</JournalPages>
-		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, hallli, ihautefo, jbrooks, korcsmat, olbeim, sudhakap, treveila, wilemant, wrzesint</ContributorIds>
+		<ContributorIds>haertyw, blakesle, cardings, dipalmaf, hallli, jbrooks, korcsmat, olbeim, rek24cel, sudhakap, treveila, wilemant, wrzesint</ContributorIds>
 		<ContributorList>Treveil A, Sudhakar P, Matthews ZJ, Wrzesiński T, Jones EJ, Brooks J, Ölbei M, Hautefort I, Hall LJ, Carding SR, Mayer U, Powell PP, Wileman T, Di Palma F, Haerty W, Korcsmáros T</ContributorList>
 		<Year>2020</Year>
 		<Month />
@@ -20027,7 +19959,7 @@
 		<JournalName>Frontiers in Microbiology</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>jod23rof, blakesle, boothc, cardings, gottsk, ihautefo, miquela, parkera, stentzr, wilemant</ContributorIds>
+		<ContributorIds>jod23rof, blakesle, boothc, cardings, gottsk, miquela, parkera, rek24cel, stentzr, wilemant</ContributorIds>
 		<ContributorList>Jones EJ, Booth C, Fonseca S, Parker A, Cross K, Miquel-Clopés A, Hautefort I, Mayer U, Wileman T, Stentz R, Carding SR</ContributorList>
 		<Year>2020</Year>
 		<Month>2</Month>
@@ -21695,7 +21627,7 @@
 		<JournalName>PLOS Computational Biology</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages>e1008685</JournalPages>
-		<ContributorIds>boharb, csabail, ihautefo, korcsmat, lgul, madgwicm, modos, olbeim, poletti, sudhakap, treveila</ContributorIds>
+		<ContributorIds>boharb, csabail, korcsmat, lgul, madgwicm, modos, olbeim, poletti, rek24cel, sudhakap, treveila</ContributorIds>
 		<ContributorList>Treveil A, Bohar B, Sudhakar P, Gul L, Csabai L, Olbei M, Poletti M, Madgwick M, Andrighetti T, Hautefort I, Modos D, Korcsmaros T</ContributorList>
 		<Year>2021</Year>
 		<Month>2</Month>
@@ -21746,7 +21678,7 @@
 		<JournalName>Frontiers in Immunology</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ihautefo, korcsmat, lgul, modos, olbeim, poletti, treveila</ContributorIds>
+		<ContributorIds>korcsmat, lgul, modos, olbeim, poletti, rek24cel, treveila</ContributorIds>
 		<ContributorList>Olbei M, Hautefort I, Modos D, Treveil A, Poletti M, Gul L, Shannon-Lowe CD, Korcsmaros T</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -22462,7 +22394,7 @@
 		<JournalName>Cells</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages>2242</JournalPages>
-		<ContributorIds>boharb, csabail, ihautefo, korcsmat, lgul, madgwicm, modos, olbeim, thomas, treveila</ContributorIds>
+		<ContributorIds>boharb, csabail, korcsmat, lgul, madgwicm, modos, olbeim, rek24cel, thomas, treveila</ContributorIds>
 		<ContributorList>Olbei M, Thomas JP, Hautefort I, Treveil A, Bohar B, Madgwick M, Gul L, Csabai L, Modos D, Korcsmaros T</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -22632,7 +22564,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>boharb, ihautefo, kingsler, korcsmat, madgwicm, olbeim, sudhakap</ContributorIds>
+		<ContributorIds>boharb, kingsler, korcsmat, madgwicm, olbeim, rek24cel, sudhakap</ContributorIds>
 		<ContributorList>Olbei M, Bohar B, Fazekas D, Madgwick M, Sudhakar P, Hautefort I, Métris A, Baranyi J, Kingsley RA, Korcsmaros T</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -23244,7 +23176,7 @@
 		<JournalName>Cellular and Molecular Gastroenterology and Hepatology</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages>311-331</JournalPages>
-		<ContributorIds>ihautefo, korcsmat, papp, poletti</ContributorIds>
+		<ContributorIds>korcsmat, papp, poletti, rek24cel</ContributorIds>
 		<ContributorList>Hautefort I, Poletti M, Papp D, Korcsmaros T</ContributorList>
 		<Year>2022</Year>
 		<Month />
@@ -23456,23 +23388,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1128/msystems.01493-21</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Multilayered Networks of SalmoNet2 Enable Strain Comparisons of the Salmonella Genus on a Molecular Level</Title>
-		<DOI>10.1128/msystems.01493-21</DOI>
-		<JournalName>mSystems</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages />
-		<ContributorIds>baranyi, ihautefo, kingsler</ContributorIds>
-		<ContributorList>Olbei M, Bohar B, Fazekas D, Madgwick M, Sudhakar P, Hautefort I, Métris A, Baranyi J, Kingsley RA, Korcsmaros T</ContributorList>
-		<Year>2022</Year>
-		<Month>8</Month>
-		<Day>30</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.3389/fcimb.2022.834895</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -23482,7 +23397,7 @@
 		<JournalName>Frontiers in Cellular and Infection Microbiology</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages />
-		<ContributorIds>abinnie, lipscomj, macaulai, branchup, demeter, ihautefo, kingsler, korcsmat, lgul</ContributorIds>
+		<ContributorIds>abinnie, lipscomj, macaulai, branchup, demeter, kingsler, korcsmat, lgul, rek24cel</ContributorIds>
 		<ContributorList>Demeter A, Jacomin A, Gul L, Lister A, Lipscombe J, Invernizzi R, Branchu P, Macaulay I, Nezis IP, Kingsley RA, Korcsmaros T, Hautefort I</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
