@@ -27,7 +27,7 @@
 		<JournalName>Bulletin of Mathematical Biology</JournalName>
 		<JournalVolume>86</JournalVolume>
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>martins</ContributorIds>
 		<ContributorList>Gross E, Krone R, Martin S</ContributorList>
 		<Year>2024</Year>
 		<Month>6</Month>
@@ -1477,7 +1477,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr</ContributorIds>
+		<ContributorIds>martins, leggettr</ContributorIds>
 		<ContributorList>Martin S, Moulton V, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>9</Month>
@@ -18272,7 +18272,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, heavensd, alconc, caims, hallli, kujawskm, martins, mclark</ContributorIds>
+		<ContributorIds>leggettr, heavensd, martins, alconc, caims, hallli, kujawskm, mclark</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2017</Year>
 		<Month>8</Month>
@@ -19262,7 +19262,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>leggettr, martins</ContributorIds>
+		<ContributorIds>martins, leggettr</ContributorIds>
 		<ContributorList>Martin S, Leggett RM</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
@@ -19789,7 +19789,7 @@
 		<JournalName>Nature Microbiology</JournalName>
 		<JournalVolume>5</JournalVolume>
 		<JournalPages>430-442</JournalPages>
-		<ContributorIds>leggettr, heavensd, peeln, acfordp, alconc, caims, hallli, kujawskm, martins</ContributorIds>
+		<ContributorIds>leggettr, heavensd, martins, peeln, acfordp, alconc, caims, hallli, kujawskm</ContributorIds>
 		<ContributorList>Leggett RM, Alcon-Giner C, Heavens D, Caim S, Brook TC, Kujawska M, Martin S, Peel N, Acford-Palmer H, Hoyles L, Clarke P, Hall LJ, Clark MD</ContributorList>
 		<Year>2019</Year>
 		<Month>12</Month>
@@ -20661,7 +20661,7 @@
 		<Year>2020</Year>
 		<Month>8</Month>
 		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2020.08.25.266213</id>
@@ -21916,7 +21916,7 @@
 		<JournalName>BMC Bioinformatics</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>leggettr, martins</ContributorIds>
+		<ContributorIds>martins, leggettr</ContributorIds>
 		<ContributorList>Martin S, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -22122,7 +22122,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
+		<ContributorIds>martins, heavensd, lany, leggettr</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>5</Month>
@@ -22275,7 +22275,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
+		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>7</Month>
@@ -22462,7 +22462,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, leggettr, alston, giolaim, martins</ContributorIds>
+		<ContributorIds>heavensd, martins, leggettr, alston, giolaim</ContributorIds>
 		<ContributorList>Heavens D, Chooneea D, Giolai M, Cuber P, Aanstad P, Martin S, Alston M, Misra R, Clark MD, Leggett RM</ContributorList>
 		<Year>2021</Year>
 		<Month>10</Month>
@@ -22870,7 +22870,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>heavensd, lany, leggettr, martins</ContributorIds>
+		<ContributorIds>martins, heavensd, lany, leggettr</ContributorIds>
 		<ContributorList>Martin S, Heavens D, Lan Y, Horsfield S, Clark MD, Leggett RM</ContributorList>
 		<Year>2022</Year>
 		<Month>1</Month>
@@ -23737,7 +23737,7 @@
 		<JournalName>Bioinformatics</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>aylingm, leggettr, martins</ContributorIds>
+		<ContributorIds>martins, aylingm, leggettr</ContributorIds>
 		<ContributorList>Martin S, Ayling M, Patrono L, Caccamo M, Murcia P, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>1</Month>
