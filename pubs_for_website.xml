@@ -1728,17 +1728,17 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Degradome Assisted Plant MicroRNA Prediction under Alternative Annotation Criteria</Title>
+		<Title>Degradome Assisted Plant MicroRNA Prediction Under Alternative Annotation Criteria</Title>
 		<DOI>10.1109/tcbb.2021.3115023</DOI>
 		<JournalName>IEEE/ACM Transactions on Computational Biology and Bioinformatics</JournalName>
-		<JournalVolume />
-		<JournalPages>1-1</JournalPages>
+		<JournalVolume>19</JournalVolume>
+		<JournalPages>3374-3383</JournalPages>
 		<ContributorIds>swarbred</ContributorIds>
 		<ContributorList>Alzahrani S, Applegate C, Swarbreck D, Dalmay T, Folkes L, Moulton V</ContributorList>
-		<Year>2021</Year>
-		<Month />
-		<Day />
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<Year>2022</Year>
+		<Month>11</Month>
+		<Day>1</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-023-36503-2</id>
