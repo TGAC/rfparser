@@ -2703,7 +2703,7 @@
 		<JournalVolume>14</JournalVolume>
 		<JournalPages>1724-1733</JournalPages>
 		<ContributorIds>mctaggar</ContributorIds>
-		<ContributorList>Kalla R, Adams AT, Ventham NT, Kennedy NA, White R, Clarke C, Ivens A, Bergemalm D, Vatn S, Lopez-Jimena B, Ricanek P, Vatn MH, Söderholm JD, Gomollón F, Nowak JK, Jahnsen J, Halfvarson J, McTaggart S, Ho GT, Buck A, Satsangi J, IBD Character Consortium</ContributorList>
+		<ContributorList>Kalla R, Adams AT, Ventham NT, Kennedy NA, White R, Clarke C, Ivens A, Bergemalm D, Vatn S, Lopez-Jimena B, IBD Character Consortium, Ricanek P, Vatn MH, Söderholm JD, Gomollón F, Nowak JK, Jahnsen J, Halfvarson J, McTaggart S, Ho GT, Buck A, Satsangi J</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
 		<Day>29</Day>
@@ -5732,7 +5732,7 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Evolution of the bread wheat D-subgenome and enriching it with diversity from Aegilops tauschii</Title>
+		<Title>Evolution of the bread wheat D-subgenome and enriching it with diversity fromAegilops tauschii</Title>
 		<DOI>10.1101/2021.01.31.428788</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
@@ -24112,7 +24112,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>rusholmr, kaithakg, wrightj, coombes, irishn, kidgells, barkert, clissold, gharbik, haertyw, swarbred, halla, borrillp, bward, colmer, duncan, hchapman, joynsonr, reesh, simmonds, uauyc, whiteb</ContributorIds>
-		<ContributorList>White B, Lux T, Rusholme-Pilcher RL, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger S, Stein N, Mayer KF, Pozniak C, Spannagl M, Hall A, 10+ Wheat Genome Project</ContributorList>
+		<ContributorList>White B, Lux T, Rusholme-Pilcher RL, Juhász A, Kaithakottil G, Duncan S, Simmonds J, Rees H, Wright J, Colmer J, Ward S, Joynson R, Coombes B, Irish N, Henderson S, Barker T, Chapman H, Catchpole L, Gharbi K, Okada M, Handa H, Nasuda S, Shimizu KK, Gundlach H, Lang D, Naamati G, Legg EJ, Bharti AK, Colgrave ML, Haerty W, Uauy C, Swarbreck D, Borrill P, Poland JA, Krattinger S, Stein N, Mayer KF, Pozniak C, 10+ Wheat Genome Project, Spannagl M, Hall A</ContributorList>
 		<Year>2024</Year>
 		<Month>1</Month>
 		<Day>9</Day>
