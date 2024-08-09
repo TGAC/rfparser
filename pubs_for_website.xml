@@ -110,7 +110,7 @@
 		<Title>Genome-wide association analyses using multilocus models on bananas (Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
 		<DOI>10.1093/g3journal/jkae108</DOI>
 		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
-		<JournalVolume />
+		<JournalVolume>14</JournalVolume>
 		<JournalPages />
 		<ContributorIds>devegaj</ContributorIds>
 		<ContributorList>Osorio-Guarin JA, Higgins J, Toloza-Moreno DL, Di Palma F, Enriquez Valencia AL, Riveros Munévar F, De Vega JJ, Yockteng R</ContributorList>
@@ -989,7 +989,7 @@
 		<Year>2022</Year>
 		<Month>5</Month>
 		<Day>23</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.03.30.534858</id>
@@ -4178,7 +4178,7 @@
 		<Year>2022</Year>
 		<Month>2</Month>
 		<Day>15</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2022.02.09.479695</id>
@@ -9420,7 +9420,7 @@
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
 		<ContributorIds>swarbred</ContributorIds>
-		<ContributorList>Rallapalli G, Saunders DG, Yoshida K, Edwards A, Lugo CA, Collin S, Clavijo B, Corpas M, Swarbreck D, Clark M, Downie JA, Kamoun S, MacLean D, Fraxinus Players, Team Cooper</ContributorList>
+		<ContributorList>Rallapalli G, Fraxinus Players, Saunders DG, Yoshida K, Edwards A, Lugo CA, Collin S, Clavijo B, Corpas M, Swarbreck D, Clark M, Downie JA, Kamoun S, Team Cooper, MacLean D</ContributorList>
 		<Year>2015</Year>
 		<Month>7</Month>
 		<Day>29</Day>
@@ -17002,7 +17002,7 @@
 		<Year>2017</Year>
 		<Month>8</Month>
 		<Day>8</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gbe/evx152</id>
@@ -18209,7 +18209,7 @@
 		<Year>2018</Year>
 		<Month>8</Month>
 		<Day>9</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/383919</id>
@@ -19505,7 +19505,7 @@
 		<Year>2019</Year>
 		<Month>10</Month>
 		<Day>22</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12870-019-2021-6</id>
@@ -23810,7 +23810,7 @@
 		<Year>2023</Year>
 		<Month>2</Month>
 		<Day>18</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41467-023-36633-7</id>
