@@ -4121,7 +4121,7 @@
 		<JournalName />
 		<BookTitle>International Handbook on Responsible Innovation</BookTitle>
 		<JournalVolume />
-		<JournalPages />
+		<JournalPages>181-193</JournalPages>
 		<ContributorIds />
 		<ContributorList>Nordmann A</ContributorList>
 		<Year>2019</Year>
@@ -15404,7 +15404,7 @@
 		<Year>2016</Year>
 		<Month>5</Month>
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/jxb/erw042</id>
