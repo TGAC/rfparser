@@ -24024,8 +24024,8 @@
 		<Title>High-quality metagenome assembly from long accurate reads with metaMDBG</Title>
 		<DOI>10.1038/s41587-023-01983-6</DOI>
 		<JournalName>Nature Biotechnology</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>42</JournalVolume>
+		<JournalPages>1378-1383</JournalPages>
 		<ContributorIds>raguidea, jamesro, quince, rjames</ContributorIds>
 		<ContributorList>Benoit G, Raguideau S, James R, Phillippy AM, Chikhi R, Quince C</ContributorList>
 		<Year>2024</Year>
