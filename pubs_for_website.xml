@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41586-024-07682-9</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Harnessing landrace diversity empowers wheat breeding</Title>
+		<DOI>10.1038/s41586-024-07682-9</DOI>
+		<JournalName>Nature</JournalName>
+		<JournalVolume>632</JournalVolume>
+		<JournalPages>823-831</JournalPages>
+		<ContributorIds>tyrrells</ContributorIds>
+		<ContributorList>Cheng S, Feng C, Wingen LU, Cheng H, Riche AB, Jiang M, Leverington-Waite M, Huang Z, Collier S, Orford S, Wang X, Awal R, Barker G, O’Hara T, Lister C, Siluveru A, Quiroz-Chávez J, Ramírez-González RH, Bryant R, Berry S, Bansal U, Bariana HS, Bennett MJ, Bicego B, Bilham L, Brown JKM, Burridge A, Burt C, Buurman M, Castle M, Chartrain L, Chen B, Denbel W, Elkot AF, Fenwick P, Feuerhelm D, Foulkes J, Gaju O, Gauley A, Gaurav K, Hafeez AN, Han R, Horler R, Hou J, Iqbal MS, Kerton M, Kondic-Spica A, Kowalski A, Lage J, Li X, Liu H, Liu S, Lovegrove A, Ma L, Mumford C, Parmar S, Philp C, Playford D, Przewieslik-Allen AM, Sarfraz Z, Schafer D, Shewry PR, Shi Y, Slafer GA, Song B, Song B, Steele D, Steuernagel B, Tailby P, Tyrrell S, Waheed A, Wamalwa MN, Wang X, Wei Y, Winfield M, Wu S, Wu Y, Wulff BBH, Xian W, Xu Y, Xu Y, Yuan Q, Zhang X, Edwards KJ, Dixon L, Nicholson P, Chayut N, Hawkesford MJ, Uauy C, Sanders D, Huang S, Griffiths S</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.08.30.610507</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Starshipgiant transposable elements cluster by host taxonomy using kmer-based phylogenetics</Title>
+		<DOI>10.1101/2024.08.30.610507</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Smith D, Canning G, Grey M, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>30</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3114/fuse.2024.13.12</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>New and Interesting Fungi. 7.</Title>
+		<DOI>10.3114/fuse.2024.13.12</DOI>
+		<JournalName>Fungal Systematics and Evolution</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages>441-494</JournalPages>
+		<ContributorIds>rel22vaz</ContributorIds>
+		<ContributorList>Visagie C, Yilmaz N, Allison J, Barreto R, Boekhout T, Boers J, Delgado M, Dewing C, Fitza K, Furtado E, Gaya E, Hill R, Hobden A, Hu D, Hülsewig T, Khonsanit A, Luangsa-ard J, Mthembu A, Pereira C, Price J, Pringle A, Qikani N, Sandoval-Denis M, Schumacher R, Seifert K, Slippers B, Tennakoon D, Thanakitpipattana D, Vuuren Nv, Groenewald J, Crous P</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>30</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3324/haematol.2023.283944</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
