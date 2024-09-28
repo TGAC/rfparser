@@ -18,6 +18,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.08.21.608935</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Graph models of brain state in deep anaesthesia reveal sink state dynamics of reduced spatiotemporal complexity and integration</Title>
+		<DOI>10.1101/2024.08.21.608935</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>pil24hef</ContributorIds>
+		<ContributorList>Wilsenach J, Deane CM, Reinert G, Warnaby K</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>22</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.08.30.610507</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -7940,7 +7957,7 @@
 		<Year>2018</Year>
 		<Month>1</Month>
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41564-019-0377-x</id>
