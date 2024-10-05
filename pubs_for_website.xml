@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s42003-024-06932-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Low protein diet protects the liver from Salmonella Typhimurium-mediated injury by modulating the mTOR/autophagy axis in macrophages</Title>
+		<DOI>10.1038/s42003-024-06932-w</DOI>
+		<JournalName>Communications Biology</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages />
+		<ContributorIds>wojtowic, uttingc, lany, macaulai</ContributorIds>
+		<ContributorList>Wojtowicz EE, Hampton K, Moreno-Gonzalez M, Utting CL, Lan Y, Ruiz P, Beasy G, Bone C, Hellmich C, Maynard R, Acton L, Markham M, Troeberg L, Telatin A, Kingsley RA, Macaulay IC, Rushworth SA, Beraza N</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41586-024-07682-9</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
