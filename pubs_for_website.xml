@@ -10607,16 +10607,16 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Whole genome sequencing of a natural recombinant Toxoplasma gondii strain reveals chromosome sorting and local allelic variants</Title>
+		<Title>Whole genome sequencing of a natural recombinant Toxoplasma gondiistrain reveals chromosome sorting and local allelic variants</Title>
 		<DOI>10.1186/gb-2009-10-5-r53</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>10</JournalVolume>
-		<JournalPages>R53</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln</ContributorIds>
-		<ContributorList>Bontell I, Hall N, Ashelford KE, Dubey J, Boyle JP, Lindh J, Smith JE</ContributorList>
+		<ContributorList>Bontell IL, Hall N, Ashelford KE, Dubey J, Boyle JP, Lindh J, Smith JE</ContributorList>
 		<Year>2009</Year>
-		<Month />
-		<Day />
+		<Month>5</Month>
+		<Day>20</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -11157,12 +11157,12 @@
 		<DOI>10.1186/gb-2011-12-3-r28</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>12</JournalVolume>
-		<JournalPages>R28</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln, halla</ContributorIds>
 		<ContributorList>Ashelford K, Eriksson ME, Allen CM, D'Amore R, Johansson M, Gould P, Kay S, Millar AJ, Hall N, Hall A</ContributorList>
 		<Year>2011</Year>
-		<Month />
-		<Day />
+		<Month>3</Month>
+		<Day>23</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -11841,12 +11841,12 @@
 		<DOI>10.1186/gb-2012-13-5-r38</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>13</JournalVolume>
-		<JournalPages>R38</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Weedall GD, Clark CG, Koldkjaer P, Kay S, Bruchhaus I, Tannich E, Paterson S, Hall N</ContributorList>
 		<Year>2012</Year>
-		<Month />
-		<Day />
+		<Month>5</Month>
+		<Day>25</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -12436,12 +12436,12 @@
 		<DOI>10.1186/gb-2013-14-5-r49</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>14</JournalVolume>
-		<JournalPages>R49</JournalPages>
+		<JournalPages />
 		<ContributorIds>haertyw</ContributorIds>
 		<ContributorList>Haerty W, Ponting CP</ContributorList>
 		<Year>2013</Year>
-		<Month />
-		<Day />
+		<Month>5</Month>
+		<Day>27</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -12523,10 +12523,10 @@
 		<JournalVolume>14</JournalVolume>
 		<JournalPages />
 		<ContributorIds>aylings, baileyp, uauyc</ContributorIds>
-		<ContributorList>IWGS Consortium, Krasileva KV, Buffalo V, Bailey P, Pearce S, Ayling S, Tabbita F, Soria M, Wang S, Akhunov E, Uauy C, Dubcovsky J</ContributorList>
+		<ContributorList>Krasileva KV, Buffalo V, Bailey P, Pearce S, Ayling S, Tabbita F, Soria M, Wang S, IWGS Consortium, Akhunov E, Uauy C, Dubcovsky J</ContributorList>
 		<Year>2013</Year>
 		<Month>6</Month>
-		<Day />
+		<Day>25</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -12555,12 +12555,12 @@
 		<DOI>10.1186/gb-2013-14-7-r77</DOI>
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>14</JournalVolume>
-		<JournalPages>R77</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Ehrenkaufer GM, Weedall GD, Williams D, Lorenzi HA, Caler E, Hall N, Singh U</ContributorList>
 		<Year>2013</Year>
-		<Month />
-		<Day />
+		<Month>7</Month>
+		<Day>26</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -18854,7 +18854,7 @@
 		<JournalName>Journal of Biological Chemistry</JournalName>
 		<JournalVolume>294</JournalVolume>
 		<JournalPages>6483-6493</JournalPages>
-		<ContributorIds>patronn, kuhaudos, pergolig, rfield</ContributorIds>
+		<ContributorIds>patronn, kuhaudos, ren24jid, rfield</ContributorIds>
 		<ContributorList>Kuhaudomlarp S, Pergolizzi G, Patron NJ, Henrissat B, Field RA</ContributorList>
 		<Year>2019</Year>
 		<Month>4</Month>
@@ -19066,6 +19066,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/cei.13285</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Mucosal vaccines and technology</Title>
+		<DOI>10.1111/cei.13285</DOI>
+		<JournalName>Clinical and Experimental Immunology</JournalName>
+		<JournalVolume>196</JournalVolume>
+		<JournalPages>205-214</JournalPages>
+		<ContributorIds>cardings, cil24kon</ContributorIds>
+		<ContributorList>Miquel-Clopés A, Bentley EG, Stewart JP, Carding SR</ContributorList>
+		<Year>2019</Year>
+		<Month>4</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s13059-019-1675-6</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -19114,6 +19131,23 @@
 		<Year>2019</Year>
 		<Month>4</Month>
 		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/cei.13301</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Use of bioengineered human commensal gut bacteria-derived microvesicles for mucosal plague vaccine delivery and immunization</Title>
+		<DOI>10.1111/cei.13301</DOI>
+		<JournalName>Clinical &amp;amp; Experimental Immunology</JournalName>
+		<JournalVolume>196</JournalVolume>
+		<JournalPages>287-304</JournalPages>
+		<ContributorIds>blakesle, cardings, carvalha, cil24kon, stentzr, telatina, wegmannu</ContributorIds>
+		<ContributorList>Carvalho AL, Miquel-Clopés A, Wegmann U, Jones E, Stentz R, Telatin A, Walker NJ, Butcher WA, Brown PJ, Holmes S, Dennis MJ, Williamson ED, Funnell SGP, Stock M, Carding SR</ContributorList>
+		<Year>2019</Year>
+		<Month>4</Month>
+		<Day>15</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -19296,7 +19330,7 @@
 		<JournalName>Journal of Extracellular Vesicles</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>jod23rof, cardings, carvalha, gottsk, miquela, stentzr, wegmannu</ContributorIds>
+		<ContributorIds>jod23rof, cardings, carvalha, cil24kon, gottsk, stentzr, wegmannu</ContributorIds>
 		<ContributorList>Carvalho AL, Fonseca S, Miquel‐Clopés A, Cross K, Kok K, Wegmann U, Gil‐Cardoso K, Bentley EG, Al Katy SH, Coombes JL, Kipar A, Stentz R, Stewart JP, Carding SR</ContributorList>
 		<Year>2019</Year>
 		<Month>6</Month>
@@ -19924,7 +19958,7 @@
 		<DOI>10.1177/1534735420920711</DOI>
 		<JournalName>Integrative Cancer Therapies</JournalName>
 		<JournalVolume>19</JournalVolume>
-		<JournalPages>153473542092071</JournalPages>
+		<JournalPages />
 		<ContributorIds>halln</ContributorIds>
 		<ContributorList>Hajrah NH, Abdul WM, Abdul-Hameed ZH, Alarif WM, Al-Abbas NSA, Ayyad SN, Omer AMS, Mutawakil MZ, Hall N, Obaid AY, Bora RS, Sabir JSM, Saini KS</ContributorList>
 		<Year>2020</Year>
@@ -20044,7 +20078,7 @@
 		<JournalName>Frontiers in Microbiology</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>jod23rof, blakesle, boothc, cardings, gottsk, miquela, parkera, rek24cel, stentzr, wilemant</ContributorIds>
+		<ContributorIds>jod23rof, blakesle, boothc, cardings, cil24kon, gottsk, parkera, rek24cel, stentzr, wilemant</ContributorIds>
 		<ContributorList>Jones EJ, Booth C, Fonseca S, Parker A, Cross K, Miquel-Clopés A, Hautefort I, Mayer U, Wileman T, Stentz R, Carding SR</ContributorList>
 		<Year>2020</Year>
 		<Month>2</Month>
@@ -21423,7 +21457,7 @@
 		<JournalName>Research Square</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>goldson, cil24kon, blakesle, boothc, briona, cardings, gottsk, gunningp, korcsmat, miquela, modos, stentzr, sudhakap</ContributorIds>
+		<ContributorIds>goldson, cil24kon, blakesle, boothc, briona, cardings, gottsk, gunningp, korcsmat, modos, stentzr, sudhakap</ContributorIds>
 		<ContributorList>Stentz R, Wegmann U, Guirro M, Bryant W, Ranjit A, Goldson AJ, Brion A, Cross K, Booth C, Miquel-Clopes A, Jones E, Gunning P, Sudhakar P, Módos D, Brown IR, Korcsmáros T, Carding SR</ContributorList>
 		<Year>2020</Year>
 		<Month>12</Month>
@@ -22606,6 +22640,25 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/978-1-0716-1900-1_11</id>
+		<Organisation>EI</Organisation>
+		<Category>Book chapter</Category>
+		<CategoryID>2</CategoryID>
+		<Title>Production, Isolation, and Characterization of Bioengineered Bacterial Extracellular Membrane Vesicles Derived from Bacteroides thetaiotaomicron and Their Use in Vaccine Development</Title>
+		<DOI>10.1007/978-1-0716-1900-1_11</DOI>
+		<JournalName />
+		<BookTitle>Bacterial Vaccines</BookTitle>
+		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
+		<JournalVolume />
+		<JournalPages>171-190</JournalPages>
+		<ContributorIds>cardings, cil24kon, stentzr</ContributorIds>
+		<ContributorList>Stentz R, Miquel-Clopés A, Carding SR</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>17</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s13059-021-02542-5</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -23720,7 +23773,7 @@
 		<JournalName>Frontiers in Microbiology</JournalName>
 		<JournalVolume>13</JournalVolume>
 		<JournalPages />
-		<ContributorIds>jod23rof, blakesle, cardings, juodeiki, miquela, stentzr</ContributorIds>
+		<ContributorIds>jod23rof, blakesle, cardings, cil24kon, juodeiki, stentzr</ContributorIds>
 		<ContributorList>Fonseca S, Carvalho AL, Miquel-Clopés A, Jones EJ, Juodeikis R, Stentz R, Carding SR</ContributorList>
 		<Year>2022</Year>
 		<Month>11</Month>
