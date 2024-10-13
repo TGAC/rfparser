@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.09.25.614935</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A haplotype-resolved chromosome-level genome assembly ofUrochloa decumbenscv. Basilisk resolves its allopolyploid ancestry and composition</Title>
+		<DOI>10.1101/2024.09.25.614935</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ryanc, fraser, irishn, barkert, vknitlho, durrant, gor23toz, kaithakg, swarbred, devegaj</ContributorIds>
+		<ContributorList>Ryan C, Fraser F, Irish N, Barker T, Knitlhoffer V, Durrant A, Reynolds G, Kaithakottil G, Swarbreck D, De Vega JJ</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>26</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s42003-024-06932-w</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -32,6 +49,23 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41437-024-00720-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The genome sequence of the Violet Carpenter Bee, Xylocopa violacea (Linnaeus, 1785): a hymenopteran species undergoing range expansion</Title>
+		<DOI>10.1038/s41437-024-00720-2</DOI>
+		<JournalName>Heredity</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorList>Nash WJ, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, McCartney AM, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>16</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
