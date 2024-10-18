@@ -46,7 +46,7 @@ __version__ = "0.0.1"
 REQUEST_TIMEOUT = 5.0
 REQUEST_RETRIES = 3
 BASE_CR_URL = "https://api.crossref.org"
-BASE_DOI_URL = "https://doi.org/api"
+BASE_DOI_URL = "https://doi.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
 BASE_UNPAYWALL_URL = "https://api.unpaywall.org"
 
@@ -188,17 +188,14 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     return ret
 
 
-def doi_exists(doi: str) -> bool:
+def get_doi_RA(doi: str) -> Dict[str, str]:
     """
-    Check that the given DOI handle exists at doi.org
+    Get Registration Agency for all DOIs.
+
+    See https://www.doi.org/doi-handbook/HTML/which-ra_-service.html
     """
-    try:
-        get_url(f"{BASE_DOI_URL}/handles/{urllib.parse.quote(doi, safe='')}")
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code not in (400, 404):
-            raise
-        return False
-    return True
+    r = get_url(f"{BASE_DOI_URL}/doiRA/{urllib.parse.quote(doi, safe='')}")
+    return r.json()[0]
 
 
 def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
@@ -208,20 +205,7 @@ def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> D
     # CrossRef doesn't support HTTP persistent connections, so use a new
     # connection every time instead of a Session.
     cr_url = f"{BASE_CR_URL}/works/{urllib.parse.quote(doi, safe='')}"
-    try:
-        r = get_url(cr_url, headers=headers)
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code != 404:
-            raise
-        if not doi_exists(doi):
-            raise Exception(f"DOI {doi} cannot be resolved by doi.org, so it is probably incorrect")
-        r2 = get_url(f"{cr_url}/agency", headers=headers)
-        r2_dict = r2.json()
-        agency = r2_dict["message"]["agency"]
-        if agency["id"] != "crossref":
-            raise Exception(f"Registration agency for DOI {doi} is {agency['label']}, not CrossRef")
-        else:
-            raise
+    r = get_url(cr_url, headers=headers)
     r_dict = r.json()
     assert r_dict["status"] == "ok"
     return r_dict["message"]
@@ -518,76 +502,89 @@ def main() -> None:
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
         try:
-            pub_metadata = CR_get_pub_metadata(doi, headers=cr_headers)
-            # Join title parts while removing leading, trailing and multiple whitespaces
-            title = " ".join(itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"]))
-            title = strip_tags(title)
-            pub["title"] = title
+            # Get registration agency for the DOI
+            doi_RA = get_doi_RA(doi)
+            if "RA" not in doi_RA:
+                raise Exception(doi_RA["status"])
+            pub["RA"] = doi_RA["RA"]
 
-            pub_type = pub_metadata["type"]
-            if pub_type == "posted-content":
-                assert (
-                    pub_metadata["subtype"] == "preprint"
-                ), f"publication is of type '{pub_type}' with unknown subtype '{pub_metadata['pub_subtype']}'"
-                pub_type = pub_metadata["subtype"]
-            pub["type"] = pub_type
-            assert pub_type in CR_TYPE_TO_XML_CATEGORY_ID, f"unknown publication type {pub_type}"
+            # Get metadata from the RA
+            # https://www.doi.org/the-community/existing-registration-agencies/
+            if pub["RA"] in ("Crossref", "OP"):
+                pub_metadata = CR_get_pub_metadata(doi, headers=cr_headers)
+                # Join title parts while removing leading, trailing and multiple whitespaces
+                title = " ".join(
+                    itertools.chain.from_iterable(title_part.split() for title_part in pub_metadata["title"])
+                )
+                title = strip_tags(title)
+                pub["title"] = title
 
-            container_title_list = pub_metadata["container-title"]
-            if len(container_title_list) == 0:
-                assert pub_type == "preprint", f"publication of type {pub_type} cannot have empty container-title"
-                institution = pub_metadata.get("institution")
-                if institution:
+                pub_type = pub_metadata["type"]
+                if pub_type == "posted-content":
                     assert (
-                        len(pub_metadata["institution"]) == 1
-                    ), f"institution with multiple or no elements: {pub_metadata['institution']}"
-                    container_title = pub_metadata["institution"][0]["name"]
-                elif "Research Square" in pub_metadata["publisher"]:
-                    container_title = "Research Square"
-                elif "PeerJ" in pub_metadata["publisher"] or doi.startswith("10.37044/osf.io/"):
-                    # PeerJ Preprints or BioHackrXiv
-                    container_title = pub_metadata["group-title"]
-                elif doi.startswith("10.17504/protocols.io."):
-                    container_title = "protocols.io"
+                        pub_metadata["subtype"] == "preprint"
+                    ), f"publication is of type '{pub_type}' with unknown subtype '{pub_metadata['pub_subtype']}'"
+                    pub_type = pub_metadata["subtype"]
+                pub["type"] = pub_type
+                assert pub_type in CR_TYPE_TO_XML_CATEGORY_ID, f"unknown publication type {pub_type}"
+
+                container_title_list = pub_metadata["container-title"]
+                if len(container_title_list) == 0:
+                    assert pub_type == "preprint", f"publication of type {pub_type} cannot have empty container-title"
+                    institution = pub_metadata.get("institution")
+                    if institution:
+                        assert (
+                            len(pub_metadata["institution"]) == 1
+                        ), f"institution with multiple or no elements: {pub_metadata['institution']}"
+                        container_title = pub_metadata["institution"][0]["name"]
+                    elif "Research Square" in pub_metadata["publisher"]:
+                        container_title = "Research Square"
+                    elif "PeerJ" in pub_metadata["publisher"] or doi.startswith("10.37044/osf.io/"):
+                        # PeerJ Preprints or BioHackrXiv
+                        container_title = pub_metadata["group-title"]
+                    elif doi.startswith("10.17504/protocols.io."):
+                        container_title = "protocols.io"
+                    else:
+                        raise Exception("cannot determine preprint journal")
+                elif len(container_title_list) == 1:
+                    container_title = container_title_list[0]
                 else:
-                    raise Exception("cannot determine preprint journal")
-            elif len(container_title_list) == 1:
-                container_title = container_title_list[0]
+                    assert (
+                        pub_type == "book-chapter"
+                    ), f"publication of type {pub_type} cannot have container-title with multiple elements: {container_title_list}"
+                    assert (
+                        len(container_title_list) == 2
+                    ), f"publication of type {pub_type} cannot have container-title with more than 2 elements: {container_title_list}"
+                    # the book title and book series are not in a fixed order
+                    if container_title_list[0] in KNOWN_BOOK_SERIES:
+                        container_title, pub["series-title"] = reversed(container_title_list)
+                    elif container_title_list[1] in KNOWN_BOOK_SERIES:
+                        container_title, pub["series-title"] = container_title_list
+                    else:
+                        raise Exception(
+                            f"publication with DOI '{doi}' of type {pub_type} has container-title with unknown book series: {container_title_list}"
+                        )
+                pub["container-title"] = container_title
+
+                pub["volume"] = pub_metadata.get("volume")
+                pub["pages"] = pub_metadata.get("page")
+
+                pub["authors"] = pub_metadata.get("author")
+                # Missing authors (or any other incorrect publication metadata) need
+                # to be fixed by the publisher, see
+                # https://community.crossref.org/t/where-to-report-incorrect-metadata/3321
+                assert pub["authors"], f"publication of type {pub_type} cannot have empty authors"
+
+                # The "issued" field contains the earliest known publication date
+                # (see https://github.com/CrossRef/rest-api-doc#sorting )
+                issued_date = pub_metadata["issued"]["date-parts"][0]
+                # issued_date may not contain the day, i.e. be a list of length 2
+                issued_year, issued_month, issued_day = issued_date + [None] * (3 - len(issued_date))
+                pub["year"] = issued_year
+                pub["month"] = issued_month
+                pub["day"] = issued_day
             else:
-                assert (
-                    pub_type == "book-chapter"
-                ), f"publication of type {pub_type} cannot have container-title with multiple elements: {container_title_list}"
-                assert (
-                    len(container_title_list) == 2
-                ), f"publication of type {pub_type} cannot have container-title with more than 2 elements: {container_title_list}"
-                # the book title and book series are not in a fixed order
-                if container_title_list[0] in KNOWN_BOOK_SERIES:
-                    container_title, pub["series-title"] = reversed(container_title_list)
-                elif container_title_list[1] in KNOWN_BOOK_SERIES:
-                    container_title, pub["series-title"] = container_title_list
-                else:
-                    raise Exception(
-                        f"publication with DOI '{doi}' of type {pub_type} has container-title with unknown book series: {container_title_list}"
-                    )
-            pub["container-title"] = container_title
-
-            pub["volume"] = pub_metadata.get("volume")
-            pub["pages"] = pub_metadata.get("page")
-
-            pub["authors"] = pub_metadata.get("author")
-            # Missing authors (or any other incorrect publication metadata) need
-            # to be fixed by the publisher, see
-            # https://community.crossref.org/t/where-to-report-incorrect-metadata/3321
-            assert pub["authors"], f"publication of type {pub_type} cannot have empty authors"
-
-            # The "issued" field contains the earliest known publication date
-            # (see https://github.com/CrossRef/rest-api-doc#sorting )
-            issued_date = pub_metadata["issued"]["date-parts"][0]
-            # issued_date may not contain the day, i.e. be a list of length 2
-            issued_year, issued_month, issued_day = issued_date + [None] * (3 - len(issued_date))
-            pub["year"] = issued_year
-            pub["month"] = issued_month
-            pub["day"] = issued_day
+                raise Exception(f"Registration agency is {pub['RA']}, not CrossRef")
 
             pub["oa_status"] = unpaywall_get_oa_status(unpaywall_session, doi, config["email"])
 

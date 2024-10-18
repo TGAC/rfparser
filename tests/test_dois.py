@@ -4,7 +4,7 @@ from requests import Session
 
 from rfparser import (
     DOI,
-    doi_exists,
+    get_doi_RA,
     unpaywall_get_oa_status,
 )
 
@@ -20,12 +20,21 @@ def test_DOI():
         DOI("foo")
 
 
-def test_doi_exists():
-    assert doi_exists("10.1128/AEM.72.1.946-949.2006") is True
-    assert doi_exists("10.17138/tgft(11)11-21") is True
-    assert doi_exists("foo/bar") is False
-    assert doi_exists("0.1101/2021.08.04.455072") is False
-    assert doi_exists("") is False
+def test_get_dois_RA():
+    doi_to_expected_RA = {
+        "10.1128/AEM.72.1.946-949.2006": "Crossref",
+        "10.17138/tgft(11)11-21": "Crossref",
+        "10.48550/arXiv.2410.03490": "DataCite",
+        "foo/bar": None,
+        "0.1101/2021.08.04.455072": None,
+        "": None,
+    }
+    for doi, expected_RA in doi_to_expected_RA.items():
+        doi_RA = get_doi_RA(doi)
+        RA = doi_RA.get("RA")
+        assert RA == expected_RA
+        if RA is None:
+            assert doi_RA.get("status")
 
 
 def test_unpaywall_get_oa_status():
