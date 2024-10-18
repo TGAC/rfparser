@@ -2192,7 +2192,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>bawnm</ContributorIds>
 		<ContributorList>Thilliez G, Mashe T, Chaibva BV, Robertson V, Bawn M, Tarupiwa A, Takawira FT, Kock MM, Midzi S, Mwamakamba LW, Matheu J, Kingsley RA, Ehlers MM</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -2209,7 +2209,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf22big</ContributorIds>
+		<ContributorIds>bawnm, taf22big</ContributorIds>
 		<ContributorList>Charity OJ, Acton L, Bawn M, Tassinari E, Thilliez G, Chattaway MA, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2022</Year>
 		<Month>11</Month>
@@ -7578,7 +7578,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>bawnm</ContributorIds>
 		<ContributorList>Branchu P, Charity OJ, Bawn M, Thilliez G, Dallman TJ, Petrovska L, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
@@ -19908,7 +19908,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, adriaens, bawnm, kingsler, kirkwoom, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, adriaens, kingsler, kirkwoom, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Thilliez G, Kirkwood M, Wheeler N, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2019</Year>
 		<Month>10</Month>
@@ -20010,7 +20010,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages>e1008850</JournalPages>
-		<ContributorIds>halln, adriaens, alikhan, bawnm, kingsler, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, adriaens, alikhan, kingsler, thillieg</ContributorIds>
 		<ContributorList>Bawn M, Alikhan N, Thilliez G, Kirkwood M, Wheeler NE, Petrovska L, Dallman TJ, Adriaenssens EM, Hall N, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -20826,7 +20826,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, macaulai, bawnm, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
+		<ContributorIds>bawnm, halln, macaulai, etrampar, hernande, kingsler, thillieg, webberm</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2020</Year>
 		<Month>8</Month>
@@ -21100,7 +21100,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, stevensl, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -21321,7 +21321,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>taf22big, halln, actonl, bawnm, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
+		<ContributorIds>taf22big, bawnm, halln, actonl, charityo, kingsler, kirkwoom, tassinae, thillieg</ContributorIds>
 		<ContributorList>Tassinari E, Bawn M, Thilliez G, Charity O, Acton L, Kirkwood M, Petrovska L, Dallman T, Burgess CM, Hall N, Duffy G, Kingsley RA</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -22207,7 +22207,7 @@
 		<JournalName>Communications Biology</JournalName>
 		<JournalVolume>4</JournalVolume>
 		<JournalPages />
-		<ContributorIds>halln, bawnm, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
+		<ContributorIds>bawnm, halln, branchup, kingsler, kirkwoom, pyeh, tannerj, thillieg</ContributorIds>
 		<ContributorList>Kirkwood M, Vohra P, Bawn M, Thilliez G, Pye H, Tanner J, Chintoan-Uta C, Branchu P, Petrovska L, Dallman T, Hall N, Stevens MP, Kingsley RA</ContributorList>
 		<Year>2021</Year>
 		<Month>4</Month>
@@ -23654,7 +23654,7 @@
 		<JournalName>Microbial Genomics</JournalName>
 		<JournalVolume>8</JournalVolume>
 		<JournalPages />
-		<ContributorIds>quince, halln, macaulai</ContributorIds>
+		<ContributorIds>bawnm, quince, halln, macaulai</ContributorIds>
 		<ContributorList>Bawn M, Hernandez J, Trampari E, Thilliez G, Quince C, Webber MA, Kingsley RA, Hall N, Macaulay IC</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
