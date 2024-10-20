@@ -1,10 +1,9 @@
 import re
+from collections.abc import Iterable
 from html.parser import HTMLParser
 from io import StringIO
 from typing import (
     Any,
-    Iterable,
-    List,
     Optional,
     TypeVar,
 )
@@ -49,7 +48,7 @@ def str_if_not_None(s: Any) -> Optional[str]:
 T = TypeVar("T")
 
 
-def unique(l_: Iterable[T]) -> List[T]:
+def unique(l_: Iterable[T]) -> list[T]:
     """
     Return a list with the unique elements of an iterable.
 

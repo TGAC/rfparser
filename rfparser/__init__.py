@@ -12,12 +12,11 @@ from dataclasses import dataclass
 from time import sleep
 from typing import (
     Any,
-    Dict,
-    List,
     Optional,
     TYPE_CHECKING,
 )
 from xml.etree import ElementTree
+from xml.etree.ElementTree import indent
 
 import requests
 import yaml
@@ -32,11 +31,6 @@ from .util import (
     strip_tags,
     unique,
 )
-
-if sys.version_info >= (3, 9):
-    from xml.etree.ElementTree import indent
-else:
-    from .ElementTree39 import indent
 
 if TYPE_CHECKING:
     from typing_extensions import Self
@@ -137,8 +131,8 @@ def RF_login(username: str, password: str) -> Session:
 
 def get_url(
     url: str,
-    params: Optional[Dict] = None,
-    headers: Optional[Dict[str, str]] = None,
+    params: Optional[dict] = None,
+    headers: Optional[dict[str, str]] = None,
     timeout: float = REQUEST_TIMEOUT,
     retries: int = REQUEST_RETRIES,
     s: Optional[Session] = None,
@@ -167,7 +161,7 @@ def get_url(
     return r
 
 
-def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pages: int = sys.maxsize) -> List[Dict]:
+def RF_get_paginated(s: Session, url: str, params: Optional[dict] = None, max_pages: int = sys.maxsize) -> list[dict]:
     """
     Get paginated items from ResearchFish API.
     """
@@ -178,7 +172,7 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
         params = params.copy()
     assert max_pages > 0
     next = 0
-    ret: List[Dict] = []
+    ret: list[dict] = []
     while next is not None and next < max_pages:
         params["start"] = next
         r = get_url(url, params=params, s=s)
@@ -188,7 +182,7 @@ def RF_get_paginated(s: Session, url: str, params: Optional[Dict] = None, max_pa
     return ret
 
 
-def get_doi_RA(doi: str) -> Dict[str, str]:
+def get_doi_RA(doi: str) -> dict[str, str]:
     """
     Get Registration Agency for all DOIs.
 
@@ -198,7 +192,7 @@ def get_doi_RA(doi: str) -> Dict[str, str]:
     return r.json()[0]
 
 
-def CR_get_pub_metadata(doi: str, headers: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
+def CR_get_pub_metadata(doi: str, headers: Optional[dict[str, str]] = None) -> dict[str, Any]:
     """
     Get metadata for a publication from CrossRef API.
     """
@@ -220,7 +214,7 @@ def unpaywall_get_oa_status(s: Session, doi: str, email: str) -> str:
     return r_dict["oa_status"]
 
 
-def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: Dict[DOI, Dict[str, Any]]) -> None:
+def get_dois_from_old_xml(nbiros_pub_export_xml_url: Optional[str], pubs_with_doi: dict[DOI, dict[str, Any]]) -> None:
     """
     Get the DOIs from the old ei.xml file generated from NBIROS.
     """
@@ -272,7 +266,7 @@ def sanitise_orcid_id(orcid_id: Optional[str]) -> Optional[str]:
     return f"https://orcid.org/{number}"
 
 
-def get_persons(people_data_csv_url: Optional[str]) -> List[Person]:
+def get_persons(people_data_csv_url: Optional[str]) -> list[Person]:
     log.info("Started get_persons")
     if not people_data_csv_url:
         log.warning("people_data_csv_url option not specified")
@@ -300,7 +294,7 @@ def get_persons(people_data_csv_url: Optional[str]) -> List[Person]:
 
 
 def write_xml_output(
-    pubs_with_doi: Dict[DOI, Dict[str, Any]],
+    pubs_with_doi: dict[DOI, dict[str, Any]],
     outfile: str,
     people_data_csv_url: Optional[str],
 ) -> None:
@@ -308,7 +302,7 @@ def write_xml_output(
     Write the publications to an XML file for the EI website.
     """
 
-    def author_dict_to_contributor(author_dict: Dict[str, Any]) -> str:
+    def author_dict_to_contributor(author_dict: dict[str, Any]) -> str:
         """
         Transform an author dict from CrossRef to a str for the ContributorsList
         field of the XML output.
@@ -327,7 +321,7 @@ def write_xml_output(
                 raise Exception(f"Unrecognised author_dict format: {author_dict}")
             return name
 
-    def author_dict_to_username(author_dict: Dict[str, Any]) -> Optional[str]:
+    def author_dict_to_username(author_dict: dict[str, Any]) -> Optional[str]:
         # First try to match the ORCID id
         orcid_id = sanitise_orcid_id(author_dict.get("ORCID"))
         if orcid_id:
@@ -454,7 +448,7 @@ def main() -> None:
     assert config.get("email"), "Email not configured"
 
     # Create dictionary of publications indexed by DOI
-    pubs_with_doi: Dict[DOI, Dict[str, Any]] = {}
+    pubs_with_doi: dict[DOI, dict[str, Any]] = {}
 
     get_dois_from_old_xml(config.get("nbiros_pub_export_xml_url"), pubs_with_doi)
     log.info(f"Unique publication DOIs: {len(pubs_with_doi)}")
