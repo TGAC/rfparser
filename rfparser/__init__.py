@@ -39,6 +39,7 @@ __version__ = "0.0.1"
 
 REQUEST_TIMEOUT = 5.0
 REQUEST_RETRIES = 3
+REQUEST_RETRIES_BACKOFF_FACTOR = 1.0
 BASE_CR_URL = "https://api.crossref.org"
 BASE_DOI_URL = "https://doi.org"
 BASE_RF_URL = "https://api.researchfish.com/restapi"
@@ -138,14 +139,15 @@ def get_url(
     s: Optional[Session] = None,
 ) -> Response:
     for i in range(retries):
+        backoff_time = 0 if i == 0 else REQUEST_RETRIES_BACKOFF_FACTOR * (2**i)
         try:
             if s:
-                r = s.get(url, params=params, headers=headers, timeout=timeout)
+                r = s.get(url, params=params, headers=headers, timeout=timeout + backoff_time)
             else:
-                r = requests.get(url, params=params, headers=headers, timeout=timeout)
+                r = requests.get(url, params=params, headers=headers, timeout=timeout + backoff_time)
         except Exception:
             log.exception("Failed %d times to get URL %s", i + 1, url)
-            sleep(1)
+            sleep(backoff_time)
             continue
         try:
             r.raise_for_status()
@@ -154,8 +156,8 @@ def get_url(
             if 400 <= r.status_code < 500:
                 # Client error
                 raise
-            log.exception("Failed %d times to get URL %s", i + 1, url)
-            sleep(1)
+            log.exception("Failed %d times to get URL %s , status code %d", i + 1, url, r.status_code)
+            sleep(backoff_time)
     else:
         raise Exception(f"Failed too many times to get URL {url}")
     return r
