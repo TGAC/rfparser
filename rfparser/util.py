@@ -6,6 +6,7 @@ from typing import (
     Any,
     Optional,
     TypeVar,
+    Union,
 )
 
 NAME_SPLITTER_PATTERN = re.compile(r"[\s-]+")
@@ -85,3 +86,10 @@ def is_same_person(family_names1: str, given_names1: str, family_names2: str, gi
             continue
         return False
     return True
+
+
+def extend_list_to_size(t: list[T], size: int) -> list[Union[None, T]]:
+    """
+    Extend a list with ``None``s if it is shorter than the requested size.
+    """
+    return t + [None] * (size - len(t))

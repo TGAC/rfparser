@@ -18,6 +18,8 @@ def test_DOI():
         DOI("")
     with pytest.raises(ValueError, match="malformed DOI"):
         DOI("foo")
+    assert doi.startswith(doi_str[:12])
+    assert not doi.startswith("foo")
 
 
 def test_get_dois_RA():
