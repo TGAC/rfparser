@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.48550/arxiv.2410.03490</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Applying the FAIR Principles to Computational Workflows</Title>
+		<DOI>10.48550/arxiv.2410.03490</DOI>
+		<JournalName>arXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>soranzon</ContributorIds>
+		<ContributorList>Wilkinson SR, Aloqalaa M, Belhajjame K, Crusoe MR, Kinoshita BdP, Gadelha L, Garijo D, Gustafsson OJR, Juty N, Kanwal S, Khan FZ, Köster J, Gehlen KP, Pouchard L, Rannow RK, Soiland-Reyes S, Soranzo N, Sufi S, Sun Z, Vilne B, Wouters MA, Yuen D, Goble C</ContributorList>
+		<Year>2024</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.09.25.614935</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -67,6 +84,40 @@
 		<Month>9</Month>
 		<Day>16</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.5281/zenodo.10277621</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Data files for Hill et al. (2024) Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces.</Title>
+		<DOI>10.5281/zenodo.10277621</DOI>
+		<JournalName>Zenodo</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, olivera, irishn, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>02</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.5281/zenodo.10277622</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Data files for Hill et al. (2024) Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces.</Title>
+		<DOI>10.5281/zenodo.10277622</DOI>
+		<JournalName>Zenodo</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, olivera, irishn, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>02</Month>
+		<Day>15</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.08.21.608935</id>
@@ -628,6 +679,40 @@
 		<Month>3</Month>
 		<Day>8</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.48550/arxiv.2307.15166</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Dimensions of Level-1 Group-Based Phylogenetic Networks</Title>
+		<DOI>10.48550/arxiv.2307.15166</DOI>
+		<JournalName>arXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>martins</ContributorIds>
+		<ContributorList>Gross E, Krone R, Martin S</ContributorList>
+		<Year>2023</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.48550/arxiv.2310.14764</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Improved K-mer Based Prediction of Protein-Protein Interactions With Chaos Game Representation, Deep Learning and Reduced Representation Bias</Title>
+		<DOI>10.48550/arxiv.2310.14764</DOI>
+		<JournalName>arXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Veevers R, MacLean D</ContributorList>
+		<Year>2023</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.37044/osf.io/24jst</id>
@@ -24169,6 +24254,23 @@
 		<Year>2023</Year>
 		<Month>10</Month>
 		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.48550/arXiv.2311.12884</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Identifying DNA Sequence Motifs Using Deep Learning</Title>
+		<DOI>10.48550/arXiv.2311.12884</DOI>
+		<JournalName>arXiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw, uzunv</ContributorIds>
+		<ContributorList>Poddar A, Uzun V, Tunbridge E, Haerty W, Nevado-Holgado A</ContributorList>
+		<Year>2023</Year>
+		<Month />
+		<Day />
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
