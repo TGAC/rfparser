@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s44185-024-00053-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Contextualising samples: supporting reference genomes of European biodiversity through sample and associated metadata collection</Title>
+		<DOI>10.1038/s44185-024-00053-7</DOI>
+		<JournalName>npj Biodiversity</JournalName>
+		<JournalVolume>3</JournalVolume>
+		<JournalPages />
+		<ContributorIds>mctaggar</ContributorIds>
+		<ContributorList>Böhne A, Fernández R, Leonard JA, McCartney AM, McTaggart S, Melo-Ferreira J, Monteiro R, Oomen RA, Vinnere Pettersson O, Struck TH</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.48550/arxiv.2410.03490</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
