@@ -1021,7 +1021,7 @@
 		<Year>2022</Year>
 		<Month>10</Month>
 		<Day>27</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.11.03.565500</id>
@@ -1159,7 +1159,7 @@
 		<Year>2023</Year>
 		<Month>11</Month>
 		<Day>14</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.xcrm.2023.101341</id>
@@ -9748,7 +9748,7 @@
 		<Year>2015</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.12688/f1000research.8445.1</id>
@@ -22314,7 +22314,7 @@
 		<Year>2021</Year>
 		<Month />
 		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s42003-021-02013-4</id>
