@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1093/molbev/msae116</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Ancient and Recent Hybridization in the Oreochromis Cichlid Fishes</Title>
+		<DOI>10.1093/molbev/msae116</DOI>
+		<JournalName>Molecular Biology and Evolution</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages />
+		<ContributorIds>ciezarek, mehtat, mana, haertyw</ContributorIds>
+		<ContributorList>Ciezarek AG, Mehta TK, Man A, Ford AGP, Kavembe GD, Kasozi N, Ngatunga BP, Shechonge AH, Tamatamah R, Nyingi DW, Cnaani A, Ndiwa TC, Di Palma F, Turner GF, Genner MJ, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.10.09.616956</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
