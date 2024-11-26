@@ -127,8 +127,8 @@
 		<Title>The genome sequence of the Violet Carpenter Bee, Xylocopa violacea (Linnaeus, 1785): a hymenopteran species undergoing range expansion</Title>
 		<DOI>10.1038/s41437-024-00720-2</DOI>
 		<JournalName>Heredity</JournalName>
-		<JournalVolume />
-		<JournalPages />
+		<JournalVolume>133</JournalVolume>
+		<JournalPages>381-387</JournalPages>
 		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Nash WJ, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, McCartney AM, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
@@ -19279,7 +19279,7 @@
 		<JournalName>Plant Biotechnology Journal</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages>2259-2271</JournalPages>
-		<ContributorIds>pek24giz, patronn, ahnjarj, corbink, harriss, harwood, hawkinse, smedley, smitha, tuncela, warrenf</ContributorIds>
+		<ContributorIds>pek24giz, patronn, ahnjarj, corbink, harriss, harwood, smedley, smitha, tuncela, warrenf</ContributorIds>
 		<ContributorList>Tuncel A, Corbin KR, Ahn‐Jarvis J, Harris S, Hawkins E, Smedley MA, Harwood W, Warren FJ, Patron NJ, Smith AM</ContributorList>
 		<Year>2019</Year>
 		<Month>5</Month>
@@ -22213,6 +22213,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1111/nph.17342</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>STARCH SYNTHASE 4 is required for normal starch granule initiation in amyloplasts of wheat endosperm</Title>
+		<DOI>10.1111/nph.17342</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>230</JournalVolume>
+		<JournalPages>2371-2386</JournalPages>
+		<ContributorIds>pek24giz, ahnjarj, barclaye, fahy, hartleym, jchen, seungd, warrenf, watsonl</ContributorIds>
+		<ContributorList>Hawkins E, Chen J, Watson‐Lazowski A, Ahn‐Jarvis J, Barclay JE, Fahy B, Hartley M, Warren FJ, Seung D</ContributorList>
+		<Year>2021</Year>
+		<Month>4</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.7717/peerj.10941</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -22348,6 +22365,23 @@
 		<Year>2021</Year>
 		<Month>4</Month>
 		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.pbi.2021.102013</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Towards targeted starch modification in plants</Title>
+		<DOI>10.1016/j.pbi.2021.102013</DOI>
+		<JournalName>Current Opinion in Plant Biology</JournalName>
+		<JournalVolume>60</JournalVolume>
+		<JournalPages>102013</JournalPages>
+		<ContributorIds>pek24giz, jchen, seungd</ContributorIds>
+		<ContributorList>Chen J, Hawkins E, Seung D</ContributorList>
+		<Year>2021</Year>
+		<Month>4</Month>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -23815,6 +23849,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2022.10.07.511297</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>The plastidial protein MRC promotes starch granule initiation in wheat leaves but delays B-type granule initiation in the endosperm</Title>
+		<DOI>10.1101/2022.10.07.511297</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>pek24giz, barclaye, chenyi, denleyb, fahy, jchen, seungd, uauyc, watsonl</ContributorIds>
+		<ContributorList>Chen J, Chen Y, Watson-Lazowski A, Hawkins E, Barclay JE, Fahy B, Denley Bowers R, Corbin K, Warren FJ, Blennow A, Uauy C, Seung D</ContributorList>
+		<Year>2022</Year>
+		<Month>10</Month>
+		<Day>7</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s40168-022-01371-3</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -24578,6 +24629,23 @@
 		<Month>8</Month>
 		<Day>7</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/plphys/kiae429</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Wheat MYOSIN-RESEMBLING CHLOROPLAST PROTEIN controls B-type starch granule initiation timing during endosperm development</Title>
+		<DOI>10.1093/plphys/kiae429</DOI>
+		<JournalName>Plant Physiology</JournalName>
+		<JournalVolume>196</JournalVolume>
+		<JournalPages>1980-1996</JournalPages>
+		<ContributorIds>pek24giz, barclaye, chenyi, denleyb, fahy, jchen, seungd, uauyc, watsonl</ContributorIds>
+		<ContributorList>Chen J, Chen Y, Watson-Lazowski A, Hawkins E, Barclay JE, Fahy B, Denley Bowers R, Corbin K, Warren FJ, Blennow A, Uauy C, Seung D</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>19</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.jhepr.2024.101159</id>
