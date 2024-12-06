@@ -1,6 +1,125 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.21203/rs.3.rs-2729018/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Microbiota-dependent expression of CTLA-4 by innate lymphoid cells restrains IFNγ dependent colitis</Title>
+		<DOI>10.21203/rs.3.rs-2729018/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Lo J, Schroeder J, Beattie G, Roberts L, Cozzetto D, Omer O, Ross E, Heuts F, Jowett G, Read E, Liu Z, Ibraheim H, Seoane RC, Mohamed R, Korcsmaros T, Cope A, Papa S, Neves J, Walker L, Jenner R, Powell N, Lord G</ContributorList>
+		<Year>2023</Year>
+		<Month>3</Month>
+		<Day>27</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/plcell/koac182</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Friend and foe alike: Effectors underlying multi-host compatibility of Fusarium oxysporum</Title>
+		<DOI>10.1093/plcell/koac182</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages>3154-3155</JournalPages>
+		<ContributorIds />
+		<ContributorList>DeFalco TA</ContributorList>
+		<Year>2022</Year>
+		<Month>6</Month>
+		<Day>20</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.22541/au.169566325.52568264/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Genomics-informed captive breeding can reduce inbreeding depression and the genetic load in zoo populations</Title>
+		<DOI>10.22541/au.169566325.52568264/v1</DOI>
+		<JournalName>Authorea, Inc.</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>dap24saf</ContributorIds>
+		<ContributorList>Speak S, Birley T, Bortoluzzi C, Clark M, Percival-Alwyn L, Morales H, Oosterhout CV</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>25</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2020.08.04.236885</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Differential expression of starch and sucrose metabolic genes linked to varying biomass yield inMiscanthushybrids</Title>
+		<DOI>10.1101/2020.08.04.236885</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>devegaj, peeln</ContributorIds>
+		<ContributorList>De Vega JJ, Peel N, Purdy SJ, Hawkins S, Donnison I, Dyer S, Farrar K</ContributorList>
+		<Year>2020</Year>
+		<Month>8</Month>
+		<Day>5</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1105/tpc.20.00402</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>ASTREL Projection: Comparative Phylogenomics Uncovers Novel Genes Coeliminated with the EDS1 Immune Pathway</Title>
+		<DOI>10.1105/tpc.20.00402</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume>32</JournalVolume>
+		<JournalPages>2067-2068</JournalPages>
+		<ContributorIds />
+		<ContributorList>Carella P</ContributorList>
+		<Year>2020</Year>
+		<Month>7</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkx1011</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Ensembl Genomes 2018: an integrated omics infrastructure for non-vertebrate species</Title>
+		<DOI>10.1093/nar/gkx1011</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>46</JournalVolume>
+		<JournalPages>D802-D808</JournalPages>
+		<ContributorIds />
+		<ContributorList>Kersey PJ, Allen JE, Allot A, Barba M, Boddu S, Bolt BJ, Carvalho-Silva D, Christensen M, Davis P, Grabmueller C, Kumar N, Liu Z, Maurel T, Moore B, McDowall MD, Maheswari U, Naamati G, Newman V, Ong CK, Paulini M, Pedro H, Perry E, Russell M, Sparrow H, Tapanari E, Taylor K, Vullo A, Williams G, Zadissia A, Olson A, Stein J, Wei S, Tello-Ruiz M, Ware D, Luciani A, Potter S, Finn RD, Urban M, Hammond-Kosack KE, Bolser DM, De Silva N, Howe KL, Langridge N, Maslen G, Staines DM, Yates A</ContributorList>
+		<Year>2017</Year>
+		<Month>10</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/011585</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Triticeae resources in Ensembl Plants</Title>
+		<DOI>10.1101/011585</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Bolser DM, Kerhornou A, Walts B, Kersey P</ContributorList>
+		<Year>2014</Year>
+		<Month>11</Month>
+		<Day>18</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/molbev/msae116</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -7960,23 +8079,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1038/s42003-018-0013-y</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Potential for re-emergence of wheat stem rust in the United Kingdom</Title>
-		<DOI>10.1038/s42003-018-0013-y</DOI>
-		<JournalName>Communications Biology</JournalName>
-		<JournalVolume>1</JournalVolume>
-		<JournalPages />
-		<ContributorIds />
-		<ContributorList>Lewis CM, Persoons A, Bebber DP, Kigathi RN, Maintz J, Findlay K, Bueno-Sancho V, Corredor-Moreno P, Harrington SA, Kangara N, Berlin A, García R, Germán SE, Hanzalová A, Hodson DP, Hovmøller MS, Huerta-Espino J, Imtiaz M, Mirza JI, Justesen AF, Niks RE, Omrani A, Patpour M, Pretorius ZA, Roohparvar R, Sela H, Singh RP, Steffenson B, Visser B, Fenwick PM, Thomas J, Wulff BBH, Saunders DGO</ContributorList>
-		<Year>2018</Year>
-		<Month>2</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/lam.12821</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -9868,6 +9970,23 @@
 		<Year>2015</Year>
 		<Month>2</Month>
 		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s42003-018-0013-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Potential for re-emergence of wheat stem rust in the United Kingdom</Title>
+		<DOI>10.1038/s42003-018-0013-y</DOI>
+		<JournalName>Communications Biology</JournalName>
+		<JournalVolume>1</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Lewis CM, Persoons A, Bebber DP, Kigathi RN, Maintz J, Findlay K, Bueno-Sancho V, Corredor-Moreno P, Harrington SA, Kangara N, Berlin A, García R, Germán SE, Hanzalová A, Hodson DP, Hovmøller MS, Huerta-Espino J, Imtiaz M, Mirza JI, Justesen AF, Niks RE, Omrani A, Patpour M, Pretorius ZA, Roohparvar R, Sela H, Singh RP, Steffenson B, Visser B, Fenwick PM, Thomas J, Wulff BBH, Saunders DGO</ContributorList>
+		<Year>2018</Year>
+		<Month>2</Month>
+		<Day>8</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
