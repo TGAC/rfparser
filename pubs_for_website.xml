@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1093/cercor/bhae470</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Identification and characterization of human KALRN mRNA and Kalirin protein isoforms</Title>
+		<DOI>10.1093/cercor/bhae470</DOI>
+		<JournalName>Cerebral Cortex</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages />
+		<ContributorIds>dwright, haertyw</ContributorIds>
+		<ContributorList>Mould AW, Wright DJ, Bornemann KD, Hengerer B, Pinnock R, Drydale E, Bancroft J, Hall NAL, von Delft A, Brennan PE, Harrison PJ, Haerty W, Tunbridge EM</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21203/rs.3.rs-2729018/v1</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
