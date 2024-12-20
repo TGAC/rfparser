@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41597-024-04222-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromosome-scale genome assembly and de novo annotation of Alopecurus aequalis</Title>
+		<DOI>10.1038/s41597-024-04222-y</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>wrightj, bakerk, barkert, clissold, durrant, fraser, gharbik, kidgells, irishn, kaithakg, lucchins, swarbred, watkinsc, mctaggar, halla</ContributorIds>
+		<ContributorList>Wright J, Baker K, Barker T, Catchpole L, Durrant A, Fraser F, Gharbi K, Harrison C, Henderson S, Irish N, Kaithakottil G, Leitch IJ, Li J, Lucchini S, Neve P, Powell R, Rees H, Swarbreck D, Watkins C, Wood J, McTaggart S, Hall A, MacGregor D</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/cercor/bhae470</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
