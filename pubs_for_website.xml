@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.12.23.629682</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>microGalaxy: A gateway to tools, workflows, and training for reproducible and FAIR analysis of microbial data</Title>
+		<DOI>10.1101/2024.12.23.629682</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>soranzon</ContributorIds>
+		<ContributorList>Nasr E, Amato P, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Gruening B, Hiltemann S, Jagtap P, Mehta S, Métris KL, Momin S, Oba A, Pavloudi C, Pechlivanis N, Péguilhan R, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, Van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>27</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.12.19.629411</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Spatial Transcriptomics Reveals Expression Gradients in Developing Wheat Inflorescences at Cellular Resolution</Title>
+		<DOI>10.1101/2024.12.19.629411</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
+		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.10.09.617252</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
