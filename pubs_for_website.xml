@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.3389/fgene.2024.1460351</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Building a FAIR data ecosystem for incorporating single-cell transcriptomics data into agricultural genome to phenome research</Title>
+		<DOI>10.3389/fgene.2024.1460351</DOI>
+		<JournalName>Frontiers in Genetics</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>taz23zir, kon24kop</ContributorIds>
+		<ContributorList>Kapoor M, Ventura ES, Walsh A, Sokolov A, George N, Kumari S, Provart NJ, Cole B, Libault M, Tickle T, Warren WC, Koltes JE, Papatheodorou I, Ware D, Harrison PW, Elsik C, Yordanova G, Burdett T, Tuggle CK</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>29</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.12.23.629682</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -50,6 +67,23 @@
 		<Month>10</Month>
 		<Day>10</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-024-55213-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Alleviating batch effects in cell type deconvolution with SCCAF-D</Title>
+		<DOI>10.1038/s41467-024-55213-x</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Feng S, Huang L, Pournara AV, Huang Z, Yang X, Zhang Y, Brazma A, Shi M, Papatheodorou I, Miao Z</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41597-024-04222-y</id>
@@ -426,6 +460,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.06.21.600109</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>GeneSpectra: a method for context-aware comparison of cell type gene expression across species</Title>
+		<DOI>10.1101/2024.06.21.600109</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Song Y, Papatheodorou I, Brazma A</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>25</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3324/haematol.2023.283944</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -611,6 +662,23 @@
 		<Month>5</Month>
 		<Day>1</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/bioadv/vbae048</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>CATD: a reproducible pipeline for selecting cell-type deconvolution methods across tissues</Title>
+		<DOI>10.1093/bioadv/vbae048</DOI>
+		<JournalName>Bioinformatics Advances</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages />
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Vathrakokoili Pournara A, Miao Z, Beker OY, Nolte N, Brazma A, Papatheodorou I</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.37044/osf.io/qjbxc</id>
