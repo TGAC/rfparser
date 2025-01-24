@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2025.01.18.633750</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Decoding cellular transcriptional regulatory networks governing wheat inflorescence development</Title>
+		<DOI>10.1101/2025.01.18.633750</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, macaulai</ContributorIds>
+		<ContributorList>Liu X, Lin X, Kang J, Long KA, Yue J, Chen C, Wang D, Lister A, Macaulay IC, Liu X, Uauy C, Xiao J</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>22</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41592-024-02430-3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Building pangenome graphs</Title>
+		<DOI>10.1038/s41592-024-02430-3</DOI>
+		<JournalName>Nature Methods</JournalName>
+		<JournalVolume>21</JournalVolume>
+		<JournalPages>2008-2012</JournalPages>
+		<ContributorIds>rusholmr</ContributorIds>
+		<ContributorList>Garrison E, Guarracino A, Heumos S, Villani F, Bao Z, Tattini L, Hagmann J, Vorbrugg S, Marco-Sola S, Kubica C, Ashbrook DG, Thorell K, Rusholme-Pilcher RL, Liti G, Rudbeck E, Golicz AA, Nahnsen S, Yang Z, Mwaniki MN, Nobrega FL, Wu Y, Chen H, de Ligt J, Sudmant PH, Huang S, Weigel D, Soranzo N, Colonna V, Williams RW, Prins P</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3389/fgene.2024.1460351</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -33,6 +67,23 @@
 		<Month>12</Month>
 		<Day>27</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/gbe/evaf003</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Nuclear and mitochondrial genome assemblies for the endangered wood-decaying fungus Somion occarium</Title>
+		<DOI>10.1093/gbe/evaf003</DOI>
+		<JournalName>Genome Biology and Evolution</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, mcgowan, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
+		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JM, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.12.19.629411</id>
