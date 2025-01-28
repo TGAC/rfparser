@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.34133/plantphenomics.0255</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>GSP-AI: An AI-Powered Platform for Identifying Key Growth Stages and the Vegetative-to-Reproductive Transition in Wheat Using Trilateral Drone Imagery and Meteorological Data</Title>
+		<DOI>10.34133/plantphenomics.0255</DOI>
+		<JournalName>Plant Phenomics</JournalName>
+		<JournalVolume>6</JournalVolume>
+		<JournalPages>0255</JournalPages>
+		<ContributorIds />
+		<ContributorList>Shen L, Ding G, Jackson R, Ali M, Liu S, Mitchell A, Shi Y, Lu X, Dai J, Deakin G, Frels K, Cen H, Ge Y, Zhou J</ContributorList>
+		<Year>2024</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1099/mgen.0.001337</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Ecological insights into the microbiology of food using metagenomics and its potential surveillance applications</Title>
+		<DOI>10.1099/mgen.0.001337</DOI>
+		<JournalName>Microbial Genomics</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Bloomfield SJ, Hildebrand F, Zomer AL, Palau R, Mather AE</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>3</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2025.01.18.633750</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
