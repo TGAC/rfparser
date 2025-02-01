@@ -124,16 +124,16 @@
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
 		<CategoryID>1</CategoryID>
-		<Title>Nuclear and mitochondrial genome assemblies for the endangered wood-decaying fungus Somion occarium</Title>
+		<Title>Nuclear and Mitochondrial Genome Assemblies for the Endangered Wood-Decaying Fungus Somion occarium</Title>
 		<DOI>10.1093/gbe/evaf003</DOI>
 		<JournalName>Genome Biology and Evolution</JournalName>
-		<JournalVolume />
+		<JournalVolume>17</JournalVolume>
 		<JournalPages />
 		<ContributorIds>rel22vaz, mcgowan, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
-		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JM, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
+		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JMD, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
-		<Day>10</Day>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
