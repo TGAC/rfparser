@@ -515,7 +515,7 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Graph models of brain state in deep anaesthesia reveal sink state dynamics of reduced spatiotemporal complexity and integration</Title>
+		<Title>Graph models of brain state in deep anaesthesia reveal sink state dynamics of reduced spatiotemporal complexity</Title>
 		<DOI>10.1101/2024.08.21.608935</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
@@ -594,6 +594,23 @@
 		<Month>1</Month>
 		<Day>4</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.06.20.599876</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>One year of gluten free diet impacts gut function and microbiome in celiac disease</Title>
+		<DOI>10.1101/2024.06.20.599876</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kam24goz, hildebrf</ContributorIds>
+		<ContributorList>Costigan CM, Warren FJ, Duncan AP, Hoad CL, Lewis N, Hill T, Crooks CJ, Morgan PS, Ciacci C, Iovino P, Sanders DS, Hildebrand F, Gowland PA, Spiller RC, Marciani L</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>22</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s11538-024-01314-z</id>
@@ -15552,7 +15569,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>corpasm, swand</ContributorIds>
+		<ContributorIds>taf25bik, corpasm, swand</ContributorIds>
 		<ContributorList>Corpas M, Valdivia-Granda W, Torres N, Greshake B, Coletta A, Knaus A, Harrison AP, Cariaso M, Moran F, Nielsen F, Swan D, Weiss Solís DY, Krawitz P, Schacherer F, Schols P, Yang H, Borry P, Glusman G, Robinson PN</ContributorList>
 		<Year>2015</Year>
 		<Month>11</Month>
