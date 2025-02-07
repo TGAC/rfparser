@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1371/journal.pntd.0012801</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Potential links between human bloodstream infection by Salmonella enterica serovar Typhimurium and international transmission to Colombia</Title>
+		<DOI>10.1371/journal.pntd.0012801</DOI>
+		<JournalName>PLOS Neglected Tropical Diseases</JournalName>
+		<JournalVolume>19</JournalVolume>
+		<JournalPages>e0012801</JournalPages>
+		<ContributorIds>heavensd, lowr, halln</ContributorIds>
+		<ContributorList>Li Y, Pulford CV, Díaz P, Perez-Sepulveda BM, Duarte C, Predeus AV, Wiesner M, Heavens D, Low R, Schudoma C, Montaño A, Hall N, Moreno J, Hinton JCD</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pgen.1011512</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -358,6 +375,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.11.13.623402</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms: Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow cell</Title>
+		<DOI>10.1101/2024.11.13.623402</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>martins, heavensd, lany, peeln, irishn, leggettr</ContributorIds>
+		<ContributorList>Martin S, Heavens D, Lan Y, Peel N, Irish N, Horsfield S, Giolai M, Clark MD, Leggett RM</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>14</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-024-53716-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A history-dependent integrase recorder of plant gene expression with single-cell resolution</Title>
+		<DOI>10.1038/s41467-024-53716-1</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>reg23vok</ContributorIds>
+		<ContributorList>Maranas CJ, George W, Scallon SK, VanGilder S, Nemhauser JL, Guiziou S</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.10.09.616956</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -647,23 +698,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1021/acssynbio.4c00047</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Engineering Plant Cell Fates and Functions for Agriculture and Industry</Title>
-		<DOI>10.1021/acssynbio.4c00047</DOI>
-		<JournalName>ACS Synthetic Biology</JournalName>
-		<JournalVolume>13</JournalVolume>
-		<JournalPages>998-1005</JournalPages>
-		<ContributorIds>tansley, patronn, reg23vok</ContributorIds>
-		<ContributorList>Tansley C, Patron NJ, Guiziou S</ContributorList>
-		<Year>2024</Year>
-		<Month>4</Month>
-		<Day>4</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1371/journal.ppat.1012182</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -732,6 +766,40 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1371/journal.pgen.1011296</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Paramutation at the maize pl1 locus is associated with RdDM activity at distal tandem repeats</Title>
+		<DOI>10.1371/journal.pgen.1011296</DOI>
+		<JournalName>PLOS Genetics</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages>e1011296</JournalPages>
+		<ContributorIds>heavensd</ContributorIds>
+		<ContributorList>Deans NC, Talbot JRB, Li M, Sáez-González C, Hövel I, Heavens D, Stam M, Hollick JB</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.copbio.2024.103146</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Biocomputing in plants, from proof of concept to application</Title>
+		<DOI>10.1016/j.copbio.2024.103146</DOI>
+		<JournalName>Current Opinion in Biotechnology</JournalName>
+		<JournalVolume>87</JournalVolume>
+		<JournalPages>103146</JournalPages>
+		<ContributorIds>reg23vok</ContributorIds>
+		<ContributorList>Guiziou S</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/nar/gkae410</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -797,6 +865,23 @@
 		<Year>2024</Year>
 		<Month>1</Month>
 		<Day>1</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1021/acssynbio.4c00047</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Engineering Plant Cell Fates and Functions for Agriculture and Industry</Title>
+		<DOI>10.1021/acssynbio.4c00047</DOI>
+		<JournalName>ACS Synthetic Biology</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages>998-1005</JournalPages>
+		<ContributorIds>tansley, patronn, reg23vok</ContributorIds>
+		<ContributorList>Tansley C, Patron NJ, Guiziou S</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>4</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
