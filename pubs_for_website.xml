@@ -537,11 +537,11 @@
 		<JournalName>Zenodo</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, swarbred, halln, mcmullam</ContributorIds>
-		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
-		<Year>2024</Year>
+		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2025</Year>
 		<Month>02</Month>
-		<Day>15</Day>
+		<Day>07</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -1171,7 +1171,7 @@
 		<Year>2024</Year>
 		<Month>3</Month>
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.03.01.582753</id>
@@ -4220,8 +4220,8 @@
 		<ContributorIds />
 		<ContributorList>Soiland-Reyes S, Sefton P, Crosas M, Castro LJ, Coppens F, Fernández JM, Garijo D, Grüning B, La Rosa M, Leo S, Ó Carragáin E, Portier M, Trisovic A, RO-Crate Community, Groth P, Goble C</ContributorList>
 		<Year>2022</Year>
-		<Month>7</Month>
-		<Day>20</Day>
+		<Month>1</Month>
+		<Day>4</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -11401,7 +11401,7 @@
 		<Year>2009</Year>
 		<Month>9</Month>
 		<Day>21</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/j.1365-313X.2009.04040.x</id>
