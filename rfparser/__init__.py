@@ -198,6 +198,12 @@ class DOI(str):
         return self.lower().startswith(lower_prefix, start, end)
 
 
+BROKEN_DOI_TO_REASON = {
+    DOI("10.5281/zenodo.7333887"): "has resourceTypeGeneral 'JournalArticle' but is actually associated code and data",
+    DOI("10.5281/zenodo.7333888"): "has resourceTypeGeneral 'JournalArticle' but is actually associated code and data",
+}
+
+
 def RF_login(username: str, password: str) -> Session:
     """
     Login to ResearchFish API and return a session storing the auth cookie.
@@ -564,6 +570,9 @@ def main() -> None:
     unpaywall_session = Session()
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
+        if doi in BROKEN_DOI_TO_REASON:
+            log.warning("Skipping publication '%s': %s", doi, BROKEN_DOI_TO_REASON[doi])
+            continue
         try:
             # Get registration agency for the DOI
             doi_RA = get_doi_RA(doi)
