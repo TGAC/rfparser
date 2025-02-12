@@ -18,6 +18,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.7554/elife.106198</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Correction: The long non-coding RNA Cerox1 is a post transcriptional regulator of mitochondrial complex I catalytic activity</Title>
+		<DOI>10.7554/elife.106198</DOI>
+		<JournalName>eLife</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Sirey TM, Roberts K, Haerty W, Bedoya-Reina O, Rogatti-Granados S, Tan JY, Li N, Heather LC, Carter RN, Cooper S, Finch AJ, Wills J, Morton NM, Marques AC, Ponting CP</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>3</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pgen.1011512</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -100,6 +117,40 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>21</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/evolut/qpaf005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Gene pseudogenization in fertility-associated genes in cheetah (Acinonyx jubatus), a species with long-term low effective population size</Title>
+		<DOI>10.1093/evolut/qpaf005</DOI>
+		<JournalName>Evolution</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
+		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>17</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.01.11.632544</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Biosynthesis and Bioactivity of Anti-Inflammatory Triterpenoids inCalendula officinalis(pot marigold)</Title>
+		<DOI>10.1101/2025.01.11.632544</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>golubova, salmon, su, tansley, kaithakg, swarbred, patronn</ContributorIds>
+		<ContributorList>Golubova D, Salmon M, Su H, Tansley C, Kaithakottil G, Linsmith G, Schudoma S, Swarbreck D, O’Connell M, Patron N</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>14</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -392,6 +443,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.10.30.621102</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Characterisation of the historic demographic decline of the British European polecat population</Title>
+		<DOI>10.1101/2024.10.30.621102</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>shawr, ethering, haertyw</ContributorIds>
+		<ContributorList>Shaw R, MacPherson J, Kitchener AC, Etherington GJ, Haerty W</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>3</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41467-024-53716-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -407,6 +475,23 @@
 		<Month>10</Month>
 		<Day>30</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41477-024-01778-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Underrepresentation of Black and Asian students in UK plant science</Title>
+		<DOI>10.1038/s41477-024-01778-w</DOI>
+		<JournalName>Nature Plants</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages>1272-1275</JournalPages>
+		<ContributorIds>patronn</ContributorIds>
+		<ContributorList>Hubbard K, Patron NJ, Bleau J, Benitez-Alfonso Y</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>13</Day>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.10.09.616956</id>
@@ -491,6 +576,23 @@
 		<Year>2024</Year>
 		<Month>9</Month>
 		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/jeb/voae102</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Socially plastic responses in females are robust to evolutionary manipulations of adult sex ratio and adult nutrition</Title>
+		<DOI>10.1093/jeb/voae102</DOI>
+		<JournalName>Journal of Evolutionary Biology</JournalName>
+		<JournalVolume>37</JournalVolume>
+		<JournalPages>1215-1224</JournalPages>
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>McConnell N, Haerty W, Gage MJG, Chapman T</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>23</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -594,6 +696,23 @@
 		<Month>8</Month>
 		<Day>30</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.pbi.2024.102611</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Engineering Nicotiana benthamiana as a platform for natural product biosynthesis</Title>
+		<DOI>10.1016/j.pbi.2024.102611</DOI>
+		<JournalName>Current Opinion in Plant Biology</JournalName>
+		<JournalVolume>81</JournalVolume>
+		<JournalPages>102611</JournalPages>
+		<ContributorIds>golubova, tansley, su, patronn</ContributorIds>
+		<ContributorList>Golubova D, Tansley C, Su H, Patron N</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3114/fuse.2024.13.12</id>
@@ -780,6 +899,23 @@
 		<Year>2024</Year>
 		<Month>5</Month>
 		<Day>30</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkae447</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>U6 snRNA m6A modification is required for accurate and efficient splicing of C. elegans and human pre-mRNAs</Title>
+		<DOI>10.1093/nar/gkae447</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>52</JournalVolume>
+		<JournalPages>9139-9160</JournalPages>
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Shen A, Hencel K, Parker MT, Scott R, Skukan R, Adesina AS, Metheringham CL, Miska EA, Nam Y, Haerty W, Simpson GG, Akay A</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>29</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
