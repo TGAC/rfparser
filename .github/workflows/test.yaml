@@ -32,6 +32,11 @@ jobs:
         run: tox -e test
       - name: Install project
         run: pip install .
+      - name: Persist requests-cache's cache file
+        uses: actions/cache@v4
+        with:
+          key: http_cache
+          path: http_cache.sqlite
       - name: Test rfparser
         run: rfparser -v --pages 1 --xml pubs_for_website.xml
         env:

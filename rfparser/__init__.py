@@ -25,6 +25,7 @@ from requests import (
     Response,
     Session,
 )
+from requests_cache import CachedSession
 
 from .util import (
     extend_list_to_size,
@@ -42,6 +43,8 @@ __version__ = "0.0.1"
 REQUEST_TIMEOUT = 5.0
 REQUEST_RETRIES = 3
 REQUEST_RETRIES_BACKOFF_FACTOR = 1.0
+# How long to store a cached response, if Cache-Control headers are missing in the response
+CACHED_RESPONSE_EXPIRE_AFTER = 7 * 24 * 60 * 60
 BASE_CR_URL = "https://api.crossref.org"
 BASE_DC_URL = "https://api.datacite.org"
 BASE_DOI_URL = "https://doi.org"
@@ -248,6 +251,8 @@ def get_url(
             sleep(backoff_time)
     else:
         raise Exception(f"Failed too many times to get URL {url}")
+    if isinstance(s, CachedSession):
+        log.debug("URL %s retrieved from cache: %s", url, r.from_cache)  # type:ignore[attr-defined]
     return r
 
 
@@ -497,7 +502,8 @@ def main() -> None:
     else:
         log_level = logging.INFO
     logging.basicConfig(level=log_level)
-    # Restore urllib3 log level
+    # Restore log level for verbose libraries
+    logging.getLogger("requests_cache").setLevel(logging.WARNING)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
 
     assert args.pages > 0
@@ -567,7 +573,7 @@ def main() -> None:
     cr_headers = {
         "User-Agent": f"rfparser/{__version__} (https://github.com/TGAC/rfparser; mailto:{config['email']})",
     }
-    unpaywall_session = Session()
+    unpaywall_session = CachedSession(expire_after=CACHED_RESPONSE_EXPIRE_AFTER, cache_control=True)
     for doi, pub in pubs_with_doi.items():
         pub["metadata_ok"] = False
         if doi in BROKEN_DOI_TO_REASON:
