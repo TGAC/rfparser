@@ -35,8 +35,10 @@ jobs:
       - name: Persist requests-cache's cache file
         uses: actions/cache@v4
         with:
-          key: http_cache
+          key: http_cache-${{ github.run_id }}
           path: http_cache.sqlite
+          restore-keys: |
+            http_cache-
       - name: Test rfparser
         run: rfparser -v --pages 1 --xml pubs_for_website.xml
         env:

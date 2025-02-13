@@ -21,8 +21,10 @@ jobs:
       - name: Persist requests-cache's cache file
         uses: actions/cache@v4
         with:
-          key: http_cache
+          key: http_cache-${{ github.run_id }}
           path: http_cache.sqlite
+          restore-keys: |
+            http_cache-
       - name: Run rfparser
         run: |
           mkdir outdir
