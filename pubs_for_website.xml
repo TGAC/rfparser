@@ -579,6 +579,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1007/s10905-024-09862-x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Traits Underlying Experimentally Evolved Dispersal Behavior in Tribolium castaneum</Title>
+		<DOI>10.1007/s10905-024-09862-x</DOI>
+		<JournalName>Journal of Insect Behavior</JournalName>
+		<JournalVolume>37</JournalVolume>
+		<JournalPages>220-232</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Pointer MD, Spurgin LG, Vasudeva R, McMullan M, Butler S, Richardson DS</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/jeb/voae102</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -817,23 +834,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1371/journal.ppat.1012182</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Tools for pathogen genetic surveillance: Lessons from the ash dieback invasion of Europe</Title>
-		<DOI>10.1371/journal.ppat.1012182</DOI>
-		<JournalName>PLOS Pathogens</JournalName>
-		<JournalVolume>20</JournalVolume>
-		<JournalPages>e1012182</JournalPages>
-		<ContributorIds>jpeers, leggettr, mcmullam</ContributorIds>
-		<ContributorList>Peers JA, Leggett RM, Clark MD, McMullan M</ContributorList>
-		<Year>2024</Year>
-		<Month>5</Month>
-		<Day>23</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1111/1755-0998.13967</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -919,6 +919,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1371/journal.ppat.1012182</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Tools for pathogen genetic surveillance: Lessons from the ash dieback invasion of Europe</Title>
+		<DOI>10.1371/journal.ppat.1012182</DOI>
+		<JournalName>PLOS Pathogens</JournalName>
+		<JournalVolume>20</JournalVolume>
+		<JournalPages>e1012182</JournalPages>
+		<ContributorIds>jpeers, leggettr, mcmullam</ContributorIds>
+		<ContributorList>Peers JA, Leggett RM, Clark MD, McMullan M</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.copbio.2024.103146</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -985,6 +1002,23 @@
 		<Month>5</Month>
 		<Day>1</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/jeb/voae041</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Life history correlations and trade-offs resulting from selection for dispersal in Tribolium castaneum</Title>
+		<DOI>10.1093/jeb/voae041</DOI>
+		<JournalName>Journal of Evolutionary Biology</JournalName>
+		<JournalVolume>37</JournalVolume>
+		<JournalPages>748-757</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Pointer MD, Spurgin LG, McMullan M, Butler S, Richardson DS</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/bioadv/vbae048</id>
@@ -6524,6 +6558,74 @@
 		<Year>2021</Year>
 		<Month>2</Month>
 		<Day>19</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1755-0998.12225</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Ultra‐deep Illumina sequencing accurately identifies MHC class IIb alleles and provides evidence for copy number variation in the guppy (Poecilia reticulata)</Title>
+		<DOI>10.1111/1755-0998.12225</DOI>
+		<JournalName>Molecular Ecology Resources</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages>753-767</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Lighten J, van Oosterhout C, Paterson IG, McMullan M, Bentzen P</ContributorList>
+		<Year>2014</Year>
+		<Month>2</Month>
+		<Day>5</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/hdy.2014.35</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Divergent selection for opsin gene variation in guppy (Poecilia reticulata) populations of Trinidad and Tobago</Title>
+		<DOI>10.1038/hdy.2014.35</DOI>
+		<JournalName>Heredity</JournalName>
+		<JournalVolume>113</JournalVolume>
+		<JournalPages>381-389</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Tezuka A, Kasagi S, van Oosterhout C, McMullan M, Iwasaki WM, Kasai D, Yamamichi M, Innan H, Kawamura S, Kawata M</ContributorList>
+		<Year>2014</Year>
+		<Month>4</Month>
+		<Day>2</Day>
+		<OpenAccess>Bronze Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7554/elife.04550</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evidence for suppression of immunity as a driver for genomic introgressions and host range expansion in races of Albugo candida, a generalist parasite</Title>
+		<DOI>10.7554/elife.04550</DOI>
+		<JournalName>eLife</JournalName>
+		<JournalVolume>4</JournalVolume>
+		<JournalPages />
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>McMullan M, Gardiner A, Bailey K, Kemen E, Ward BJ, Cevik V, Robert-Seilaniantz A, Schultz-Larsen T, Balmuth A, Holub E, van Oosterhout C, Jones JD</ContributorList>
+		<Year>2015</Year>
+		<Month>2</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/mec.13213</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The effects of recombination, mutation and selection on the evolution of the Rp1 resistance genes in grasses</Title>
+		<DOI>10.1111/mec.13213</DOI>
+		<JournalName>Molecular Ecology</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages>3077-3092</JournalPages>
+		<ContributorIds>mcmullam</ContributorIds>
+		<ContributorList>Jouet A, McMullan M, van Oosterhout C</ContributorList>
+		<Year>2015</Year>
+		<Month>6</Month>
+		<Day />
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
