@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1016/j.fm.2024.104649</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Microbial composition and dynamics in environmental samples from a ready-to-eat food production facility with a long-term colonization of Listeria monocytogenes</Title>
+		<DOI>10.1016/j.fm.2024.104649</DOI>
+		<JournalName>Food Microbiology</JournalName>
+		<JournalVolume>125</JournalVolume>
+		<JournalPages>104649</JournalPages>
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Diaz M, Aird H, Le Viet T, Gutiérrez AV, Larke-Mejia N, Omelchenko O, Moragues-Solanas L, Fritscher J, Som N, McLauchlin J, Hildebrand F, Jørgensen F, Gilmour M</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.02.05.636575</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Functional diversity of soil microbial communities increases with ecosystem development</Title>
+		<DOI>10.1101/2025.02.05.636575</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Ranheim Sveen T, Viketoft M, Bengtsson J, Lejoly J, Buegger F, Pritsch K, Strengbom J, Fritscher J, Hildebrand F, Osburn E, Hannula E, Bahram M</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1371/journal.pntd.0012801</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -32,6 +66,23 @@
 		<Year>2025</Year>
 		<Month>2</Month>
 		<Day>3</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/ismeco/ycaf008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Metagenomic analyses of gut microbiome composition and function with age in a wild bird; little change, except increased transposase gene abundance</Title>
+		<DOI>10.1093/ismeco/ycaf008</DOI>
+		<JournalName>ISME Communications</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Lee CZ, Worsley SF, Davies CS, Silan E, Burke T, Komdeur J, Hildebrand F, Dugdale HL, Richardson DS</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>23</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -2727,23 +2778,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.3390/ijms232213675</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Microbiota Dysbiosis and Gut Barrier Dysfunction Associated with Non-Alcoholic Fatty Liver Disease Are Modulated by a Specific Metabolic Cofactors’ Combination</Title>
-		<DOI>10.3390/ijms232213675</DOI>
-		<JournalName>International Journal of Molecular Sciences</JournalName>
-		<JournalVolume>23</JournalVolume>
-		<JournalPages>13675</JournalPages>
-		<ContributorIds>hildebrf</ContributorIds>
-		<ContributorList>Quesada-Vázquez S, Bone C, Saha S, Triguero I, Colom-Pellicer M, Aragonès G, Hildebrand F, del Bas JM, Caimari A, Beraza N, Escoté X</ContributorList>
-		<Year>2022</Year>
-		<Month>11</Month>
-		<Day>8</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.euo.2022.03.006</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -3864,6 +3898,23 @@
 		<Month>12</Month>
 		<Day>17</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3390/ijms232213675</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Microbiota Dysbiosis and Gut Barrier Dysfunction Associated with Non-Alcoholic Fatty Liver Disease Are Modulated by a Specific Metabolic Cofactors’ Combination</Title>
+		<DOI>10.3390/ijms232213675</DOI>
+		<JournalName>International Journal of Molecular Sciences</JournalName>
+		<JournalVolume>23</JournalVolume>
+		<JournalPages>13675</JournalPages>
+		<ContributorIds>hildebrf</ContributorIds>
+		<ContributorList>Quesada-Vázquez S, Bone C, Saha S, Triguero I, Colom-Pellicer M, Aragonès G, Hildebrand F, del Bas JM, Caimari A, Beraza N, Escoté X</ContributorList>
+		<Year>2022</Year>
+		<Month>11</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1146/annurev-genom-112921-123710</id>
