@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.5281/zenodo.14823851</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Data files for Hill et al. (2024) Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces.</Title>
+		<DOI>10.5281/zenodo.14823851</DOI>
+		<JournalName>Zenodo</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2025</Year>
+		<Month>02</Month>
+		<Day>07</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.fm.2024.104649</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -2481,7 +2498,7 @@
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>wez23nor, patronn</ContributorIds>
-		<ContributorList>Bian C, Demirer GS, Oz MT, Cai Y, Witham S, Mason GA, Di Z, Deligne F, Zhang P, Shen R, Gaudinier A, Brady S, Patron N</ContributorList>
+		<ContributorList>Bian C, Demirer G, Oz M, Cai Y, Witham S, Mason G, Di Z, Deligne F, Zhang P, Shen R, Gaudinier A, Brady S, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
 		<Day>17</Day>
