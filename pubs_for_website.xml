@@ -93,13 +93,13 @@
 		<Title>Metagenomic analyses of gut microbiome composition and function with age in a wild bird; little change, except increased transposase gene abundance</Title>
 		<DOI>10.1093/ismeco/ycaf008</DOI>
 		<JournalName>ISME Communications</JournalName>
-		<JournalVolume />
+		<JournalVolume>5</JournalVolume>
 		<JournalPages />
 		<ContributorIds>hildebrf</ContributorIds>
 		<ContributorList>Lee CZ, Worsley SF, Davies CS, Silan E, Burke T, Komdeur J, Hildebrand F, Dugdale HL, Richardson DS</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
-		<Day>23</Day>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -5056,7 +5056,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds />
+		<ContributorIds>lak25yir</ContributorIds>
 		<ContributorList>Garcia-Perez E, Diego-Martin B, Quijano-Rubio A, Moreno-Gimenez E, Orzaez D, Vazquez-Vilar M</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
