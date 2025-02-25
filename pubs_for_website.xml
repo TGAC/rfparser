@@ -1,6 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.3389/fpls.2024.1346046</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The 4T and 7T introgressions from Amblyopyrum muticum and the 5Au introgression from Triticum urartu increases grain zinc and iron concentrations in Malawian wheat backgrounds</Title>
+		<DOI>10.3389/fpls.2024.1346046</DOI>
+		<JournalName>Frontiers in Plant Science</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>halla</ContributorIds>
+		<ContributorList>Guwela VF, Maliro MF, Broadley MR, Hawkesford MJ, Bokosi JM, Grewal S, Coombes B, Hall A, Yang C, Banda M, Wilson L, King J</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>16</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.isci.2024.109441</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Transcriptome-informed identification and characterization of Planococcus citri cis- and trans-isoprenyl diphosphate synthase genes</Title>
+		<DOI>10.1016/j.isci.2024.109441</DOI>
+		<JournalName>iScience</JournalName>
+		<JournalVolume>27</JournalVolume>
+		<JournalPages>109441</JournalPages>
+		<ContributorIds />
+		<ContributorList>Juteršek M, Gerasymenko IM, Petek M, Haumann E, Vacas S, Kallam K, Gianoglio S, Navarro-Llopis V, Heethoff M, Fuertes IN, Patron N, Orzáez D, Gruden K, Warzecha H, Baebler Š</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.ijregi.2023.09.008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A One Health approach based on genomics for enhancing the Salmonella enterica surveillance in Colombia</Title>
+		<DOI>10.1016/j.ijregi.2023.09.008</DOI>
+		<JournalName>IJID Regions</JournalName>
+		<JournalVolume>9</JournalVolume>
+		<JournalPages>80-87</JournalPages>
+		<ContributorIds />
+		<ContributorList>Bernal JF, Díaz PL, Perez-Sepulveda BM, Valencia-Guerrero MF, Clavijo V, Wiesner M, Montaño LA, Arevalo SA, León IM, Castellanos LR, Underwood A, Duarte C, Argimón S, Moreno J, Aanensen D, Donado-Godoy P</ContributorList>
+		<Year>2023</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s12228-024-09783-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Phylogenetic evidence reshapes the taxonomy of Cacao and its allies (Theobroma and Herrania; Malvaceae, Byttnerioideae)</Title>
+		<DOI>10.1007/s12228-024-09783-1</DOI>
+		<JournalName>Brittonia</JournalName>
+		<JournalVolume>76</JournalVolume>
+		<JournalPages>53-61</JournalPages>
+		<ContributorIds />
+		<ContributorList>Colli-Silva M, Richardson JE, Bossa-Castro AM, Pirani JR</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.5281/zenodo.14823851</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -214,7 +282,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>golubova, salmon, su, tansley, kaithakg, swarbred, patronn</ContributorIds>
+		<ContributorIds>golubova, salmon, su, tansley, kaithakg, swarbred</ContributorIds>
 		<ContributorList>Golubova D, Salmon M, Su H, Tansley C, Kaithakottil G, Linsmith G, Schudoma S, Swarbreck D, O’Connell M, Patron N</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -554,7 +622,7 @@
 		<JournalName>Nature Plants</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages>1272-1275</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Hubbard K, Patron NJ, Bleau J, Benitez-Alfonso Y</ContributorList>
 		<Year>2024</Year>
 		<Month>9</Month>
@@ -594,23 +662,6 @@
 		<Month>9</Month>
 		<Day>17</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.48550/arxiv.2410.03490</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Applying the FAIR Principles to Computational Workflows</Title>
-		<DOI>10.48550/arxiv.2410.03490</DOI>
-		<JournalName>arXiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>soranzon</ContributorIds>
-		<ContributorList>Wilkinson SR, Aloqalaa M, Belhajjame K, Crusoe MR, Kinoshita BdP, Gadelha L, Garijo D, Gustafsson OJR, Juty N, Kanwal S, Khan FZ, Köster J, Gehlen KP, Pouchard L, Rannow RK, Soiland-Reyes S, Soranzo N, Sufi S, Sun Z, Vilne B, Wouters MA, Yuen D, Goble C</ContributorList>
-		<Year>2024</Year>
-		<Month />
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.09.25.614935</id>
@@ -792,7 +843,7 @@
 		<JournalName>Current Opinion in Plant Biology</JournalName>
 		<JournalVolume>81</JournalVolume>
 		<JournalPages>102611</JournalPages>
-		<ContributorIds>golubova, tansley, su, patronn</ContributorIds>
+		<ContributorIds>golubova, tansley, su</ContributorIds>
 		<ContributorList>Golubova D, Tansley C, Su H, Patron N</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
@@ -1115,7 +1166,7 @@
 		<JournalName>ACS Synthetic Biology</JournalName>
 		<JournalVolume>13</JournalVolume>
 		<JournalPages>998-1005</JournalPages>
-		<ContributorIds>tansley, patronn, reg23vok</ContributorIds>
+		<ContributorIds>tansley, reg23vok</ContributorIds>
 		<ContributorList>Tansley C, Patron NJ, Guiziou S</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
@@ -2395,7 +2446,7 @@
 		<JournalName>ACS Synthetic Biology</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages>3482-3486</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Cai Y, Witham S, Patron NJ</ContributorList>
 		<Year>2023</Year>
 		<Month>10</Month>
@@ -2497,7 +2548,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>wez23nor, patronn</ContributorIds>
+		<ContributorIds>wez23nor</ContributorIds>
 		<ContributorList>Bian C, Demirer G, Oz M, Cai Y, Witham S, Mason G, Di Z, Deligne F, Zhang P, Shen R, Gaudinier A, Brady S, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
@@ -2514,7 +2565,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>240</JournalVolume>
 		<JournalPages>302-317</JournalPages>
-		<ContributorIds>heavensd, swarbred, patronn</ContributorIds>
+		<ContributorIds>heavensd, swarbred</ContributorIds>
 		<ContributorList>Vollheyde K, Dudley QM, Yang T, Oz MT, Mancinotti D, Fedi MO, Heavens D, Linsmith G, Chhetry M, Smedley MA, Harwood WA, Swarbreck D, Geu‐Flores F, Patron NJ</ContributorList>
 		<Year>2023</Year>
 		<Month>7</Month>
@@ -2616,7 +2667,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Juteršek M, Gerasymenko IM, Petek M, Haumann E, Vacas S, Kallam K, Gianoglio S, Navarro-Llopis V, Fuertes IN, Patron N, Orzáez D, Gruden K, Warzecha H, Baebler Š</ContributorList>
 		<Year>2023</Year>
 		<Month>6</Month>
@@ -2685,7 +2736,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Hillson N, Caddick M, Cai Y, Carrasco JA, Chang MW, Curach NC, Bell DJ, Feuvre RL, Friedman DC, Fu X, Gold ND, Herrgård MJ, Holowko MB, Johnson JR, Johnson RA, Keasling JD, Kitney RI, Kondo A, Liu C, Martin VJJ, Menolascina F, Ogino C, Patron NJ, Pavan M, Poh CL, Pretorius IS, Rosser SJ, Scrutton NS, Storch M, Tekotte H, Travnik E, Vickers CE, Yew WS, Yuan Y, Zhao H, Freemont PS</ContributorList>
 		<Year>2019</Year>
 		<Month>7</Month>
@@ -2855,7 +2906,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Tomaž Š, Petek M, Lukan T, Pogačar K, Stare K, Prates ET, Jacobson DA, Zrimec J, Bajc G, Butala M, Pompe Novak M, Dudley Q, Patron N, Taler-Verčič A, Usenik A, Turk D, Prat S, Coll A, Gruden K</ContributorList>
 		<Year>2022</Year>
 		<Month>3</Month>
@@ -3314,7 +3365,7 @@
 		<JournalName>Current Opinion in Plant Biology</JournalName>
 		<JournalVolume>71</JournalVolume>
 		<JournalPages>102346</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Patron NJ, Burgess SJ</ContributorList>
 		<Year>2023</Year>
 		<Month>2</Month>
@@ -3467,7 +3518,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>heavensd, swarbred, patronn</ContributorIds>
+		<ContributorIds>heavensd, swarbred</ContributorIds>
 		<ContributorList>Vollheyde K, Dudley Q, Yang T, Oz M, Mancinotti D, Olivera Fedi M, Heavens D, Linsmith G, Chhetry M, Smedley M, Harwood W, Swarbreck D, Geu-Flores F, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>3</Month>
@@ -3484,7 +3535,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Cai Y, Witham S, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>2</Month>
@@ -4576,7 +4627,7 @@
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
 		<JournalPages>1-26</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Dudley QM, Raitskin O, Patron NJ</ContributorList>
 		<Year>2022</Year>
 		<Month />
@@ -5261,7 +5312,7 @@
 		<JournalName>Plant Biotechnology Journal</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>25-36</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Mateos Fernández R, Petek M, Gerasymenko I, Juteršek M, Baebler Š, Kallam K, Moreno Giménez E, Gondolf J, Nordmann A, Gruden K, Orzaez D, Patron NJ</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
@@ -5686,7 +5737,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Dudley QM, Cai Y, Kallam K, Debreyne H, Lopez JAC, Patron NJ</ContributorList>
 		<Year>2021</Year>
 		<Month>3</Month>
@@ -6349,7 +6400,7 @@
 		<JournalName>Frontiers in Plant Science</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Scheller HV, Patron N, Jensen PE</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -6366,7 +6417,7 @@
 		<JournalName>Plant Biotechnology Journal</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages>273-284</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Hatta MAM, Arora S, Ghosh S, Matny O, Smedley MA, Yu G, Chakraborty S, Bhatt D, Xia X, Steuernagel B, Richardson T, Mago R, Lagudah ES, Patron NJ, Ayliffe M, Rouse MN, Harwood WA, Periyannan S, Steffenson BJ, Wulff BB</ContributorList>
 		<Year>2020</Year>
 		<Month>9</Month>
@@ -7883,7 +7934,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>208</JournalVolume>
 		<JournalPages>20-22</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Carmichael RE, Boyce A, Matthewman C, Patron NJ</ContributorList>
 		<Year>2015</Year>
 		<Month>8</Month>
@@ -7901,7 +7952,7 @@
 		<BookTitle>Comprehensive Natural Products III</BookTitle>
 		<JournalVolume />
 		<JournalPages>244-262</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Stephenson MJ, Reed J, Patron NJ, Lomonossoff GP, Osbourn A</ContributorList>
 		<Year>2020</Year>
 		<Month />
@@ -9128,7 +9179,7 @@
 		<JournalName>Plant Cell Reports</JournalName>
 		<JournalVolume>37</JournalVolume>
 		<JournalPages>1357-1358</JournalPages>
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Stewart CN, Patron N, Hanson AD, Jez JM</ContributorList>
 		<Year>2018</Year>
 		<Month>9</Month>
@@ -10507,7 +10558,7 @@
 		<JournalName>Plant Methods</JournalName>
 		<JournalVolume>12</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>Parry G, Patron N, Bastow R, Matthewman C</ContributorList>
 		<Year>2016</Year>
 		<Month>1</Month>
@@ -14581,7 +14632,7 @@
 		<JournalName>ACS Synthetic Biology</JournalName>
 		<JournalVolume>3</JournalVolume>
 		<JournalPages>839-843</JournalPages>
-		<ContributorIds>patronn, jonesj, youlesm</ContributorIds>
+		<ContributorIds>jonesj, patronn, youlesm</ContributorIds>
 		<ContributorList>Engler C, Youles M, Gruetzner R, Ehnert T, Werner S, Jones JDG, Patron NJ, Marillonnet S</ContributorList>
 		<Year>2014</Year>
 		<Month>2</Month>
@@ -15909,7 +15960,7 @@
 		<JournalName>New Phytologist</JournalName>
 		<JournalVolume>208</JournalVolume>
 		<JournalPages>13-19</JournalPages>
-		<ContributorIds>patronn, breakspa, foxs, gradhakr, jonesj, kamouns, leveaua, martin, matthewc, oconnors, oldroyd, osbourna, raitskio, rfield, robatzek, sandersd, vanessep, wulff, youlesm, zipfelc</ContributorIds>
+		<ContributorIds>breakspa, foxs, gradhakr, jonesj, kamouns, leveaua, martin, matthewc, oconnors, oldroyd, osbourna, patronn, raitskio, rfield, robatzek, sandersd, vanessep, wulff, youlesm, zipfelc</ContributorIds>
 		<ContributorList>Patron NJ, Orzaez D, Marillonnet S, Warzecha H, Matthewman C, Youles M, Raitskin O, Leveau A, Farré G, Rogers C, Smith A, Hibberd J, Webb AAR, Locke J, Schornack S, Ajioka J, Baulcombe DC, Zipfel C, Kamoun S, Jones JDG, Kuhn H, Robatzek S, Van Esse HP, Sanders D, Oldroyd G, Martin C, Field R, O'Connor S, Fox S, Wulff B, Miller B, Breakspear A, Radhakrishnan G, Delaux P, Loqué D, Granell A, Tissier A, Shih P, Brutnell TP, Quick WP, Rischer H, Fraser PD, Aharoni A, Raines C, South PF, Ané J, Hamberger BR, Langdale J, Stougaard J, Bouwmeester H, Udvardi M, Murray JAH, Ntoukakis V, Schäfer P, Denby K, Edwards KJ, Osbourn A, Haseloff J</ContributorList>
 		<Year>2015</Year>
 		<Month>7</Month>
@@ -16011,7 +16062,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>16</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, harwood, lawrenso, ostergal, shorinoj, staceyn, uauyc</ContributorIds>
+		<ContributorIds>harwood, lawrenso, ostergal, patronn, shorinoj, staceyn, uauyc</ContributorIds>
 		<ContributorList>Lawrenson T, Shorinola O, Stacey N, Li C, Østergaard L, Patron N, Uauy C, Harwood W</ContributorList>
 		<Year>2015</Year>
 		<Month>11</Month>
@@ -17779,7 +17830,7 @@
 		<JournalName>Current Opinion in Chemical Biology</JournalName>
 		<JournalVolume>40</JournalVolume>
 		<JournalPages>24-30</JournalPages>
-		<ContributorIds>patronn, huanga, osbourna, owenc</ContributorIds>
+		<ContributorIds>huanga, osbourna, owenc, patronn</ContributorIds>
 		<ContributorList>Owen C, Patron NJ, Huang A, Osbourn A</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -17881,7 +17932,7 @@
 		<JournalName>BioTechniques</JournalName>
 		<JournalVolume>63</JournalVolume>
 		<JournalPages>13-20</JournalPages>
-		<ContributorIds>halln, patronn, halla</ContributorIds>
+		<ContributorIds>halln, halla, patronn</ContributorIds>
 		<ContributorList>D’Amore R, Johnson J, Haldenby S, Hall N, Hughes M, Joynson R, Kenny JG, Patron N, Hertz-Fowler C, Hall A</ContributorList>
 		<Year>2017</Year>
 		<Month>7</Month>
@@ -18391,7 +18442,7 @@
 		<JournalName>eLife</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, lichmanb, matthewc</ContributorIds>
+		<ContributorIds>lichmanb, matthewc, patronn</ContributorIds>
 		<ContributorList>Wintle BC, Boehm CR, Rhodes C, Molloy JC, Millett P, Adam L, Breitling R, Carlson R, Casagrande R, Dando M, Doubleday R, Drexler E, Edwards B, Ellis T, Evans NG, Hammond R, Haseloff J, Kahl L, Kuiken T, Lichman BR, Matthewman CA, Napier JA, ÓhÉigeartaigh SS, Patron NJ, Perello E, Shapira P, Tait J, Takano E, Sutherland WJ</ContributorList>
 		<Year>2017</Year>
 		<Month>11</Month>
@@ -18680,7 +18731,7 @@
 		<JournalName>Journal of Biological Chemistry</JournalName>
 		<JournalVolume>293</JournalVolume>
 		<JournalPages>2865-2876</JournalPages>
-		<ContributorIds>patronn, kuhaudos, rejzekm, rfield, saalbacg</ContributorIds>
+		<ContributorIds>kuhaudos, patronn, rejzekm, rfield, saalbacg</ContributorIds>
 		<ContributorList>Kuhaudomlarp S, Patron NJ, Henrissat B, Rejzek M, Saalbach G, Field RA</ContributorList>
 		<Year>2018</Year>
 		<Month>2</Month>
@@ -19292,7 +19343,7 @@
 		<JournalName>Nature Biotechnology</JournalName>
 		<JournalVolume>36</JournalVolume>
 		<JournalPages>923-927</JournalPages>
-		<ContributorIds>patronn, matthewc</ContributorIds>
+		<ContributorIds>matthewc, patronn</ContributorIds>
 		<ContributorList>Kahl L, Molloy J, Patron N, Matthewman C, Haseloff J, Grewal D, Johnson R, Endy D</ContributorList>
 		<Year>2018</Year>
 		<Month>10</Month>
@@ -19806,7 +19857,7 @@
 		<JournalName>Journal of Biological Chemistry</JournalName>
 		<JournalVolume>294</JournalVolume>
 		<JournalPages>6483-6493</JournalPages>
-		<ContributorIds>patronn, kuhaudos, ren24jid, rfield</ContributorIds>
+		<ContributorIds>kuhaudos, patronn, ren24jid, rfield</ContributorIds>
 		<ContributorList>Kuhaudomlarp S, Pergolizzi G, Patron NJ, Henrissat B, Field RA</ContributorList>
 		<Year>2019</Year>
 		<Month>4</Month>
@@ -20061,7 +20112,7 @@
 		<JournalName>Plant Biotechnology Journal</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages>2259-2271</JournalPages>
-		<ContributorIds>pek24giz, patronn, ahnjarj, corbink, harriss, harwood, smedley, smitha, tuncela, warrenf</ContributorIds>
+		<ContributorIds>pek24giz, ahnjarj, corbink, harriss, harwood, patronn, smedley, smitha, tuncela, warrenf</ContributorIds>
 		<ContributorList>Tuncel A, Corbin KR, Ahn‐Jarvis J, Harris S, Hawkins E, Smedley MA, Harwood W, Warren FJ, Patron NJ, Smith AM</ContributorList>
 		<Year>2019</Year>
 		<Month>5</Month>
@@ -20180,7 +20231,7 @@
 		<JournalName>Nature Communications</JournalName>
 		<JournalVolume>10</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, carrascj</ContributorIds>
+		<ContributorIds>carrascj, patronn</ContributorIds>
 		<ContributorList>Hillson N, Caddick M, Cai Y, Carrasco JA, Chang MW, Curach NC, Bell DJ, Le Feuvre R, Friedman DC, Fu X, Gold ND, Herrgård MJ, Holowko MB, Johnson JR, Johnson RA, Keasling JD, Kitney RI, Kondo A, Liu C, Martin VJJ, Menolascina F, Ogino C, Patron NJ, Pavan M, Poh CL, Pretorius IS, Rosser SJ, Scrutton NS, Storch M, Tekotte H, Travnik E, Vickers CE, Yew WS, Yuan Y, Zhao H, Freemont PS</ContributorList>
 		<Year>2019</Year>
 		<Month>5</Month>
@@ -21353,7 +21404,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn, caiy, gendarin, kkallam</ContributorIds>
+		<ContributorIds>caiy, gendarin, kkallam, patronn</ContributorIds>
 		<ContributorList>Cai Y, Kallam K, Tidd H, Gendarini G, Salzman A, Patron NJ</ContributorList>
 		<Year>2020</Year>
 		<Month>5</Month>
@@ -21370,7 +21421,7 @@
 		<JournalName>eLife</JournalName>
 		<JournalVolume>9</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, osbourna</ContributorIds>
+		<ContributorIds>osbourna, patronn</ContributorIds>
 		<ContributorList>Kemp L, Adam L, Boehm CR, Breitling R, Casagrande R, Dando M, Djikeng A, Evans NG, Hammond R, Hills K, Holt LA, Kuiken T, Markotić A, Millett P, Napier JA, Nelson C, ÓhÉigeartaigh SS, Osbourn A, Palmer MJ, Patron NJ, Perello E, Piyawattanametha W, Restrepo-Schild V, Rios-Rojas C, Rhodes C, Roessing A, Scott D, Shapira P, Simuntala C, Smith RD, Sundaram LS, Takano E, Uttmark G, Wintle BC, Zahra NB, Sutherland WJ</ContributorList>
 		<Year>2020</Year>
 		<Month>5</Month>
@@ -21863,7 +21914,7 @@
 		<JournalName>Nucleic Acids Research</JournalName>
 		<JournalVolume>48</JournalVolume>
 		<JournalPages>11845-11856</JournalPages>
-		<ContributorIds>patronn, caiy, gendarin, kkallam</ContributorIds>
+		<ContributorIds>caiy, gendarin, kkallam, patronn</ContributorIds>
 		<ContributorList>Cai Y, Kallam K, Tidd H, Gendarini G, Salzman A, Patron NJ</ContributorList>
 		<Year>2020</Year>
 		<Month>8</Month>
@@ -21916,7 +21967,7 @@
 		<SeriesTitle>Methods in Molecular Biology</SeriesTitle>
 		<JournalVolume />
 		<JournalPages>179-199</JournalPages>
-		<ContributorIds>patronn, caiy, carrascj</ContributorIds>
+		<ContributorIds>caiy, carrascj, patronn</ContributorIds>
 		<ContributorList>Cai Y, Carrasco Lopez JA, Patron NJ</ContributorList>
 		<Year>2020</Year>
 		<Month />
@@ -22562,7 +22613,7 @@
 		<JournalName>Synthetic Biology</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, carrascj, elliston, moffata, trumana</ContributorIds>
+		<ContributorIds>carrascj, elliston, moffata, patronn, trumana</ContributorIds>
 		<ContributorList>Moffat AD, Elliston A, Patron NJ, Truman AW, Carrasco Lopez JA</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -22715,7 +22766,7 @@
 		<JournalName>EFSA Journal</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn</ContributorIds>
+		<ContributorIds />
 		<ContributorList>EFSA Panel on Genetically Modified Organisms (GMO), Naegeli H, Bresson J, Dalmay T, Dewhurst IC, Epstein MM, Firbank LG, Guerche P, Hejatko J, Moreno FJ, Nogue F, Rostoks N, Sanchez Serrano JJ, Savoini G, Veromann E, Veronesi F, Casacuberta J, De Schrijver A, Messean A, Patron N, Zurbriggen M, Alvarez F, Devos Y, Gennaro A, Streissl F, Papadopoulou N, Mullins E</ContributorList>
 		<Year>2021</Year>
 		<Month>2</Month>
@@ -23533,7 +23584,7 @@
 		<JournalName>Synthetic Biology</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, caiy, carrascj, dudleyq, kkallam</ContributorIds>
+		<ContributorIds>caiy, carrascj, dudleyq, kkallam, patronn</ContributorIds>
 		<ContributorList>Dudley QM, Cai Y, Kallam K, Debreyne H, Carrasco Lopez JA, Patron NJ</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
@@ -24385,7 +24436,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>patronn, chhetrym, dudleyq, harwood, jo, smedley</ContributorIds>
+		<ContributorIds>chhetrym, dudleyq, harwood, jo, patronn, smedley</ContributorIds>
 		<ContributorList>Dudley QM, Jo S, Guerrero DAS, Chhetry M, Smedley MA, Harwood WA, Sherden NH, O’Connor SE, Caputi L, Patron NJ</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -24419,7 +24470,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>tansley, patronn, kkallam</ContributorIds>
+		<ContributorIds>tansley, kkallam, patronn</ContributorIds>
 		<ContributorList>Kallam K, Moreno-Giménez E, Mateos-Fernández R, Tansley C, Gianoglio S, Orzaez D, Patron NJ</ContributorList>
 		<Year>2022</Year>
 		<Month>6</Month>
@@ -24623,7 +24674,7 @@
 		<JournalName>Communications Biology</JournalName>
 		<JournalVolume>5</JournalVolume>
 		<JournalPages />
-		<ContributorIds>patronn, chhetrym, dudleyq, harwood, jo, smedley</ContributorIds>
+		<ContributorIds>chhetrym, dudleyq, harwood, jo, patronn, smedley</ContributorIds>
 		<ContributorList>Dudley QM, Jo S, Guerrero DAS, Chhetry M, Smedley MA, Harwood WA, Sherden NH, O’Connor SE, Caputi L, Patron NJ</ContributorList>
 		<Year>2022</Year>
 		<Month>9</Month>
@@ -24793,7 +24844,7 @@
 		<JournalName>Plant Physiology</JournalName>
 		<JournalVolume>191</JournalVolume>
 		<JournalPages>1934-1952</JournalPages>
-		<ContributorIds>patronn, dudleyq</ContributorIds>
+		<ContributorIds>dudleyq, patronn</ContributorIds>
 		<ContributorList>Tomaž Š, Petek M, Lukan T, Pogačar K, Stare K, Teixeira Prates E, Jacobson DA, Zrimec J, Bajc G, Butala M, Pompe Novak M, Dudley Q, Patron N, Taler-Verčič A, Usenik A, Turk D, Prat S, Coll A, Gruden K</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -24980,7 +25031,7 @@
 		<JournalName>Plant Biotechnology Journal</JournalName>
 		<JournalVolume>21</JournalVolume>
 		<JournalPages>1440-1453</JournalPages>
-		<ContributorIds>tansley, patronn, kkallam</ContributorIds>
+		<ContributorIds>tansley, kkallam, patronn</ContributorIds>
 		<ContributorList>Kallam K, Moreno‐Giménez E, Mateos‐Fernández R, Tansley C, Gianoglio S, Orzaez D, Patron N</ContributorList>
 		<Year>2023</Year>
 		<Month>4</Month>
