@@ -1446,23 +1446,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1002/yea.3912</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Telomere‐to‐telomere Schizosaccharomyces japonicus genome assembly reveals hitherto unknown genome features</Title>
-		<DOI>10.1002/yea.3912</DOI>
-		<JournalName>Yeast</JournalName>
-		<JournalVolume>41</JournalVolume>
-		<JournalPages>73-86</JournalPages>
-		<ContributorIds>ethering, nieduszc</ContributorIds>
-		<ContributorList>Etherington GJ, Wu P, Oliferenko S, Uhlmann F, Nieduszynski CA</ContributorList>
-		<Year>2024</Year>
-		<Month>3</Month>
-		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2024.03.01.582753</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -1495,6 +1478,23 @@
 		<Month>3</Month>
 		<Day>8</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1002/yea.3912</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Telomere‐to‐telomere Schizosaccharomyces japonicus genome assembly reveals hitherto unknown genome features</Title>
+		<DOI>10.1002/yea.3912</DOI>
+		<JournalName>Yeast</JournalName>
+		<JournalVolume>41</JournalVolume>
+		<JournalPages>73-86</JournalPages>
+		<ContributorIds>ethering, nieduszc</ContributorIds>
+		<ContributorList>Etherington GJ, Wu P, Oliferenko S, Uhlmann F, Nieduszynski CA</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.48550/arxiv.2307.15166</id>
@@ -2622,6 +2622,176 @@
 		<Month>7</Month>
 		<Day>29</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bd3ri8m6</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Protocols for &amp;#34;Sequencing smart: De novo sequencing and assembly approaches for a non-model mammal&amp;#34; v1</Title>
+		<DOI>10.17504/protocols.io.bd3ri8m6</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>J Etherington G</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bd3ui8nw</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Long Mate Pair Library Construction Protocol v1</Title>
+		<DOI>10.17504/protocols.io.bd3ui8nw</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd, abinnie, macaulai, haertyw</ContributorIds>
+		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bd7ei9je</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Bionano genome mapping from animal tissue v1</Title>
+		<DOI>10.17504/protocols.io.bd7ei9je</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd, abinnie, macaulai, haertyw</ContributorIds>
+		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>25</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bd3ti8nn</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Amplification Free Paired End Library Construction Protocol v1</Title>
+		<DOI>10.17504/protocols.io.bd3ti8nn</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd, abinnie, macaulai, haertyw</ContributorIds>
+		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bd3vi8n6</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>10x Genomics Library Construction v1</Title>
+		<DOI>10.17504/protocols.io.bd3vi8n6</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>heavensd, abinnie, macaulai, haertyw</ContributorIds>
+		<ContributorList>J Etherington G, Heavens D, Baker D, Lister A, McNelly R, Garcia G, Clavijo B, Macaulay I, Haerty W, Di Palma F</ContributorList>
+		<Year>2020</Year>
+		<Month>3</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bretm3en</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Population Structure and Phylogenetics v1</Title>
+		<DOI>10.17504/protocols.io.bretm3en</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering</ContributorIds>
+		<ContributorList>Etherington G</ContributorList>
+		<Year>2021</Year>
+		<Month>1</Month>
+		<Day>13</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bqzbmx2n</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Mitochondrial genome assembly v1</Title>
+		<DOI>10.17504/protocols.io.bqzbmx2n</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering</ContributorIds>
+		<ContributorList>Etherington G</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bww9pfh6</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Library Construction Protocols v1</Title>
+		<DOI>10.17504/protocols.io.bww9pfh6</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>J Etherington G</ContributorList>
+		<Year>2021</Year>
+		<Month>7</Month>
+		<Day>27</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bq7tmznn</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Introgression v1</Title>
+		<DOI>10.17504/protocols.io.bq7tmznn</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering</ContributorIds>
+		<ContributorList>Etherington G</ContributorList>
+		<Year>2021</Year>
+		<Month>1</Month>
+		<Day>6</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.17504/protocols.io.bqzgmx3w</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>GATK Nuclear variant discovery and consensus assembly v1</Title>
+		<DOI>10.17504/protocols.io.bqzgmx3w</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ethering</ContributorIds>
+		<ContributorList>Etherington G</ContributorList>
+		<Year>2020</Year>
+		<Month>12</Month>
+		<Day>23</Day>
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2023.06.28.546652</id>
