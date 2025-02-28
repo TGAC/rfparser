@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2025.02.14.638261</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>MARTi: a real-time analysis and visualisation tool for nanopore metagenomics</Title>
+		<DOI>10.1101/2025.02.14.638261</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>peeln, martins, heavensd, leggettr</ContributorIds>
+		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>18</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.02.10.637319</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Whole genome sequencing reveals how plasticity and genetic differentiation underlie sympatric morphs of Arctic charr</Title>
+		<DOI>10.1101/2025.02.10.637319</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>bakerk, barkert, clissold, irishn, vknitlho, lucchins, mctaggar, swarbred, gharbik</ContributorIds>
+		<ContributorList>Kurta K, Fedi MO, Baker K, Barker T, Catchpole L, Ciofi C, Cocco A, Diedericks G, Diroma MA, Hindar K, Iannucci A, Irish N, Knitlhoffer V, Laikre L, Leitão HG, Lucchini S, McTaggart S, Pálsson A, Pettersson ME, Ryman N, Snorrason SS, Svardal H, Swarbreck D, Waterhouse RM, Watkins C, Xiao HH, Gharbi K, Jónsson ZO, Andersson L</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>10</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41597-025-04451-9</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Applying the FAIR Principles to computational workflows</Title>
+		<DOI>10.1038/s41597-025-04451-9</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>soranzon</ContributorIds>
+		<ContributorList>Wilkinson SR, Aloqalaa M, Belhajjame K, Crusoe MR, de Paula Kinoshita B, Gadelha L, Garijo D, Gustafsson OJR, Juty N, Kanwal S, Khan FZ, Köster J, Peters-von Gehlen K, Pouchard L, Rannow RK, Soiland-Reyes S, Soranzo N, Sufi S, Sun Z, Vilne B, Wouters MA, Yuen D, Goble C</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3389/fpls.2024.1346046</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
