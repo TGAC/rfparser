@@ -316,7 +316,7 @@
 		<JournalName>Evolution</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
+		<ContributorIds>jpeers, haertyw</ContributorIds>
 		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -809,7 +809,7 @@
 		<JournalName>Heredity</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>381-387</JournalPages>
-		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Nash WJ, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, McCartney AM, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>9</Month>
@@ -3229,7 +3229,7 @@
 		<JournalName>Wellcome Open Research</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>91</JournalPages>
-		<ContributorIds>nashw</ContributorIds>
+		<ContributorIds />
 		<ContributorList>University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Nash W, Darwin Tree of Life Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>3</Month>
@@ -3246,7 +3246,7 @@
 		<JournalName>Wellcome Open Research</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>103</JournalPages>
-		<ContributorIds>nashw</ContributorIds>
+		<ContributorIds />
 		<ContributorList>University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Nash W, Darwin Tree of Life Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>3</Month>
@@ -4300,7 +4300,7 @@
 		<JournalName>Methods in Ecology and Evolution</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages>360-371</JournalPages>
-		<ContributorIds>nashw, gharbik, irishn, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>gharbik, irishn, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Mullin VE, Stephen W, Arce AN, Nash W, Raine C, Notton DG, Whiffin A, Blagderov V, Gharbi K, Hogan J, Hunter T, Irish N, Jackson S, Judd S, Watkins C, Haerty W, Ollerton J, Brace S, Gill RJ, Barnes I</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
@@ -19377,7 +19377,7 @@
 		<JournalName>Nature Genetics</JournalName>
 		<JournalVolume>50</JournalVolume>
 		<JournalPages>1102-1111</JournalPages>
-		<ContributorIds>ethering, nashw, haertyw, dipalmaf</ContributorIds>
+		<ContributorIds>ethering, haertyw, dipalmaf, nashw</ContributorIds>
 		<ContributorList>Johnson RN, O’Meally D, Chen Z, Etherington GJ, Ho SYW, Nash WJ, Grueber CE, Cheng Y, Whittington CM, Dennison S, Peel E, Haerty W, O’Neill RJ, Colgan D, Russell TL, Alquezar-Planas DE, Attenbrow V, Bragg JG, Brandies PA, Chong AY, Deakin JE, Di Palma F, Duda Z, Eldridge MDB, Ewart KM, Hogg CJ, Frankham GJ, Georges A, Gillett AK, Govendir M, Greenwood AD, Hayakawa T, Helgen KM, Hobbs M, Holleley CE, Heider TN, Jones EA, King A, Madden D, Graves JAM, Morris KM, Neaves LE, Patel HR, Polkinghorne A, Renfree MB, Robin C, Salinas R, Tsangaras K, Waters PD, Waters SA, Wright B, Wilkins MR, Timms P, Belov K</ContributorList>
 		<Year>2018</Year>
 		<Month>7</Month>
@@ -19906,7 +19906,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>mehtat, haertyw, dipalmaf, korcsmat, nashw, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2018</Year>
 		<Month>12</Month>
@@ -21302,7 +21302,7 @@
 		<JournalName>Frontiers in Microbiology</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>jod23rof, voz24wid, blakesle, boothc, cardings, cil24kon, gottsk, parkera, rek24cel, stentzr, wilemant</ContributorIds>
+		<ContributorIds>jod23rof, blakesle, boothc, cardings, cil24kon, gottsk, parkera, rek24cel, stentzr, wilemant</ContributorIds>
 		<ContributorList>Jones EJ, Booth C, Fonseca S, Parker A, Cross K, Miquel-Clopés A, Hautefort I, Mayer U, Wileman T, Stentz R, Carding SR</ContributorList>
 		<Year>2020</Year>
 		<Month>2</Month>
@@ -21421,7 +21421,7 @@
 		<JournalName>Hepatology</JournalName>
 		<JournalVolume>72</JournalVolume>
 		<JournalPages>2090-2108</JournalPages>
-		<ContributorIds>goldson, voz24wid, hildebrf, berazan, briona, dbaker, echeandm, galdurom, hildebra, parkera, pattersa, philom, rushbroo, tena</ContributorIds>
+		<ContributorIds>goldson, hildebrf, berazan, briona, dbaker, echeandm, galdurom, hildebra, parkera, pattersa, philom, rushbroo, tena</ContributorIds>
 		<ContributorList>Isaacs‐Ten A, Echeandia M, Moreno‐Gonzalez M, Brion A, Goldson A, Philo M, Patterson AM, Parker A, Galduroz M, Baker D, Rushbrook SM, Hildebrand F, Beraza N</ContributorList>
 		<Year>2020</Year>
 		<Month>12</Month>
@@ -21812,7 +21812,7 @@
 		<JournalName>Gut Microbes</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages>1745-1757</JournalPages>
-		<ContributorIds>voz24wid, goldson, blacksha, briona, cardings, parkera, stentzr</ContributorIds>
+		<ContributorIds>goldson, blacksha, briona, cardings, parkera, stentzr</ContributorIds>
 		<ContributorList>Aktar R, Parkar N, Stentz R, Baumard L, Parker A, Goldson A, Brion A, Carding S, Blackshaw A, Peiris M</ContributorList>
 		<Year>2020</Year>
 		<Month>6</Month>
@@ -22477,7 +22477,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>587</JournalVolume>
 		<JournalPages>240-245</JournalPages>
-		<ContributorIds>haertyw, nashw, dipalmaf</ContributorIds>
+		<ContributorIds>haertyw, dipalmaf, nashw</ContributorIds>
 		<ContributorList>Zoonomia Consortium, Genereux DP, Serres A, Armstrong J, Johnson J, Marinescu VD, Murén E, Juan D, Bejerano G, Casewell NR, Chemnick LG, Damas J, Di Palma F, Diekhans M, Fiddes IT, Garber M, Gladyshev VN, Goodman L, Haerty W, Houck ML, Hubley R, Kivioja T, Koepfli K, Kuderna LFK, Lander ES, Meadows JRS, Murphy WJ, Nash W, Noh HJ, Nweeia M, Pfenning AR, Pollard KS, Ray DA, Shapiro B, Smit AFA, Springer MS, Steiner CC, Swofford R, Taipale J, Teeling EC, Turner-Maier J, Alfoldi J, Birren B, Ryder OA, Lewin HA, Paten B, Marques-Bonet T, Lindblad-Toh K, Karlsson EK</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -22528,7 +22528,7 @@
 		<JournalName>Frontiers in Microbiology</JournalName>
 		<JournalVolume>11</JournalVolume>
 		<JournalPages />
-		<ContributorIds>voz24wid, goldson, blacksha, blakesle, briona, cardings, defernez, modasiaa, parkera, stentzr, wilemant</ContributorIds>
+		<ContributorIds>goldson, blacksha, blakesle, briona, cardings, defernez, modasiaa, parkera, stentzr, wilemant</ContributorIds>
 		<ContributorList>Modasia A, Parker A, Jones E, Stentz R, Brion A, Goldson A, Defernez M, Wileman T, Ashley Blackshaw L, Carding SR</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -22868,7 +22868,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>mehtat, haertyw, dipalmaf, korcsmat, nashw, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -22885,7 +22885,7 @@
 		<JournalName>Biological Reviews</JournalName>
 		<JournalVolume>96</JournalVolume>
 		<JournalPages>822-841</JournalPages>
-		<ContributorIds>haertyw, macaulai, mehtat, nashw, peeln</ContributorIds>
+		<ContributorIds>haertyw, macaulai, mehtat, peeln, nashw</ContributorIds>
 		<ContributorList>Bergero R, Ellis P, Haerty W, Larcombe L, Macaulay I, Mehta T, Mogensen M, Murray D, Nash W, Neale MJ, O'Connor R, Ottolini C, Peel N, Ramsey L, Skinner B, Suh A, Summers M, Sun Y, Tidy A, Rahbari R, Rathje C, Immler S</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -24062,7 +24062,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
+		<ContributorIds>mehtat, haertyw, nashw</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -24623,7 +24623,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, nashw, ciezarek, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, kaithakg, mehtat</ContributorIds>
+		<ContributorIds>ethering, ciezarek, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, kaithakg, mehtat, nashw</ContributorIds>
 		<ContributorList>Etherington G, Nash W, Ciezarek A, Mehta T, Barria A, Peñaloza C, Khan M, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil G, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston R, Benzie J, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -24674,7 +24674,7 @@
 		<JournalName>Molecular Biology and Evolution</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
+		<ContributorIds>mehtat, haertyw, nashw</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>6</Month>
@@ -25082,7 +25082,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, nashw, ciezarek, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste</ContributorIds>
+		<ContributorIds>ethering, ciezarek, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, nashw</ContributorIds>
 		<ContributorList>Etherington GJ, Nash W, Ciezarek A, Mehta TK, Barria A, Peñaloza C, Khan MGQ, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil GG, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston RD, Benzie JAH, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -25592,7 +25592,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
+		<ContributorIds>jpeers, haertyw, nashw</ContributorIds>
 		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
@@ -25609,7 +25609,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw, nashw</ContributorIds>
 		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
@@ -25711,7 +25711,7 @@
 		<JournalName>JHEP Reports</JournalName>
 		<JournalVolume>6</JournalVolume>
 		<JournalPages>101159</JournalPages>
-		<ContributorIds>voz24wid, patelme, hildebrf, berazan, cbone, dbaker, gbeasy, gonzalez, hamptonk, hildebra, lazenby, parkera, philom, ris22nok, ruiz, rushbroo, silan, von23vig, zif22yaf</ContributorIds>
+		<ContributorIds>patelme, hildebrf, berazan, cbone, dbaker, gbeasy, gonzalez, hamptonk, hildebra, lazenby, parkera, philom, ris22nok, ruiz, rushbroo, silan, von23vig, zif22yaf</ContributorIds>
 		<ContributorList>Moreno-Gonzalez M, Hampton K, Ruiz P, Beasy G, Nagies FS, Parker A, Lazenby J, Bone C, Alava-Arteaga A, Patel M, Hellmich C, Luri-Martin P, Silan E, Philo M, Baker D, Rushbrook SM, Hildebrand F, Rushworth SA, Beraza N</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
