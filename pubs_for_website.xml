@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s44185-024-00054-6</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The European Reference Genome Atlas: piloting a decentralised approach to equitable biodiversity genomics</Title>
+		<DOI>10.1038/s44185-024-00054-6</DOI>
+		<JournalName>npj Biodiversity</JournalName>
+		<JournalVolume>3</JournalVolume>
+		<JournalPages />
+		<ContributorIds>fshaw, nashw</ContributorIds>
+		<ContributorList>Mc Cartney AM, Formenti G, Mouton A, De Panis D, Marins LS, Leitão HG, Diedericks G, Kirangwa J, Morselli M, Salces-Ortiz J, Escudero N, Iannucci A, Natali C, Svardal H, Fernández R, De Pooter T, Joris G, Strazisar M, Wood JMD, Herron KE, Seehausen O, Watts PC, Shaw F, Davey RP, Minotto A, Fernández JM, Böhne A, Alegria C, Alioto T, Alves PC, Amorim IR, Aury J, Backstrom N, Baldrian P, Baltrunaite L, Barta E, BedHom B, Belser C, Bergsten J, Bertrand L, Bilandija H, Binzer-Panchal M, Bista I, Blaxter M, Borges PAV, Dias GB, Bosse M, Brown T, Bruggmann R, Buena-Atienza E, Burgin J, Buzan E, Cariani A, Casadei N, Chiara M, Chozas S, Čiampor F, Crottini A, Cruaud C, Cruz F, Dalen L, De Biase A, del Campo J, Delic T, Dennis AB, Derks MFL, Diroma MA, Djan M, Duprat S, Eleftheriadi K, Feulner PGD, Flot J, Forni G, Fosso B, Fournier P, Fournier-Chambrillon C, Gabaldon T, Garg S, Gissi C, Giupponi L, Gomez-Garrido J, González J, Grilo ML, Grüning B, Guerin T, Guiglielmoni N, Gut M, Haesler MP, Hahn C, Halpern B, Harrison PW, Heintz J, Hindrikson M, Höglund J, Howe K, Hughes GM, Istace B, Cock MJ, Janžekovič F, Jonsson ZO, Joye-Dind S, Koskimäki JJ, Krystufek B, Kubacka J, Kuhl H, Kusza S, Labadie K, Lähteenaro M, Lantz H, Lavrinienko A, Leclère L, Lopes RJ, Madsen O, Magdelenat G, Magoga G, Manousaki T, Mappes T, Marques JP, Redondo GIM, Maumus F, McCarthy SA, Megens H, Melo-Ferreira J, Mendes SL, Montagna M, Moreno J, Mosbech M, Moura M, Musilova Z, Myers E, Nash WJ, Nater A, Nicholson P, Niell M, Nijland R, Noel B, Noren K, Oliveira PH, Olsen R, Ometto L, Oomen RA, Ossowski S, Palinauskas V, Palsson S, Panibe JP, Pauperio J, Pavlek M, Payen E, Pawlowska J, Pellicer J, Pesole G, Pimenta J, Pippel M, Pirttilä AM, Poulakakis N, Rajan J, M.C. Rego R, Resendes R, Resl P, Riesgo A, Rodin-Morch P, Soares AER, Fernandes CR, Romeiras MM, Roxo G, Rüber L, Ruiz-Lopez MJ, Saarma U, da Silva LP, Sim-Sim M, Soler L, Sousa VC, Santos CS, Spada A, Stefanovic M, Steger V, Stiller J, Stöck M, Struck TH, Sudasinghe H, Tapanainen R, Tellgren-Roth C, Trindade H, Tukalenko Y, Urso I, Vacherie B, Van Belleghem SM, Van Oers K, Vargas-Chavez C, Velickovic N, Vella N, Vella A, Vernesi C, Vicente S, Villa S, Pettersson OV, Volckaert FAM, Voros J, Wincker P, Winkler S, Ciofi C, Waterhouse RM, Mazzoni CJ</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2025.02.14.638261</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -117,6 +134,23 @@
 		<Year>2024</Year>
 		<Month>3</Month>
 		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.12688/wellcomeopenres.23614.1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The genome sequence of the common marigold, Calendula officinalis L.</Title>
+		<DOI>10.12688/wellcomeopenres.23614.1</DOI>
+		<JournalName>Wellcome Open Research</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages>45</JournalPages>
+		<ContributorIds />
+		<ContributorList>Christenhusz MJM, Ruhsam M, Leitch IJ, Patron N, Royal Botanic Gardens Kew Genome Acquisition Lab, Royal Botanic Garden Edinburgh Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Plant Genome Sizing collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>3</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -316,7 +350,7 @@
 		<JournalName>Evolution</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>jpeers, haertyw</ContributorIds>
+		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
 		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -341,6 +375,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.17660/actahortic.2024.1390.31</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Pan genome resources for grapevine</Title>
+		<DOI>10.17660/actahortic.2024.1390.31</DOI>
+		<JournalName>Acta Horticulturae</JournalName>
+		<JournalVolume />
+		<JournalPages>257-266</JournalPages>
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Chougule K, Tello-Ruiz M, Wei S, Olson A, Lu Z, Kumari S, Kumar V, Contreras-Moreira B, Naamati G, Dyer S, Papatheodorou I, George N, Elser J, Naithani S, Jaiswal P, Ware D</ContributorList>
+		<Year>2024</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.3389/fgene.2024.1460351</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -356,6 +407,23 @@
 		<Month>11</Month>
 		<Day>29</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.cbd.2024.101339</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single-cell RNA sequencing offers opportunities to explore the depth of physiology, adaptation, and biochemistry in non-model organisms exposed to pollution</Title>
+		<DOI>10.1016/j.cbd.2024.101339</DOI>
+		<JournalName>Comparative Biochemistry and Physiology Part D: Genomics and Proteomics</JournalName>
+		<JournalVolume>52</JournalVolume>
+		<JournalPages>101339</JournalPages>
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Collí-Dulá RC, Papatheodorou I</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1101/2024.12.23.629682</id>
@@ -647,6 +715,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.10.28.620591</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Machine learning models reveal environmental and genetic factors associated with the plant circadian clock</Title>
+		<DOI>10.1101/2024.10.28.620591</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>creynold, rusholmr, halla</ContributorIds>
+		<ContributorList>Reynolds C, Colmer J, Rees H, Khajouei E, Rusholme-Pilcher R, Kudoh H, Dodd AN, Hall A</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>31</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41467-024-53716-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -809,7 +894,7 @@
 		<JournalName>Heredity</JournalName>
 		<JournalVolume>133</JournalVolume>
 		<JournalPages>381-387</JournalPages>
-		<ContributorIds>mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Nash WJ, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, McCartney AM, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>9</Month>
@@ -1052,6 +1137,23 @@
 		<Year>2024</Year>
 		<Month>5</Month>
 		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.12688/wellcomeopenres.18499.3</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>COPO - Managing sample metadata for biodiversity: considerations from the Darwin Tree of Life project</Title>
+		<DOI>10.12688/wellcomeopenres.18499.3</DOI>
+		<JournalName>Wellcome Open Research</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages>279</JournalPages>
+		<ContributorIds>fshaw, mctaggar, providen</ContributorIds>
+		<ContributorList>Shaw F, Minotto A, McTaggart S, Providence A, Harrison P, Paupério J, Rajan J, Burgin J, Cochrane G, Kilias E, Lawniczak MK, Davey R</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>10</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -2250,6 +2352,23 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2024.01.09.574675</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>ScGOclust: leveraging gene ontology to compare cell types across distant species using scRNA-seq data</Title>
+		<DOI>10.1101/2024.01.09.574675</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>taz23zir</ContributorIds>
+		<ContributorList>Song Y, Hu Y, Dow J, Perrimon N, Papatheodorou I</ContributorList>
+		<Year>2024</Year>
+		<Month>1</Month>
+		<Day>9</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/aob/mcad192</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -2417,6 +2536,23 @@
 		<Year>2023</Year>
 		<Month>11</Month>
 		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/nar/gkad1021</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Expression Atlas update: insights from sequencing data at both bulk and single cell level</Title>
+		<DOI>10.1093/nar/gkad1021</DOI>
+		<JournalName>Nucleic Acids Research</JournalName>
+		<JournalVolume>52</JournalVolume>
+		<JournalPages>D107-D114</JournalPages>
+		<ContributorIds>kon24kop, taz23zir</ContributorIds>
+		<ContributorList>George N, Fexova S, Fuentes AM, Madrigal P, Bi Y, Iqbal H, Kumbham U, Nolte NF, Zhao L, Thanki AS, Yu ID, Marugan Calles JC, Erdos K, Vilmovsky L, Kurri SR, Vathrakokoili-Pournara A, Osumi-Sutherland D, Prakash A, Wang S, Tello-Ruiz MK, Kumari S, Ware D, Goutte-Gattat D, Hu Y, Brown N, Perrimon N, Vizcaíno JA, Burdett T, Teichmann S, Brazma A, Papatheodorou I</ContributorList>
+		<Year>2023</Year>
+		<Month>11</Month>
+		<Day>22</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -3229,7 +3365,7 @@
 		<JournalName>Wellcome Open Research</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>91</JournalPages>
-		<ContributorIds />
+		<ContributorIds>nashw</ContributorIds>
 		<ContributorList>University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Nash W, Darwin Tree of Life Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>3</Month>
@@ -3246,7 +3382,7 @@
 		<JournalName>Wellcome Open Research</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>103</JournalPages>
-		<ContributorIds />
+		<ContributorIds>nashw</ContributorIds>
 		<ContributorList>University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life programme, Wellcome Sanger Institute Scientific Operations: DNA Pipelines collective, Tree of Life Core Informatics collective, Nash W, Darwin Tree of Life Consortium</ContributorList>
 		<Year>2022</Year>
 		<Month>3</Month>
@@ -3968,23 +4104,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.12688/wellcomeopenres.18499.1</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Managing sample metadata for biodiversity: considerations from the Darwin Tree of Life project</Title>
-		<DOI>10.12688/wellcomeopenres.18499.1</DOI>
-		<JournalName>Wellcome Open Research</JournalName>
-		<JournalVolume>7</JournalVolume>
-		<JournalPages>279</JournalPages>
-		<ContributorIds>fshaw, mctaggar, providen</ContributorIds>
-		<ContributorList>Shaw F, Minotto A, McTaggart S, Providence A, Harrison P, Paupério J, Rajan J, Burgin J, Cochrane G, Kilias E, Lawniczak M, Davey R</ContributorList>
-		<Year>2022</Year>
-		<Month>11</Month>
-		<Day>10</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1182/bloodadvances.2022007033</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -4206,6 +4325,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.12688/wellcomeopenres.18499.1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Managing sample metadata for biodiversity: considerations from the Darwin Tree of Life project</Title>
+		<DOI>10.12688/wellcomeopenres.18499.1</DOI>
+		<JournalName>Wellcome Open Research</JournalName>
+		<JournalVolume>7</JournalVolume>
+		<JournalPages>279</JournalPages>
+		<ContributorIds>fshaw, mctaggar, providen</ContributorIds>
+		<ContributorList>Shaw F, Minotto A, McTaggart S, Providence A, Harrison P, Paupério J, Rajan J, Burgin J, Cochrane G, Kilias E, Lawniczak M, Davey R</ContributorList>
+		<Year>2022</Year>
+		<Month>11</Month>
+		<Day>10</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1146/annurev-genom-112921-123710</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -4300,7 +4436,7 @@
 		<JournalName>Methods in Ecology and Evolution</JournalName>
 		<JournalVolume>14</JournalVolume>
 		<JournalPages>360-371</JournalPages>
-		<ContributorIds>gharbik, irishn, watkinsc, haertyw</ContributorIds>
+		<ContributorIds>nashw, gharbik, irishn, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Mullin VE, Stephen W, Arce AN, Nash W, Raine C, Notton DG, Whiffin A, Blagderov V, Gharbi K, Hogan J, Hunter T, Irish N, Jackson S, Judd S, Watkins C, Haerty W, Ollerton J, Brace S, Gill RJ, Barnes I</ContributorList>
 		<Year>2022</Year>
 		<Month>8</Month>
@@ -19377,7 +19513,7 @@
 		<JournalName>Nature Genetics</JournalName>
 		<JournalVolume>50</JournalVolume>
 		<JournalPages>1102-1111</JournalPages>
-		<ContributorIds>ethering, haertyw, dipalmaf, nashw</ContributorIds>
+		<ContributorIds>ethering, nashw, haertyw, dipalmaf</ContributorIds>
 		<ContributorList>Johnson RN, O’Meally D, Chen Z, Etherington GJ, Ho SYW, Nash WJ, Grueber CE, Cheng Y, Whittington CM, Dennison S, Peel E, Haerty W, O’Neill RJ, Colgan D, Russell TL, Alquezar-Planas DE, Attenbrow V, Bragg JG, Brandies PA, Chong AY, Deakin JE, Di Palma F, Duda Z, Eldridge MDB, Ewart KM, Hogg CJ, Frankham GJ, Georges A, Gillett AK, Govendir M, Greenwood AD, Hayakawa T, Helgen KM, Hobbs M, Holleley CE, Heider TN, Jones EA, King A, Madden D, Graves JAM, Morris KM, Neaves LE, Patel HR, Polkinghorne A, Renfree MB, Robin C, Salinas R, Tsangaras K, Waters PD, Waters SA, Wright B, Wilkins MR, Timms P, Belov K</ContributorList>
 		<Year>2018</Year>
 		<Month>7</Month>
@@ -19906,7 +20042,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, haertyw, dipalmaf, korcsmat, nashw, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2018</Year>
 		<Month>12</Month>
@@ -22477,7 +22613,7 @@
 		<JournalName>Nature</JournalName>
 		<JournalVolume>587</JournalVolume>
 		<JournalPages>240-245</JournalPages>
-		<ContributorIds>haertyw, dipalmaf, nashw</ContributorIds>
+		<ContributorIds>haertyw, nashw, dipalmaf</ContributorIds>
 		<ContributorList>Zoonomia Consortium, Genereux DP, Serres A, Armstrong J, Johnson J, Marinescu VD, Murén E, Juan D, Bejerano G, Casewell NR, Chemnick LG, Damas J, Di Palma F, Diekhans M, Fiddes IT, Garber M, Gladyshev VN, Goodman L, Haerty W, Houck ML, Hubley R, Kivioja T, Koepfli K, Kuderna LFK, Lander ES, Meadows JRS, Murphy WJ, Nash W, Noh HJ, Nweeia M, Pfenning AR, Pollard KS, Ray DA, Shapiro B, Smit AFA, Springer MS, Steiner CC, Swofford R, Taipale J, Teeling EC, Turner-Maier J, Alfoldi J, Birren B, Ryder OA, Lewin HA, Paten B, Marques-Bonet T, Lindblad-Toh K, Karlsson EK</ContributorList>
 		<Year>2020</Year>
 		<Month>11</Month>
@@ -22868,7 +23004,7 @@
 		<JournalName>Genome Biology</JournalName>
 		<JournalVolume>22</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, haertyw, dipalmaf, korcsmat, nashw, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
+		<ContributorIds>mehtat, nashw, haertyw, dipalmaf, korcsmat, olbeim, pensodl, sbastkow, sudhakap</ContributorIds>
 		<ContributorList>Mehta TK, Koch C, Nash W, Knaack SA, Sudhakar P, Olbei M, Bastkowski S, Penso-Dolfin L, Korcsmaros T, Haerty W, Roy S, Di-Palma F</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -22885,7 +23021,7 @@
 		<JournalName>Biological Reviews</JournalName>
 		<JournalVolume>96</JournalVolume>
 		<JournalPages>822-841</JournalPages>
-		<ContributorIds>haertyw, macaulai, mehtat, peeln, nashw</ContributorIds>
+		<ContributorIds>haertyw, macaulai, mehtat, nashw, peeln</ContributorIds>
 		<ContributorList>Bergero R, Ellis P, Haerty W, Larcombe L, Macaulay I, Mehta T, Mogensen M, Murray D, Nash W, Neale MJ, O'Connor R, Ottolini C, Peel N, Ramsey L, Skinner B, Suh A, Summers M, Sun Y, Tidy A, Rahbari R, Rathje C, Immler S</ContributorList>
 		<Year>2021</Year>
 		<Month>1</Month>
@@ -24062,7 +24198,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mehtat, haertyw, nashw</ContributorIds>
+		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2021</Year>
 		<Month>12</Month>
@@ -24623,7 +24759,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>ethering, ciezarek, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, kaithakg, mehtat, nashw</ContributorIds>
+		<ContributorIds>ethering, nashw, ciezarek, durrant, fraser, irishn, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, kaithakg, mehtat</ContributorIds>
 		<ContributorList>Etherington G, Nash W, Ciezarek A, Mehta T, Barria A, Peñaloza C, Khan M, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil G, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston R, Benzie J, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>5</Month>
@@ -24674,7 +24810,7 @@
 		<JournalName>Molecular Biology and Evolution</JournalName>
 		<JournalVolume>39</JournalVolume>
 		<JournalPages />
-		<ContributorIds>mehtat, haertyw, nashw</ContributorIds>
+		<ContributorIds>mehtat, nashw, haertyw</ContributorIds>
 		<ContributorList>Mehta TK, Penso-Dolfin L, Nash W, Roy S, Di-Palma F, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>6</Month>
@@ -25082,7 +25218,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>23</JournalVolume>
 		<JournalPages />
-		<ContributorIds>ethering, ciezarek, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste, nashw</ContributorIds>
+		<ContributorIds>ethering, nashw, ciezarek, mehtat, durrant, fraser, irishn, kaithakg, lipscomj, watkinsc, swarbred, angiolie, gharbik, haertyw, forreste</ContributorIds>
 		<ContributorList>Etherington GJ, Nash W, Ciezarek A, Mehta TK, Barria A, Peñaloza C, Khan MGQ, Durrant A, Forrester N, Fraser F, Irish N, Kaithakottil GG, Lipscombe J, Trong T, Watkins C, Swarbreck D, Angiolini E, Cnaani A, Gharbi K, Houston RD, Benzie JAH, Haerty W</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -25592,7 +25728,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>jpeers, haertyw, nashw</ContributorIds>
+		<ContributorIds>jpeers, nashw, haertyw</ContributorIds>
 		<ContributorList>Peers JA, Nash WJ, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
@@ -25609,7 +25745,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw, nashw</ContributorIds>
+		<ContributorIds>nashw, mana, mctaggar, bakerk, barkert, clissold, durrant, gharbik, irishn, kaithakg, zef22hak, providen, fshaw, swarbred, watkinsc, haertyw</ContributorIds>
 		<ContributorList>Nash W, Man A, McTaggart S, Baker K, Barker T, Catchpole L, Durrant A, Gharbi K, Irish N, Kaithakottil G, Ku D, Providence A, Shaw F, Swarbreck D, Watkins C, Mc Cartney A, Formenti G, Mouton A, Vella N, von Reumont BM, Vella A, Haerty W</ContributorList>
 		<Year>2024</Year>
 		<Month>4</Month>
