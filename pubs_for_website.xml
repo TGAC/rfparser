@@ -18,23 +18,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2025.02.14.638261</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>MARTi: a real-time analysis and visualisation tool for nanopore metagenomics</Title>
-		<DOI>10.1101/2025.02.14.638261</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>peeln, martins, heavensd, leggettr</ContributorIds>
-		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
-		<Year>2025</Year>
-		<Month>2</Month>
-		<Day>18</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2025.02.10.637319</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -154,6 +137,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2025.02.14.638261</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>MARTi: a real-time analysis and visualisation tool for nanopore metagenomics</Title>
+		<DOI>10.1101/2025.02.14.638261</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>peeln, martins, heavensd, leggettr</ContributorIds>
+		<ContributorList>Peel N, Martin S, Heavens D, Yu DW, Clark MD, Leggett RM</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>18</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.5281/zenodo.14823851</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -219,6 +219,23 @@
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41597-025-04525-8</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Metagenome-assembled-genomes recovered from the Arctic drift expedition MOSAiC</Title>
+		<DOI>10.1038/s41597-025-04525-8</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>leggettr</ContributorIds>
+		<ContributorList>Boulton W, Salamov A, Grigoriev IV, Calhoun S, LaButti K, Riley R, Barry K, Fong AA, Hoppe CJM, Metfies K, Oetjen K, Eggers SL, Müller O, Gardner J, Granskog MA, Torstensson A, Oggier M, Larsen A, Bratbak G, Toseland A, Leggett RM, Moulton V, Mock T</ContributorList>
+		<Year>2025</Year>
+		<Month>2</Month>
+		<Day>4</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -882,6 +899,23 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.cub.2024.07.030</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Measuring air metagenomic diversity in an agricultural ecosystem</Title>
+		<DOI>10.1016/j.cub.2024.07.030</DOI>
+		<JournalName>Current Biology</JournalName>
+		<JournalVolume>34</JournalVolume>
+		<JournalPages>3778-3791.e4</JournalPages>
+		<ContributorIds>martins, leggettr</ContributorIds>
+		<ContributorList>Giolai M, Verweij W, Martin S, Pearson N, Nicholson P, Leggett RM, Clark MD</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
