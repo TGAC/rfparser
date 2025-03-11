@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1101/2024.08.06.606781</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-nucleus transcriptomics resolves differentiation dynamics between shoot stem cells and primary stem</Title>
+		<DOI>10.1101/2024.08.06.606781</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Moreno SR, Lenz MO, Meyerowitz EM, Locke JC, Jönsson H</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>8</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41586-024-08424-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Autoactive CNGC15 enhances root endosymbiosis in legume and wheat</Title>
+		<DOI>10.1038/s41586-024-08424-7</DOI>
+		<JournalName>Nature</JournalName>
+		<JournalVolume>638</JournalVolume>
+		<JournalPages>752-759</JournalPages>
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Cook NM, Gobbato G, Jacott CN, Marchal C, Hsieh CY, Lam AHC, Simmonds J, del Cerro P, Gomez PN, Rodney C, Cruz-Mireles N, Uauy C, Haerty W, Lawson DM, Charpentier M</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>15</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s44185-024-00054-6</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -746,6 +780,23 @@
 		<Year>2024</Year>
 		<Month>10</Month>
 		<Day>31</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.10.27.620491</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Selective breeding for determinacy and photoperiod sensitivity in common bean (Phaseolus vulgarisL.)</Title>
+		<DOI>10.1101/2024.10.27.620491</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>denning, halla, devegaj</ContributorIds>
+		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>29</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -20793,7 +20844,7 @@
 		<JournalVolume>10</JournalVolume>
 		<JournalPages>181-212</JournalPages>
 		<ContributorIds>duncan</ContributorIds>
-		<ContributorList>Dumur T, Duncan S, Graumann K, Desset S, Randall RS, Scheid OM, Prodanov D, Tatout C, Baroux C</ContributorList>
+		<ContributorList>Dumur T, Duncan S, Graumann K, Desset S, Randall RS, Mittelsten Scheid O, Bass HW, Prodanov D, Tatout C, Baroux C</ContributorList>
 		<Year>2019</Year>
 		<Month>1</Month>
 		<Day />
