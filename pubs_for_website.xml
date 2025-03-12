@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41597-023-02488-2</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>One high quality genome and two transcriptome datasets for new species of Mantamonas, a deep-branching eukaryote clade</Title>
+		<DOI>10.1038/s41597-023-02488-2</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds>warring</ContributorIds>
+		<ContributorList>Blaz J, Galindo LJ, Heiss AA, Kaur H, Torruella G, Yang A, Alexa Thompson L, Filbert A, Warring S, Narechania A, Shiratori T, Ishida K, Dacks JB, López-García P, Moreira D, Kim E, Eme L</ContributorList>
+		<Year>2023</Year>
+		<Month>9</Month>
+		<Day>9</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/gbe/evad194</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Long-Read–Based Genome Assembly Reveals Numerous Endogenous Viral Elements in the Green Algal Bacterivore Cymbomonas tetramitiformis</Title>
+		<DOI>10.1093/gbe/evad194</DOI>
+		<JournalName>Genome Biology and Evolution</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>warring</ContributorIds>
+		<ContributorList>Gyaltshen Y, Rozenberg A, Paasch A, Burns JA, Warring S, Larson RT, Maurer-Alcalá XX, Dacks J, Narechania A, Kim E</ContributorList>
+		<Year>2023</Year>
+		<Month>10</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1101/2024.08.06.606781</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -355,6 +389,23 @@
 		<Year>2025</Year>
 		<Month>1</Month>
 		<Day>3</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/g3journal/jkaf005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A haplotype-resolved chromosome-level genome assembly of Urochloa decumbens cv. Basilisk resolves its allopolyploid ancestry and composition</Title>
+		<DOI>10.1093/g3journal/jkaf005</DOI>
+		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>ryanc, fraser, irishn, barkert, vknitlho, durrant, gor23toz, kaithakg, swarbred, devegaj</ContributorIds>
+		<ContributorList>Ryan C, Fraser F, Irish N, Barker T, Knitlhoffer V, Durrant A, Reynolds G, Kaithakottil G, Swarbreck D, De Vega JJ</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>24</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -783,23 +834,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2024.10.27.620491</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Selective breeding for determinacy and photoperiod sensitivity in common bean (Phaseolus vulgarisL.)</Title>
-		<DOI>10.1101/2024.10.27.620491</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>denning, halla, devegaj</ContributorIds>
-		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
-		<Year>2024</Year>
-		<Month>10</Month>
-		<Day>29</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1038/s41467-024-53716-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -815,6 +849,23 @@
 		<Month>10</Month>
 		<Day>30</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.10.27.620491</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Selective breeding for determinacy and photoperiod sensitivity in common bean (Phaseolus vulgarisL.)</Title>
+		<DOI>10.1101/2024.10.27.620491</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>denning, halla, devegaj</ContributorIds>
+		<ContributorList>Denning-James KE, Chater C, Cortés AJ, Blair MW, Peláez D, Hall A, De Vega JJ</ContributorList>
+		<Year>2024</Year>
+		<Month>10</Month>
+		<Day>29</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41477-024-01778-w</id>
@@ -1191,23 +1242,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1093/g3journal/jkae108</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Genome-wide association analyses using multilocus models on bananas (Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
-		<DOI>10.1093/g3journal/jkae108</DOI>
-		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
-		<JournalVolume>14</JournalVolume>
-		<JournalPages />
-		<ContributorIds>devegaj</ContributorIds>
-		<ContributorList>Osorio-Guarin JA, Higgins J, Toloza-Moreno DL, Di Palma F, Enriquez Valencia AL, Riveros Munévar F, De Vega JJ, Yockteng R</ContributorList>
-		<Year>2024</Year>
-		<Month>5</Month>
-		<Day>22</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1073/pnas.2314213121</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1308,6 +1342,23 @@
 		<Month>6</Month>
 		<Day />
 		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/g3journal/jkae108</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genome-wide association analyses using multilocus models on bananas (Musa spp.) reveal candidate genes related to morphology, fruit quality, and yield</Title>
+		<DOI>10.1093/g3journal/jkae108</DOI>
+		<JournalName>G3: Genes, Genomes, Genetics</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>devegaj</ContributorIds>
+		<ContributorList>Osorio-Guarin JA, Higgins J, Toloza-Moreno DL, Di Palma F, Enriquez Valencia AL, Riveros Munévar F, De Vega JJ, Yockteng R</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/nar/gkae410</id>
