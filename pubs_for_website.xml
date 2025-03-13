@@ -1,6 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1016/j.ajcnut.2023.12.027</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Gut metabolome and microbiota signatures predict response to treatment with exclusive enteral nutrition in a prospective study in children with active Crohn’s disease</Title>
+		<DOI>10.1016/j.ajcnut.2023.12.027</DOI>
+		<JournalName>The American Journal of Clinical Nutrition</JournalName>
+		<JournalVolume>119</JournalVolume>
+		<JournalPages>885-895</JournalPages>
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Nichols B, Briola A, Logan M, Havlik J, Mascellani A, Gkikas K, Milling S, Ijaz UZ, Quince C, Svolos V, Russell RK, Hansen R, Gerasimidis K</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.clnu.2024.04.010</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Dose-dependent effects of enteral nutrition on the faecal microbiota and short chain fatty acids</Title>
+		<DOI>10.1016/j.clnu.2024.04.010</DOI>
+		<JournalName>Clinical Nutrition</JournalName>
+		<JournalVolume>43</JournalVolume>
+		<JournalPages>1200-1207</JournalPages>
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Jatkowska A, Gkikas K, Nichols B, Short B, Rizou V, Kapranos P, Gunnewiek JK, Christina E, Svolos V, Quince C, Gerasimidis K</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21769/bioprotoc.5245</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Improved Extraction Methods to Isolate High Molecular Weight DNA From Magnaporthaceae and Other Grass Root Fungi for Long-Read Whole Genome Sequencing</Title>
+		<DOI>10.21769/bioprotoc.5245</DOI>
+		<JournalName>BIO-PROTOCOL</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>greym, irishn, rel22vaz, halln, mcmullam</ContributorIds>
+		<ContributorList>Grey M, Freeman J, Rudd J, Irish N, Canning G, Chancellor T, Palma-Guerrero J, Hill R, Hall N, Hammond-Kosack K, McMullan M</ContributorList>
+		<Year>2025</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41597-023-02488-2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
