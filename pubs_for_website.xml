@@ -1,6 +1,465 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1186/s12889-024-19580-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Facilitators and barriers to implementing successful exclusion among children with shiga toxin-producing Escherichia coli: a qualitative analysis of public health case management records</Title>
+		<DOI>10.1186/s12889-024-19580-w</DOI>
+		<JournalName>BMC Public Health</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Vusirikala A, Yanshi, Robin C, Rowell S, Dabke G, Fox G, Bell J, Manuel R, Jenkins C, Love NK, McCarthy N, Sumilo D, Balasegaram S</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1017/s095026882400027x</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Shedding and exclusion from childcare in children with Shiga toxin-producing Escherichia coli, 2018–2022</Title>
+		<DOI>10.1017/s095026882400027x</DOI>
+		<JournalName>Epidemiology and Infection</JournalName>
+		<JournalVolume>152</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Vusirikala A, Rowell S, Dabke G, Fox G, Bell J, Manuel R, Jenkins C, Love N, McCarthy N, Sumilo D, Balasegaram S</ContributorList>
+		<Year>2024</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12864-025-11432-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces</Title>
+		<DOI>10.1186/s12864-025-11432-0</DOI>
+		<JournalName>BMC Genomics</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorList>Hill R, Grey M, Fedi MO, Smith D, Canning G, Ward SJ, Irish N, Smith J, McMillan VE, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41598-024-78331-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Comparative genomic analysis provides new insights into non-typhoidal Salmonella population structure in Peru</Title>
+		<DOI>10.1038/s41598-024-78331-4</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Caro-Castro J, Quino W, Flores-León D, Guzmán F, Garcia-de-la-Guarda R, Gavilan RG</ContributorList>
+		<Year>2024</Year>
+		<Month>11</Month>
+		<Day>9</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.07.18.603678</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Multiple Independent Genetic Code Reassignments of the UAG Stop Codon in Phyllopharyngean Ciliates</Title>
+		<DOI>10.1101/2024.07.18.603678</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>mcgowan, halln, swarbred</ContributorIds>
+		<ContributorList>McGowan J, Richards TA, Hall N, Swarbreck D</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>22</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/jxb/erae518</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Rebalancing the seed proteome following deletion of vicilin-related genes in pea (Pisum sativum L.)</Title>
+		<DOI>10.1093/jxb/erae518</DOI>
+		<JournalName>Journal of Experimental Botany</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Rayner T, Saalbach G, Vickers M, Paajanen P, Martins C, Wouters RHM, Chinoy C, Mulholland F, Bal M, Isaac P, Novak P, Macas J, Ellis N, Steuernagel B, Domoney C</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>21</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.3389/fcell.2024.1382960</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Single cell RNA-sequencing and RNA-tomography of the avian embryo extending body axis</Title>
+		<DOI>10.3389/fcell.2024.1382960</DOI>
+		<JournalName>Frontiers in Cell and Developmental Biology</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>abinnie, lipscomj, haertyw, macaulai</ContributorIds>
+		<ContributorList>Mok GF, Turner S, Smith EL, Mincarelli L, Lister A, Lipscombe J, Uzun V, Haerty W, Macaulay IC, Münsterberg AE</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-4802733/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Windthrow disturbance impacts soil biogeochemistry and bacterial communities in a temperate forest</Title>
+		<DOI>10.21203/rs.3.rs-4802733/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Waring B, Lancastle L, Bell T, Bidartondo MI, García-Díaz P, Lambin X, Vanguelova E, Windram FA</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>26</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.nmni.2024.101486</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Whole genome-based characterization of extended-spectrum β-lactamase-producing Enterobacter cloacae from orthopedic patients and environment of a tertiary referral hospital in Tanzania</Title>
+		<DOI>10.1016/j.nmni.2024.101486</DOI>
+		<JournalName>New Microbes and New Infections</JournalName>
+		<JournalVolume>62</JournalVolume>
+		<JournalPages>101486</JournalPages>
+		<ContributorIds />
+		<ContributorList>Kidenya BR, Mboowa G, Sserwadda I, Kanyerezi S, Nakafu E, Akaro IL, Mkinze B, Joloba ML, Seni J</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41589-024-01681-7</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Unlocking saponin biosynthesis in soapwort</Title>
+		<DOI>10.1038/s41589-024-01681-7</DOI>
+		<JournalName>Nature Chemical Biology</JournalName>
+		<JournalVolume>21</JournalVolume>
+		<JournalPages>215-226</JournalPages>
+		<ContributorIds />
+		<ContributorList>Jo S, El-Demerdash A, Owen C, Srivastava V, Wu D, Kikuchi S, Reed J, Hodgson H, Harkess A, Shu S, Plott C, Jenkins J, Williams M, Boston L, Lacchini E, Qu T, Goossens A, Grimwood J, Schmutz J, Leebens-Mack J, Osbourn A</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s12866-024-03317-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The predominant lactic acid bacteria and yeasts involved in the spontaneous fermentation of millet during the production of the traditional porridge Hausa koko in Ghana</Title>
+		<DOI>10.1186/s12866-024-03317-1</DOI>
+		<JournalName>BMC Microbiology</JournalName>
+		<JournalVolume>24</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Atter A, Diaz M, Tano-Debrah K, Parry-Hanson Kunadu A, Mayer MJ, Sayavedra L, Misita C, Amoa-Awua W, Narbad A</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1371/journal.pbio.3002232</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>The genotype of barley cultivars influences multiple aspects of their associated microbiota via differential root exudate secretion</Title>
+		<DOI>10.1371/journal.pbio.3002232</DOI>
+		<JournalName>PLOS Biology</JournalName>
+		<JournalVolume>22</JournalVolume>
+		<JournalPages>e3002232</JournalPages>
+		<ContributorIds />
+		<ContributorList>Pacheco-Moreno A, Bollmann-Giolai A, Chandra G, Brett P, Davies J, Thornton O, Poole P, Ramachandran V, Brown JKM, Nicholson P, Ridout C, DeVos S, Malone JG</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1158/0008-5472.can-23-3890</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>PTEN Loss Shapes Macrophage Dynamics in High-Grade Serous Ovarian Carcinoma</Title>
+		<DOI>10.1158/0008-5472.can-23-3890</DOI>
+		<JournalName>Cancer Research</JournalName>
+		<JournalVolume>84</JournalVolume>
+		<JournalPages>3772-3787</JournalPages>
+		<ContributorIds />
+		<ContributorList>Spear S, Le Saux O, Mirza HB, Iyer N, Tyson K, Grundland Freile F, Walton JB, Woodman C, Jarvis S, Ennis DP, Aguirre Hernandez C, Xu Y, Spiliopoulou P, Brenton JD, Costa-Pereira AP, Cook DP, Vanderhyden BC, Keun HC, Triantafyllou E, Arnold JN, McNeish IA</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>26</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.07.06.602338</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Plastid translocon recycling in dinoflagellates demonstrates the portability of complex plastids between hosts</Title>
+		<DOI>10.1101/2024.07.06.602338</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Lewis WH, Paris G, Beedessee G, Koreny L, Flores V, Dendooven T, Gallet B, Yee D, Lam S, Decelle J, Luisi BF, Waller RF</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>7</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1462-2920.16604</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Multiple toxins and a protease contribute to the aphid‐killing ability of Pseudomonas fluorescensPpR24</Title>
+		<DOI>10.1111/1462-2920.16604</DOI>
+		<JournalName>Environmental Microbiology</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Paliwal D, Rabiey M, Mauchline TH, Hassani‐Pak K, Nauen R, Wagstaff C, Andrews S, Bass C, Jackson RW</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1099/mgen.0.001277</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Molecular characterization of Streptococcus pyogenes (StrepA) non-invasive isolates during the 2022–2023 UK upsurge</Title>
+		<DOI>10.1099/mgen.0.001277</DOI>
+		<JournalName>Microbial Genomics</JournalName>
+		<JournalVolume>10</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Hall JN, Bah SY, Khalid H, Brailey A, Coleman S, Kirk T, Hussain N, Tovey M, Chaudhuri RR, Davies S, Tilley L, de Silva T, Turner CE</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/nph.19860</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Metagenome‐assembled genome of the glacier alga Ancylonema yields insights into the evolution of streptophyte life on ice and land</Title>
+		<DOI>10.1111/nph.19860</DOI>
+		<JournalName>New Phytologist</JournalName>
+		<JournalVolume>244</JournalVolume>
+		<JournalPages>1629-1643</JournalPages>
+		<ContributorIds />
+		<ContributorList>Bowles AMC, Williams TA, Donoghue PCJ, Campbell DA, Williamson CJ</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>6</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/gbe/evae140</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Long-Read–Based Hybrid Genome Assembly and Annotation of Snow Algal Strain CCCryo 101-99 (cf. Sphaerocystis sp., Chlamydomonadales)</Title>
+		<DOI>10.1093/gbe/evae140</DOI>
+		<JournalName>Genome Biology and Evolution</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Çiftçi O, Zervas A, Lutz S, Feord H, Keusching C, Leya T, Tranter M, Anesio AM, Benning LG</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1365-2664.14641</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Heathland management affects soil response to drought</Title>
+		<DOI>10.1111/1365-2664.14641</DOI>
+		<JournalName>Journal of Applied Ecology</JournalName>
+		<JournalVolume>61</JournalVolume>
+		<JournalPages>1372-1384</JournalPages>
+		<ContributorIds />
+		<ContributorList>Gliesch M, Sanchez LH, Jongepier E, Martin C, Hu Y, Tietema A, de Vries FT</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>24</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-4761614/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Hatchery type influences the gill microbiome of Atlantic farmed salmon (Salmo salar) after transfer to sea</Title>
+		<DOI>10.21203/rs.3.rs-4761614/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Katchkin-Stewart KJ, Boerlage AS, Barr W, Ijaz UZ, Smith CJ</ContributorList>
+		<Year>2024</Year>
+		<Month>8</Month>
+		<Day>17</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s40168-024-01796-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Giant viral signatures on the Greenland ice sheet</Title>
+		<DOI>10.1186/s40168-024-01796-y</DOI>
+		<JournalName>Microbiome</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Perini L, Sipes K, Zervas A, Bellas C, Lutz S, Moniruzzaman M, Mourot R, Benning LG, Tranter M, Anesio AM</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>17</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-024-54568-5</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Elevated mutation rates in multi-azole resistant Aspergillus fumigatus drive rapid evolution of antifungal resistance</Title>
+		<DOI>10.1038/s41467-024-54568-5</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Bottery MJ, van Rhijn N, Chown H, Rhodes JL, Celia-Sanchez BN, Brewer MT, Momany M, Fisher MC, Knight CG, Bromley MJ</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1093/plcell/koae117</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>BIG enhances Arg/N-degron pathway-mediated protein degradation to regulate Arabidopsis hypoxia responses and suberin deposition</Title>
+		<DOI>10.1093/plcell/koae117</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume>36</JournalVolume>
+		<JournalPages>3177-3200</JournalPages>
+		<ContributorIds />
+		<ContributorList>Zhang H, Rundle C, Winter N, Miricescu A, Mooney BC, Bachmair A, Graciet E, Theodoulou FL</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>12</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/1758-2229.13259</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Bacterial endophytic community composition varies by hemp cultivar in commercially sourced seed</Title>
+		<DOI>10.1111/1758-2229.13259</DOI>
+		<JournalName>Environmental Microbiology Reports</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Davies J, Hawkins S, Winters A, Farrar K</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21203/rs.3.rs-4155640/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A novel root hair mutant, srh1, affects root hair elongation and reactive oxygen species levels in wheat.</Title>
+		<DOI>10.21203/rs.3.rs-4155640/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Tsang I, Thomelin P, Ober E, Rawsthorne S, Atkinson JA, Wells DM, Percival-Alwyn L, Leigh FJ, Cockram J</ContributorList>
+		<Year>2024</Year>
+		<Month>4</Month>
+		<Day>2</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41597-024-03868-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A chromosome-scale reference genome of grasspea (Lathyrus sativus)</Title>
+		<DOI>10.1038/s41597-024-03868-y</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Vigouroux M, Novák P, Oliveira LC, Santos C, Cheema J, Wouters RHM, Paajanen P, Vickers M, Koblížková A, Vaz Patto MC, Macas J, Steuernagel B, Martin C, Emmrich PMF</ContributorList>
+		<Year>2024</Year>
+		<Month>9</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.4142/jvs.23286</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomic insights of S. aureus associated with bovine mastitis in a high livestock activity region of Mexico</Title>
+		<DOI>10.4142/jvs.23286</DOI>
+		<JournalName>Journal of Veterinary Science</JournalName>
+		<JournalVolume>25</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Aguirre-Sánchez JR, Castro-del Campo N, Medrano-Félix JA, Martínez-Torres AO, Chaidez C, Querol-Audi J, Castro-del Campo N</ContributorList>
+		<Year>2024</Year>
+		<Month />
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.ajcnut.2023.12.027</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
