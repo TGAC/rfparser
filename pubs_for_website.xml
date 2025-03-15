@@ -732,23 +732,6 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.5281/zenodo.14823851</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Data files for Hill et al. (2024) Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces.</Title>
-		<DOI>10.5281/zenodo.14823851</DOI>
-		<JournalName>Zenodo</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
-		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
-		<Year>2025</Year>
-		<Month>02</Month>
-		<Day>07</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1016/j.fm.2024.104649</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1546,23 +1529,6 @@
 		<Month>9</Month>
 		<Day>16</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.5281/zenodo.10277621</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Data files for Hill et al. (2024) Evolutionary genomics reveals variation in structure and genetic content implicated in virulence and lifestyle in the genus Gaeumannomyces.</Title>
-		<DOI>10.5281/zenodo.10277621</DOI>
-		<JournalName>Zenodo</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
-		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
-		<Year>2025</Year>
-		<Month>02</Month>
-		<Day>07</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.5281/zenodo.10277622</id>
