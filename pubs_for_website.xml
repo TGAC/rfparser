@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41597-025-04737-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Chromosome-level haplotype-resolved genome assembly of bread wheat’s wild relative Aegilops mutica</Title>
+		<DOI>10.1038/s41597-025-04737-y</DOI>
+		<JournalName>Scientific Data</JournalName>
+		<JournalVolume>12</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kaithakg, swarbred</ContributorIds>
+		<ContributorList>Grewal S, Yang C, Krasheninnikova K, Collins J, Wood JMD, Ashling S, Scholefield D, Kaithakottil GG, Swarbreck D, Yao E, Sen TZ, King IP, King J</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day>13</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.03.12.642647</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Leveraging existing data to maximise quality and consistency across gene model annotations: aFusariumpan-annotation</Title>
+		<DOI>10.1101/2025.03.12.642647</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>rel22vaz, gor23toz, halln, swarbred</ContributorIds>
+		<ContributorList>Hill R, Reynolds G, Hall N, Swarbreck D</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day>14</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s12889-024-19580-w</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
