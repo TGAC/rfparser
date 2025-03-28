@@ -1076,13 +1076,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>microGalaxy: A gateway to tools, workflows, and training for reproducible and FAIR analysis of microbial data</Title>
+		<Title>The Microbiology Galaxy Lab: A community-driven gateway to tools, workflows, and training for reproducible and FAIR analysis of microbial data</Title>
 		<DOI>10.1101/2024.12.23.629682</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>soranzon</ContributorIds>
-		<ContributorList>Nasr E, Amato P, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Gruening B, Hiltemann S, Jagtap P, Mehta S, Métris KL, Momin S, Oba A, Pavloudi C, Pechlivanis N, Péguilhan R, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, Van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B</ContributorList>
+		<ContributorList>Nasr E, Amato P, Bernt M, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Gruening B, Hiltemann S, Hyde CJ, Jagtap P, Mehta S, Métris KL, Momin S, Oba A, Pavloudi C, Pechlivanis N, Péguilhan R, Price GR, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, Van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B</ContributorList>
 		<Year>2024</Year>
 		<Month>12</Month>
 		<Day>27</Day>
