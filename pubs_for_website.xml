@@ -528,23 +528,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.21769/bioprotoc.5245</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Improved Extraction Methods to Isolate High Molecular Weight DNA From Magnaporthaceae and Other Grass Root Fungi for Long-Read Whole Genome Sequencing</Title>
-		<DOI>10.21769/bioprotoc.5245</DOI>
-		<JournalName>BIO-PROTOCOL</JournalName>
-		<JournalVolume>15</JournalVolume>
-		<JournalPages />
-		<ContributorIds>greym, irishn, rel22vaz, halln, mcmullam</ContributorIds>
-		<ContributorList>Grey M, Freeman J, Rudd J, Irish N, Canning G, Chancellor T, Palma-Guerrero J, Hill R, Hall N, Hammond-Kosack K, McMullan M</ContributorList>
-		<Year>2025</Year>
-		<Month />
-		<Day />
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1038/s41597-023-02488-2</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -26514,6 +26497,23 @@
 		<ContributorList>Moreno-Gonzalez M, Hampton K, Ruiz P, Beasy G, Nagies FS, Parker A, Lazenby J, Bone C, Alava-Arteaga A, Patel M, Hellmich C, Luri-Martin P, Silan E, Philo M, Baker D, Rushbrook SM, Hildebrand F, Rushworth SA, Beraza N</ContributorList>
 		<Year>2024</Year>
 		<Month>10</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.21769/BioProtoc.5245</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Improved Extraction Methods to Isolate High Molecular Weight DNA From Magnaporthaceae and Other Grass Root Fungi for Long-Read Whole Genome Sequencing</Title>
+		<DOI>10.21769/BioProtoc.5245</DOI>
+		<JournalName>BIO-PROTOCOL</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>greym, irishn, rel22vaz, halln, mcmullam</ContributorIds>
+		<ContributorList>Grey M, Freeman J, Rudd J, Irish N, Canning G, Chancellor T, Palma-Guerrero J, Hill R, Hall N, Hammond-Kosack K, McMullan M</ContributorList>
+		<Year>2025</Year>
+		<Month />
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
