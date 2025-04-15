@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1111/tpj.70118</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Semi‐automated workflow for high‐throughput Agrobacterium‐mediated plant transformation</Title>
+		<DOI>10.1111/tpj.70118</DOI>
+		<JournalName>The Plant Journal</JournalName>
+		<JournalVolume>122</JournalVolume>
+		<JournalPages />
+		<ContributorIds>yor25yat, grandell</ContributorIds>
+		<ContributorList>Annese D, Romani F, Grandellis C, Ives L, Frangedakis E, Buson FX, Molloy JC, Haseloff J</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41597-025-04737-y</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
