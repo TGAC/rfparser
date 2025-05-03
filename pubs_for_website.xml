@@ -26534,4 +26534,21 @@
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
+	<publication>
+		<id>10.3390/ijms26094080</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Proteomics of Bacterial and Mouse Extracellular Vesicles Released in the Gastrointestinal Tracts of Nutrient-Stressed Animals Reveals an Interplay Between Microbial Serine Proteases and Mammalian Serine Protease Inhibitors</Title>
+		<DOI>10.3390/ijms26094080</DOI>
+		<JournalName>International Journal of Molecular Sciences</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages>4080</JournalPages>
+		<ContributorIds>goldson, blakesle, briona, cardings, dlatousa, gottsk, parkera, stentzr, tal23haf</ContributorIds>
+		<ContributorList>Stentz R, Jones E, Gul L, Latousakis D, Parker A, Brion A, Goldson AJ, Gotts K, Carding SR</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
 </publications>
