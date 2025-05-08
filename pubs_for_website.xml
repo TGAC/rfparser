@@ -26551,4 +26551,21 @@
 		<Day>25</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
+	<publication>
+		<id>10.17504/protocols.io.q26g75bj1lwz/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Identifying direct TARGETs of transcription factors in wheat v1</Title>
+		<DOI>10.17504/protocols.io.q26g75bj1lwz/v1</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>goldson, borrillp, knighte</ContributorIds>
+		<ContributorList>Knight E, Winfield M, Goldson A, Bargmann B, Borrill P</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>2</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
 </publications>
