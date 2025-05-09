@@ -19190,7 +19190,7 @@
 		<JournalName>ACS Catalysis</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages>7558-7566</JournalPages>
-		<ContributorIds>elliston, legallg, robertsi, waldron</ContributorIds>
+		<ContributorIds>elliston, glegall, robertsi, waldron</ContributorIds>
 		<ContributorList>Rowe SF, Le Gall G, Ainsworth EV, Davies JA, Lockwood CWJ, Shi L, Elliston A, Roberts IN, Waldron KW, Richardson DJ, Clarke TA, Jeuken LJC, Reisner E, Butt JN</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -19309,7 +19309,7 @@
 		<JournalName>Scientific Reports</JournalName>
 		<JournalVolume>7</JournalVolume>
 		<JournalPages />
-		<ContributorIds>collinss, colquhou, dicksj, elliston, legallg, robertsi, waldron, wuj</ContributorIds>
+		<ContributorIds>collinss, colquhou, dicksj, elliston, glegall, robertsi, waldron, wuj</ContributorIds>
 		<ContributorList>Wu J, Elliston A, Le Gall G, Colquhoun IJ, Collins SRA, Dicks J, Roberts IN, Waldron KW</ContributorList>
 		<Year>2017</Year>
 		<Month>10</Month>
@@ -24621,7 +24621,7 @@
 		<JournalName>iScience</JournalName>
 		<JournalVolume>24</JournalVolume>
 		<JournalPages>103012</JournalPages>
-		<ContributorIds>ansorge, bekirkup, caims, calcon, dalbym, dreger, hallli, korcsmat, leclairc, legallg, madgwicm, mckeea, price, robinsst, wfowler</ContributorIds>
+		<ContributorIds>ansorge, bekirkup, caims, calcon, dalbym, dreger, glegall, hallli, korcsmat, leclairc, madgwicm, mckeea, price, robinsst, wfowler</ContributorIds>
 		<ContributorList>McKee AM, Kirkup BM, Madgwick M, Fowler WJ, Price CA, Dreger SA, Ansorge R, Makin KA, Caim S, Le Gall G, Paveley J, Leclaire C, Dalby M, Alcon-Giner C, Andrusaite A, Feng T, Di Modica M, Triulzi T, Tagliabue E, Milling SW, Weilbaecher KN, Rutkowski MR, Korcsmáros T, Hall LJ, Robinson SD</ContributorList>
 		<Year>2021</Year>
 		<Month>9</Month>
@@ -26516,6 +26516,23 @@
 		<Month>10</Month>
 		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.06.04.597320</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>A history-dependent integrase recorder of plant gene expression with single cell resolution</Title>
+		<DOI>10.1101/2024.06.04.597320</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>reg23vok</ContributorIds>
+		<ContributorList>Maranas CJ, George W, Scallon SK, VanGilder S, Nemhauser JL, Guiziou S</ContributorList>
+		<Year>2024</Year>
+		<Month>6</Month>
+		<Day>4</Day>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.21769/BioProtoc.5245</id>
