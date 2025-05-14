@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1038/s41598-025-01300-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Reconstruction of the X and Y haplotypes in the genetically improved Abbassa nile tilapia genome assembly</Title>
+		<DOI>10.1038/s41598-025-01300-y</DOI>
+		<JournalName>Scientific Reports</JournalName>
+		<JournalVolume>15</JournalVolume>
+		<JournalPages />
+		<ContributorIds>ethering, ciezarek, mehtat, barkert, durrant, fraser, kidgells, irishn, kaithakg, vknitlho, watkinsc, swarbred, gharbik, haertyw</ContributorIds>
+		<ContributorList>Etherington G, Ciezarek A, Mehta T, Barker T, Durrant A, Fraser F, Henderson S, Irish N, Kaithakottil G, Knitlhoffer V, Ali S, Trong T, Watkins C, Swarbreck D, Gharbi K, Benzie J, Haerty W</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>8</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/tpj.70118</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -848,23 +865,6 @@
 		<Year>2025</Year>
 		<Month>2</Month>
 		<Day>3</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.1093/ismeco/ycaf008</id>
-		<Organisation>EI</Organisation>
-		<Category>Journal Article</Category>
-		<CategoryID>1</CategoryID>
-		<Title>Metagenomic analyses of gut microbiome composition and function with age in a wild bird; little change, except increased transposase gene abundance</Title>
-		<DOI>10.1093/ismeco/ycaf008</DOI>
-		<JournalName>ISME Communications</JournalName>
-		<JournalVolume>5</JournalVolume>
-		<JournalPages />
-		<ContributorIds>hildebrf</ContributorIds>
-		<ContributorList>Lee CZ, Worsley SF, Davies CS, Silan E, Burke T, Komdeur J, Hildebrand F, Dugdale HL, Richardson DS</ContributorList>
-		<Year>2025</Year>
-		<Month>1</Month>
-		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -26535,6 +26535,40 @@
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1093/ismeco/ycaf008</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Metagenomic analyses of gut microbiome composition and function with age in a wild bird; little change, except increased transposase gene abundance</Title>
+		<DOI>10.1093/ismeco/ycaf008</DOI>
+		<JournalName>ISME Communications</JournalName>
+		<JournalVolume>5</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf, hildebra, silan</ContributorIds>
+		<ContributorList>Lee CZ, Worsley SF, Davies CS, Silan E, Burke T, Komdeur J, Hildebrand F, Dugdale HL, Richardson DS</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.immuni.2025.02.005</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>IL-17RA signaling provides dual tumor-suppressor function during late-stage colorectal carcinogenesis</Title>
+		<DOI>10.1016/j.immuni.2025.02.005</DOI>
+		<JournalName>Immunity</JournalName>
+		<JournalVolume>58</JournalVolume>
+		<JournalPages>701-715.e8</JournalPages>
+		<ContributorIds>hildebrf, hildebra, okurt</ContributorIds>
+		<ContributorList>Denk D, Ramakrishnan M, Conche C, Pallangyo C, Pesic M, Ceteci F, Kennel KB, Kirisözü AC, Engel E, Mohs K, Ritter B, Pardo AM, Özkurt E, Hildebrand F, Waisman A, Arkan MC, Greten FR</ContributorList>
+		<Year>2025</Year>
+		<Month>3</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.21769/BioProtoc.5245</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -26549,6 +26583,57 @@
 		<Year>2025</Year>
 		<Month />
 		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41531-025-00885-5</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A prebiotic dietary pilot intervention restores faecal metabolites and may be neuroprotective in Parkinson’s Disease</Title>
+		<DOI>10.1038/s41531-025-00885-5</DOI>
+		<JournalName>npj Parkinson's Disease</JournalName>
+		<JournalVolume>11</JournalVolume>
+		<JournalPages />
+		<ContributorIds>kam24goz, hildebrf, bedart, duncana, hildebra, narbad, ngd, romano, traka</ContributorIds>
+		<ContributorList>Bedarf JR, Romano S, Heinzmann SS, Duncan A, Traka MH, Ng D, Segovia-Lizano D, Simon M, Narbad A, Wüllner U, Hildebrand F</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1016/j.isci.2025.112253</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Genomic evidence of symbiotic adaptations in fungus-associated bacteria</Title>
+		<DOI>10.1016/j.isci.2025.112253</DOI>
+		<JournalName>iScience</JournalName>
+		<JournalVolume>28</JournalVolume>
+		<JournalPages>112253</JournalPages>
+		<ContributorIds>hildebrf, cerk, hildebra, ngd</ContributorIds>
+		<ContributorList>Gohar D, Põldmaa K, Pent M, Rahimlou S, Cerk K, Ng DY, Hildebrand F, Bahram M</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s40168-025-02091-0</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>A blueprint for contemporary studies of microbiomes</Title>
+		<DOI>10.1186/s40168-025-02091-0</DOI>
+		<JournalName>Microbiome</JournalName>
+		<JournalVolume>13</JournalVolume>
+		<JournalPages />
+		<ContributorIds>hildebrf, hildebra</ContributorIds>
+		<ContributorList>Bindels LB, Watts JEM, Theis KR, Carrion VJ, Ossowicki A, Seifert J, Oh J, Shao Y, Hilty M, Kumar P, Hildebrand F, Lovejoy C, Wigley P, Yu K, Zhang M, Zhang T, Walter J, Desai MS, Huws SA, Schriml LM, Ravel J, Fricke WF, Eloe-Fadrosh EA, Lee CK, Clavel T</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>8</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
