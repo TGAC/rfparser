@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1186/s12864-025-11485-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>RNA-Seq analysis reveals the long noncoding RNAs associated with immunity in wild Myotis myotis bats</Title>
+		<DOI>10.1186/s12864-025-11485-1</DOI>
+		<JournalName>BMC Genomics</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Riquier S, Carthy S, Hughes GM, Touzalin F, Haerty W, Huang Z, Teeling EC</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s41598-025-01300-y</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -7850,23 +7867,6 @@
 		<Year>2020</Year>
 		<Month>7</Month>
 		<Day>28</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
-	</publication>
-	<publication>
-		<id>10.21203/rs.3.rs-70697/v1</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Resequencing of 672 native rice accessions to explore genetic diversity and trait associations along Vietnam</Title>
-		<DOI>10.21203/rs.3.rs-70697/v1</DOI>
-		<JournalName>Research Square</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>halla, devegaj</ContributorIds>
-		<ContributorList>Higgins J, Santos B, Khanh TD, Trung KH, Duong TD, Doai NTP, Khoa NT, Ha DTT, Diep NT, Dung KT, Phi CN, Thuy TT, Tuan NT, Tran HD, Trung NT, Giang HT, Nhung TK, Tran CD, Lang SV, Nghia LT, Giang NV, Xuan TD, Hall A, Dyer S, Ham LH, Caccamo M, Vega JJD</ContributorList>
-		<Year>2020</Year>
-		<Month>9</Month>
-		<Day>3</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
@@ -26651,6 +26651,23 @@
 		<Year>2025</Year>
 		<Month>4</Month>
 		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1186/s13059-025-03591-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Most human DNA replication initiation is dispersed throughout the genome with only a minority within previously identified initiation zones</Title>
+		<DOI>10.1186/s13059-025-03591-w</DOI>
+		<JournalName>Genome Biology</JournalName>
+		<JournalVolume>26</JournalVolume>
+		<JournalPages />
+		<ContributorIds>cik24tir, thiyagar, barkert, clissold, durrant, vknitlho, watkinsc, gharbik, nieduszc</ContributorIds>
+		<ContributorList>Carrington JT, Wilson RHC, de La Vega E, Thiyagarajan S, Barker T, Catchpole L, Durrant A, Knitlhoffer V, Watkins C, Gharbi K, Nieduszynski CA</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>9</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
