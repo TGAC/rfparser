@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.17504/protocols.io.j8nlk8wjxl5r/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Nuclei isolation, immunostaining, and Fluorescence-activated nuclei sorting (FANS) for Smart-Seq2 v1</Title>
+		<DOI>10.17504/protocols.io.j8nlk8wjxl5r/v1</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>vknitlho, macaulai</ContributorIds>
+		<ContributorList>Kalef-Ezra E, Horner D, Morrow G, Knitlhoffer V, Goldson A, Macaulay I, Guo Y, Proukakis C</ContributorList>
+		<Year>2024</Year>
+		<Month>5</Month>
+		<Day>14</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1186/s12864-025-11485-1</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -20350,7 +20367,7 @@
 		<ContributorList>Kahl L, Molloy J, Patron N, Matthewman C, Haseloff J, Grewal D, Johnson R, Endy D</ContributorList>
 		<Year>2018</Year>
 		<Month>10</Month>
-		<Day>1</Day>
+		<Day />
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
