@@ -180,7 +180,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>halln, swarbred</ContributorIds>
+		<ContributorIds>mcgowan, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2024</Year>
 		<Month>7</Month>
@@ -911,7 +911,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>20</JournalVolume>
 		<JournalPages>e1011512</JournalPages>
-		<ContributorIds>halln, swarbred</ContributorIds>
+		<ContributorIds>mcgowan, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2024</Year>
 		<Month>12</Month>
@@ -1132,7 +1132,7 @@
 		<JournalName>Genome Biology and Evolution</JournalName>
 		<JournalVolume>17</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rel22vaz, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
+		<ContributorIds>rel22vaz, mcgowan, mctaggar, irishn, barkert, vknitlho, lucchins, bakerk, clissold, watkinsc, gharbik, kaithakg, swarbred, halln</ContributorIds>
 		<ContributorList>Hill R, McGowan J, Brabcová V, McTaggart S, Irish N, Barker T, Knitlhoffer V, Lucchini S, Baker K, Catchpole L, Watkins C, Gharbi K, Kaithakottil G, Tracey A, Wood JMD, Tomšovský M, Baldrian P, Swarbreck D, Hall N</ContributorList>
 		<Year>2025</Year>
 		<Month>1</Month>
@@ -4963,7 +4963,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
+		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2022</Year>
 		<Month>12</Month>
@@ -26170,7 +26170,7 @@
 		<JournalName>PLOS Genetics</JournalName>
 		<JournalVolume>19</JournalVolume>
 		<JournalPages>e1010913</JournalPages>
-		<ContributorIds>lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred, mcgowan</ContributorIds>
+		<ContributorIds>mcgowan, lipscomj, gharbik, kaithakg, macaulai, mctaggar, warring, halln, swarbred</ContributorIds>
 		<ContributorList>McGowan J, Kilias ES, Alacid E, Lipscombe J, Jenkins BH, Gharbi K, Kaithakottil GG, Macaulay IC, McTaggart S, Warring SD, Richards TA, Hall N, Swarbreck D</ContributorList>
 		<Year>2023</Year>
 		<Month>10</Month>
