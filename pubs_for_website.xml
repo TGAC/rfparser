@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1099/mic.0.001564</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>From air to insight: the evolution of airborne DNA sequencing technologies</Title>
+		<DOI>10.1099/mic.0.001564</DOI>
+		<JournalName>Microbiology</JournalName>
+		<JournalVolume>171</JournalVolume>
+		<JournalPages />
+		<ContributorIds>berelsom, heavensd, leggettr</ContributorIds>
+		<ContributorList>Berelson MFG, Heavens D, Nicholson P, Clark MD, Leggett RM</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.17504/protocols.io.j8nlk8wjxl5r/v1</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
