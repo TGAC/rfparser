@@ -3376,13 +3376,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Algebraic Invariants for Inferring 4-leaf Semi-directed Phylogenetic networks</Title>
+		<Title>Algebraic invariants for inferring 4-leaf semi-directed phylogenetic networks</Title>
 		<DOI>10.1101/2023.09.11.557152</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>martins, leggettr</ContributorIds>
-		<ContributorList>Martin S, Moulton V, Leggett RM</ContributorList>
+		<ContributorList>Martin S, Moulton V, Leggett RM, Holtgrefe N</ContributorList>
 		<Year>2023</Year>
 		<Month>9</Month>
 		<Day>14</Day>
