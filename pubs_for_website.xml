@@ -1157,23 +1157,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2024.12.19.629411</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Spatial Transcriptomics Reveals Expression Gradients in Developing Wheat Inflorescences at Cellular Resolution</Title>
-		<DOI>10.1101/2024.12.19.629411</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai</ContributorIds>
-		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
-		<Year>2024</Year>
-		<Month>12</Month>
-		<Day>21</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.1101/2024.10.09.617252</id>
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
@@ -26518,6 +26501,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.17504/protocols.io.j8nlk8nmwl5r/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Soil Metagenome ONT v1</Title>
+		<DOI>10.17504/protocols.io.j8nlk8nmwl5r/v1</DOI>
+		<JournalName>protocols.io</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>galabone, quince, dig22hok, raguidea, rjames</ContributorIds>
+		<ContributorList>S James R, Benoit G, Raguideau S, Alabone G, Quince C</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>23</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1038/s42003-024-06932-w</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -26566,6 +26566,23 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.12.19.629411</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Spatial Transcriptomics Reveals Expression Gradients in Developing Wheat Inflorescences at Cellular Resolution</Title>
+		<DOI>10.1101/2024.12.19.629411</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>abinnie, goldson, vknitlho, kaithakg, haertyw, macaulai, adamskin, backhaua, carpente, goz24vof, longk, mjones, mvickers, pei, steuernb, uauyc, xiaoj</ContributorIds>
+		<ContributorList>Long KA, Lister A, Jones MRW, Adamski NM, Ellis RE, Chedid C, Carpenter SJ, Liu X, Backhaus AE, Goldson A, Knitlhoffer V, Pei Y, Vickers M, Steuernagel B, Kaithakottil GG, Xiao J, Haerty W, Macaulay IC, Uauy C</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>21</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
