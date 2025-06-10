@@ -3359,13 +3359,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>Algebraic invariants for inferring 4-leaf semi-directed phylogenetic networks</Title>
+		<Title>Algebraic Invariants for Inferring 4-leaf Semi-Directed Phylogenetic Networks</Title>
 		<DOI>10.1101/2023.09.11.557152</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>martins, leggettr</ContributorIds>
-		<ContributorList>Martin S, Moulton V, Leggett RM, Holtgrefe N</ContributorList>
+		<ContributorList>Martin S, Holtgrefe N, Moulton V, Leggett RM</ContributorList>
 		<Year>2023</Year>
 		<Month>9</Month>
 		<Day>14</Day>
@@ -26467,6 +26467,23 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.21203/rs.3.rs-4502164/v1</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Energy generation drives gut colonization by Bilophila wadsworthia</Title>
+		<DOI>10.21203/rs.3.rs-4502164/v1</DOI>
+		<JournalName>Research Square</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>goldson, altera, berazan, briona, gonzalez, legallg, narbad, paxhia, sayavedl, turnerk, warrenm, yasirm</ContributorIds>
+		<ContributorList>Sayavedra L, Yasir M, Goldson A, Brion A, Gall GL, Moreno-Gonzalez M, Altera A, Paxhia MD, Warren M, Turner A, Beraza N, Narbad A</ContributorList>
+		<Year>2024</Year>
+		<Month>7</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1111/1755-0998.13847</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -26702,6 +26719,23 @@
 		<Year>2025</Year>
 		<Month>4</Month>
 		<Day>25</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-025-60180-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Bacterial microcompartments and energy metabolism drive gut colonization by Bilophila wadsworthia</Title>
+		<DOI>10.1038/s41467-025-60180-y</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>goldson, altera, berazan, briona, gonzalez, legallg, narbad, paxhia, savvag, sayavedl, turnerk, warrenm, yasirm</ContributorIds>
+		<ContributorList>Sayavedra L, Yasir M, Goldson A, Brion A, Le Gall G, Moreno-Gonzalez M, Altera A, Paxhia MD, Warren M, Savva GM, Turner AK, Beraza N, Narbad A</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>30</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
