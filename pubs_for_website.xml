@@ -1055,23 +1055,6 @@
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
-		<id>10.1101/2024.12.07.627346</id>
-		<Organisation>EI</Organisation>
-		<Category>PrePrint</Category>
-		<CategoryID>124</CategoryID>
-		<Title>Integrating natural language processing and genome analysis enables accurate bacterial phenotype prediction</Title>
-		<DOI>10.1101/2024.12.07.627346</DOI>
-		<JournalName>bioRxiv</JournalName>
-		<JournalVolume />
-		<JournalPages />
-		<ContributorIds>yig24nal</ContributorIds>
-		<ContributorList>Gómez-Pérez D, Keller A</ContributorList>
-		<Year>2024</Year>
-		<Month>12</Month>
-		<Day>11</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
-	</publication>
-	<publication>
 		<id>10.17660/actahortic.2024.1390.31</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -26583,6 +26566,23 @@
 		<Year>2024</Year>
 		<Month>6</Month>
 		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2024.12.07.627346</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Integrating natural language processing and genome analysis enables accurate bacterial phenotype prediction</Title>
+		<DOI>10.1101/2024.12.07.627346</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>yig24nal</ContributorIds>
+		<ContributorList>Gómez-Pérez D, Keller A</ContributorList>
+		<Year>2024</Year>
+		<Month>12</Month>
+		<Day>11</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
