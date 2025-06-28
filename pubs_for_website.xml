@@ -1,6 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1093/plcell/koaf124</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Conservation and divergence of regulatory architecture in nitrate-responsive plant gene circuits</Title>
+		<DOI>10.1093/plcell/koaf124</DOI>
+		<JournalName>The Plant Cell</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>wez23nor</ContributorIds>
+		<ContributorList>Bian C, Demirer GS, Oz MT, Cai Y, Witham S, Mason GA, Di Z, Deligne F, Zhang P, Shen R, Gaudinier A, Brady SM, Patron NJ</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>22</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1099/mic.0.001564</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
