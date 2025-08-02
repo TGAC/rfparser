@@ -180,7 +180,7 @@
 		<JournalName>BMC Genomics</JournalName>
 		<JournalVolume>26</JournalVolume>
 		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorIds>rel22vaz, irishn, gor23toz, swarbred, halln, mcmullam</ContributorIds>
 		<ContributorList>Hill R, Grey M, Fedi MO, Smith D, Canning G, Ward SJ, Irish N, Smith J, McMillan VE, Hammond J, Osborne S, Reynolds G, Smith E, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
 		<Year>2025</Year>
 		<Month>3</Month>
@@ -1608,7 +1608,7 @@
 		<JournalName>Zenodo</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorIds>rel22vaz, irishn, swarbred, halln, mcmullam</ContributorIds>
 		<ContributorList>Hill R, Grey M, Olivera Fedi M, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan V, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
 		<Year>2024</Year>
 		<Month>02</Month>
@@ -1642,7 +1642,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rel22vaz, greym, mcmullam</ContributorIds>
+		<ContributorIds>rel22vaz, mcmullam</ContributorIds>
 		<ContributorList>Hill R, Smith D, Canning G, Grey M, Hammond-Kosack KE, McMullan M</ContributorList>
 		<Year>2024</Year>
 		<Month>8</Month>
@@ -2682,7 +2682,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>rel22vaz, greym, irishn, swarbred, halln, mcmullam</ContributorIds>
+		<ContributorIds>rel22vaz, irishn, swarbred, halln, mcmullam</ContributorIds>
 		<ContributorList>Hill R, Grey M, Fedi MO, Smith D, Ward SJ, Canning G, Irish N, Smith J, McMillan VE, Hammond J, Osborne S, Chancellor T, Swarbreck D, Hall N, Palma-Guerrero J, Hammond-Kosack KE, McMullan M</ContributorList>
 		<Year>2024</Year>
 		<Month>2</Month>
@@ -3228,7 +3228,7 @@
 		<JournalName>Nucleic Acids Research</JournalName>
 		<JournalVolume>52</JournalVolume>
 		<JournalPages>D107-D114</JournalPages>
-		<ContributorIds>jaf25vif, kon24kop, taz23zir</ContributorIds>
+		<ContributorIds>kon24kop, taz23zir</ContributorIds>
 		<ContributorList>George N, Fexova S, Fuentes AM, Madrigal P, Bi Y, Iqbal H, Kumbham U, Nolte NF, Zhao L, Thanki AS, Yu ID, Marugan Calles JC, Erdos K, Vilmovsky L, Kurri SR, Vathrakokoili-Pournara A, Osumi-Sutherland D, Prakash A, Wang S, Tello-Ruiz MK, Kumari S, Ware D, Goutte-Gattat D, Hu Y, Brown N, Perrimon N, Vizcaíno JA, Burdett T, Teichmann S, Brazma A, Papatheodorou I</ContributorList>
 		<Year>2023</Year>
 		<Month>11</Month>
@@ -24519,7 +24519,7 @@
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
-		<ContributorIds>mcmullam, kaithakg, greym, yvanne, lowr, warring, heavensd, peeln, swarbred, halln</ContributorIds>
+		<ContributorIds>mcmullam, kaithakg, yvanne, lowr, warring, heavensd, peeln, swarbred, halln, greym</ContributorIds>
 		<ContributorList>McMullan M, Percival-Alwyn L, Sawford K, Kaithakottil G, Grey M, Yvanne H, Low R, Warring S, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark M, Hall N</ContributorList>
 		<Year>2021</Year>
 		<Month>8</Month>
@@ -26697,7 +26697,7 @@
 		<JournalName>BIO-PROTOCOL</JournalName>
 		<JournalVolume>15</JournalVolume>
 		<JournalPages />
-		<ContributorIds>greym, irishn, rel22vaz, halln, mcmullam</ContributorIds>
+		<ContributorIds>irishn, rel22vaz, halln, mcmullam, greym</ContributorIds>
 		<ContributorList>Grey M, Freeman J, Rudd J, Irish N, Canning G, Chancellor T, Palma-Guerrero J, Hill R, Hall N, Hammond-Kosack K, McMullan M</ContributorList>
 		<Year>2025</Year>
 		<Month />
