@@ -26823,4 +26823,21 @@
 		<Day>2</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
+	<publication>
+		<id>10.1038/s41467-025-62196-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Machine learning models highlight environmental and genetic factors associated with the Arabidopsis circadian clock</Title>
+		<DOI>10.1038/s41467-025-62196-w</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>creynold, rusholmr, halla, colmer, dodd, khajouei</ContributorIds>
+		<ContributorList>Reynolds C, Colmer J, Rees H, Khajouei E, Rusholme-Pilcher R, Kudoh H, Dodd AN, Hall A</ContributorList>
+		<Year>2025</Year>
+		<Month>8</Month>
+		<Day>5</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
 </publications>
