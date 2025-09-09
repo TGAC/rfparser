@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1128/aac.00997-24</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Insights into antibiotic resistance promoted by quinolone exposure</Title>
+		<DOI>10.1128/aac.00997-24</DOI>
+		<JournalName>Antimicrobial Agents and Chemotherapy</JournalName>
+		<JournalVolume>69</JournalVolume>
+		<JournalPages />
+		<ContributorIds>diez</ContributorIds>
+		<ContributorList>Bush NG, Diez-Santos I, Sankara Krishna P, Clavijo B, Maxwell A</ContributorList>
+		<Year>2025</Year>
+		<Month>1</Month>
+		<Day>31</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2021.11.18.468977</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>pISA-tree - a data management framework for life science research projects using a standardised directory tree</Title>
+		<DOI>10.1101/2021.11.18.468977</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Petek M, Zagorščak M, Blejec A, Ramšak Ž, Coll A, Baebler Š, Gruden K</ContributorList>
+		<Year>2021</Year>
+		<Month>11</Month>
+		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1093/plcell/koaf124</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
