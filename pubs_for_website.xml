@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1016/j.ydbio.2025.06.012</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Transcriptomics and chromatin accessibility signatures define the cervical-thoracic boundary along the vertebrate axis</Title>
+		<DOI>10.1016/j.ydbio.2025.06.012</DOI>
+		<JournalName>Developmental Biology</JournalName>
+		<JournalVolume>525</JournalVolume>
+		<JournalPages>249-258</JournalPages>
+		<ContributorIds>abinnie, macaulai</ContributorIds>
+		<ContributorList>Weldon SA, Smith EL, Schatka M, Folkes L, Mok GF, Lister A, Macaulay IC, Hearty W, Münsterberg AE</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day />
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1111/mec.70091</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Characterisation of the Historic Demographic Decline of the British European Polecat Population</Title>
+		<DOI>10.1111/mec.70091</DOI>
+		<JournalName>Molecular Ecology</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>shawr, ethering, haertyw</ContributorIds>
+		<ContributorList>Shaw R, MacPherson J, Kitchener AC, Etherington GJ, Haerty W</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>4</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1128/aac.00997-24</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
