@@ -1,6 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.7759/cureus.11549</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Development and Validation of an Algorithm for the Identification of Audible Medical Alarms</Title>
+		<DOI>10.7759/cureus.11549</DOI>
+		<JournalName>Cureus</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Potnuru P, Epstein RH, McNeer R, Bennett C</ContributorList>
+		<Year>2020</Year>
+		<Month>11</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s11538-025-01506-1</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Group-based phylogenetic models on 3-sunlet networks</Title>
+		<DOI>10.1007/s11538-025-01506-1</DOI>
+		<JournalName>Bulletin of Mathematical Biology</JournalName>
+		<JournalVolume>87</JournalVolume>
+		<JournalPages />
+		<ContributorIds>martins</ContributorIds>
+		<ContributorList>Cox S, Gross E, Martin S</ContributorList>
+		<Year>2025</Year>
+		<Month>8</Month>
+		<Day>18</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.1016/j.ydbio.2025.06.012</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -1195,13 +1229,13 @@
 		<Organisation>EI</Organisation>
 		<Category>PrePrint</Category>
 		<CategoryID>124</CategoryID>
-		<Title>The Microbiology Galaxy Lab: A community-driven gateway to tools, workflows, and training for reproducible and FAIR analysis of microbial data</Title>
+		<Title>Microbiology Galaxy Lab: The first community-driven gateway for reproducible and FAIR analysis of microbial data</Title>
 		<DOI>10.1101/2024.12.23.629682</DOI>
 		<JournalName>bioRxiv</JournalName>
 		<JournalVolume />
 		<JournalPages />
 		<ContributorIds>soranzon</ContributorIds>
-		<ContributorList>Nasr E, Amato P, Bernt M, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Gruening B, Hiltemann S, Hyde CJ, Jagtap P, Mehta S, Métris KL, Momin S, Oba A, Pavloudi C, Pechlivanis N, Péguilhan R, Price GR, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, Van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B</ContributorList>
+		<ContributorList>Nasr E, Pechlivanis N, Strepis N, Amato P, Bernt M, Bhardwaj A, Blankenberg D, Brites D, Cumbo F, Do K, Ferrari E, Griffin TJ, Gruening B, Hiltemann S, Hyde CJ, Jagtap P, Mehta S, Métris KL, Momin S, Nelson TM, Oba A, Pavloudi C, Péguilhan R, Price GR, Psomopoulos F, Rosic N, Schatz MC, Schiml VC, Siguret C, Soranzo N, Stubbs A, Van Heusden P, Vohra M, microGalaxy Community, Zierep P, Batut B</ContributorList>
 		<Year>2024</Year>
 		<Month>12</Month>
 		<Day>27</Day>
