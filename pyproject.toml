@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools>=77.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -16,9 +16,12 @@ dynamic = ["version"]
 name = "rfparser"
 readme = "README.md"
 requires-python = ">=3.9"
+license = "MIT"
+license-files = [
+    "LICENSE",
+]
 classifiers = [
     "Development Status :: 3 - Alpha",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.9",
