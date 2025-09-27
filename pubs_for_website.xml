@@ -1,6 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
 <publications>
 	<publication>
+		<id>10.1007/s11032-025-01576-y</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Durum wheat mutants with enhanced disease resistance to stripe rust show differential responses to other fungal diseases</Title>
+		<DOI>10.1007/s11032-025-01576-y</DOI>
+		<JournalName>Molecular Breeding</JournalName>
+		<JournalVolume>45</JournalVolume>
+		<JournalPages />
+		<ContributorIds />
+		<ContributorList>Lunde C, Seong K, Kumar R, Deatker A, Chhabra B, Wang M, Kaur S, Raats D, Schudoma C, Schultink A, Song S, Palayur A, Davies C, Cumbelich W, Gill U, Rawat N, Chen X, Aoun M, Mundt C, Krasileva KV</ContributorList>
+		<Year>2025</Year>
+		<Month>6</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.7554/elife.91245</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Developing a crop- wild-reservoir pathogen system to understand pathogen evolution and emergence</Title>
+		<DOI>10.7554/elife.91245</DOI>
+		<JournalName>eLife</JournalName>
+		<JournalVolume>14</JournalVolume>
+		<JournalPages />
+		<ContributorIds>mcmullam, kaithakg, rel22vaz, lowr, warring, heavensd, peeln, swarbred, halln</ContributorIds>
+		<ContributorList>McMullan M, Percival-Alwyn L, Kaithakottil GG, Gardiner L, Hill R, Yvanne H, Grey M, Sawford K, Ward SJ, Low R, Warring SD, Heavens D, Peel N, Kroboth J, Stevens M, Swarbreck D, Clark MD, Hall N</ContributorList>
+		<Year>2025</Year>
+		<Month>4</Month>
+		<Day>11</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1038/s41467-025-62269-w</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Biosynthesis and bioactivity of anti-inflammatory triterpenoids in Calendula officinalis</Title>
+		<DOI>10.1038/s41467-025-62269-w</DOI>
+		<JournalName>Nature Communications</JournalName>
+		<JournalVolume>16</JournalVolume>
+		<JournalPages />
+		<ContributorIds>salmon, su, kaithakg, swarbred</ContributorIds>
+		<ContributorList>Golubova D, Salmon M, Su H, Tansley C, Kaithakottil G, Linsmith G, Schudoma C, Swarbreck D, O’Connell M, Patron N</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>28</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1128/msphere.00352-25</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Comparative single-cell genomics of two uncultivated Naegleria species harboring Legionella cobionts</Title>
+		<DOI>10.1128/msphere.00352-25</DOI>
+		<JournalName>mSphere</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>mcgowan, lipscomj, barkert, clissold, mctaggar, warring, gharbik, halln, swarbred</ContributorIds>
+		<ContributorList>McGowan J, Kilias ES, Lipscombe J, Alacid E, Barker T, Catchpole L, McTaggart S, Warring SD, Gharbi K, Richards TA, Hall N, Swarbreck D</ContributorList>
+		<Year>2025</Year>
+		<Month>8</Month>
+		<Day>27</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1007/s10661-025-14069-4</id>
+		<Organisation>EI</Organisation>
+		<Category>Journal Article</Category>
+		<CategoryID>1</CategoryID>
+		<Title>Monitoring of bacterial and potentially toxic elements contamination in the Rawal Lake tributaries and filtration plant</Title>
+		<DOI>10.1007/s10661-025-14069-4</DOI>
+		<JournalName>Environmental Monitoring and Assessment</JournalName>
+		<JournalVolume>197</JournalVolume>
+		<JournalPages />
+		<ContributorIds>quince</ContributorIds>
+		<ContributorList>Akbar G, Summers JK, Hashmi I, Quince C, Wellington E, Waleed A, Rehman EU, Tariq N, Nisa ZU, Fatima A, Zaheer H, Farooq S, Ilyas I, Ali S, Javed A</ContributorList>
+		<Year>2025</Year>
+		<Month>5</Month>
+		<Day>7</Day>
+		<OpenAccess>No Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.7759/cureus.11549</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -100,6 +185,23 @@
 		<Year>2021</Year>
 		<Month>11</Month>
 		<Day>21</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.1101/2025.07.16.665067</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Single-molecule sequencing maps replication dynamics across the fission yeast genome, including centromeres</Title>
+		<DOI>10.1101/2025.07.16.665067</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>thiyagar, arogers, nieduszc</ContributorIds>
+		<ContributorList>Díez-Santos I, Thiyagarajan S, Rogers AM, Watson AT, Carr AM, Nieduszynski CA</ContributorList>
+		<Year>2025</Year>
+		<Month>7</Month>
+		<Day>18</Day>
 		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
