@@ -86,6 +86,23 @@
 		<OpenAccess>No Open Access</OpenAccess>
 	</publication>
 	<publication>
+		<id>10.1101/2025.09.15.676436</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Human-specific tandem repeat in CACNA1C modulates responses to neuronal stimulation</Title>
+		<DOI>10.1101/2025.09.15.676436</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>haertyw</ContributorIds>
+		<ContributorList>Song JH, Birey F, Hung T, Hall NA, Guenther CA, Chen X, Alkuraya IF, Tunbridge EM, Haerty W, Pasca SP, Kingsley DM</ContributorList>
+		<Year>2025</Year>
+		<Month>9</Month>
+		<Day>16</Day>
+		<OpenAccess>Gold Open Access</OpenAccess>
+	</publication>
+	<publication>
 		<id>10.7759/cureus.11549</id>
 		<Organisation>EI</Organisation>
 		<Category>Journal Article</Category>
@@ -4356,7 +4373,7 @@
 		<Year>2022</Year>
 		<Month>4</Month>
 		<Day>20</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.3389/fmicb.2022.869093</id>
@@ -5053,7 +5070,7 @@
 		<Year>2022</Year>
 		<Month>7</Month>
 		<Day>19</Day>
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/aob/mcac115</id>
@@ -7085,7 +7102,7 @@
 		<Year>2021</Year>
 		<Month />
 		<Day />
-		<OpenAccess>No Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.envint.2020.106327</id>
@@ -7884,7 +7901,7 @@
 		<Year>2020</Year>
 		<Month>3</Month>
 		<Day>17</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1007/s10722-020-00960-1</id>
@@ -9232,7 +9249,7 @@
 		<Year>2019</Year>
 		<Month>12</Month>
 		<Day>6</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.virol.2019.08.032</id>
@@ -12418,7 +12435,7 @@
 		<Year>2016</Year>
 		<Month>2</Month>
 		<Day>11</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1111/pbi.12635</id>
@@ -12708,7 +12725,7 @@
 		<Year>2008</Year>
 		<Month>6</Month>
 		<Day>1</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.phytochem.2008.08.003</id>
@@ -13955,7 +13972,7 @@
 		<Year>2012</Year>
 		<Month>2</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1016/j.cag.2012.03.033</id>
@@ -14499,7 +14516,7 @@
 		<Year>2012</Year>
 		<Month>12</Month>
 		<Day>28</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/nature12027</id>
@@ -15215,7 +15232,7 @@
 		<Year>2014</Year>
 		<Month>4</Month>
 		<Day>5</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1128/genomeA.01231-13</id>
@@ -16883,7 +16900,7 @@
 		<Year>2015</Year>
 		<Month>2</Month>
 		<Day>4</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/ng.3360</id>
@@ -18906,7 +18923,7 @@
 		<Year>2017</Year>
 		<Month>4</Month>
 		<Day />
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1093/gigascience/gix022</id>
@@ -19773,7 +19790,7 @@
 		<Year>2017</Year>
 		<Month>12</Month>
 		<Day>20</Day>
-		<OpenAccess>Green Open Access</OpenAccess>
+		<OpenAccess>Bronze Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s13007-017-0266-3</id>
@@ -19841,7 +19858,7 @@
 		<Year>2018</Year>
 		<Month>1</Month>
 		<Day>23</Day>
-		<OpenAccess>Bronze Open Access</OpenAccess>
+		<OpenAccess>Gold Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1186/s12864-018-4436-0</id>
