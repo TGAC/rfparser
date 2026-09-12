@@ -1056,7 +1056,7 @@
 		<Year>2020</Year>
 		<Month>4</Month>
 		<Day>21</Day>
-		<OpenAccess>Gold Open Access</OpenAccess>
+		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
 		<id>10.1038/s41587-020-0477-4</id>
@@ -5840,6 +5840,23 @@
 		<Year>2025</Year>
 		<Month>9</Month>
 		<Day />
+		<OpenAccess>Green Open Access</OpenAccess>
+	</publication>
+	<publication>
+		<id>10.64898/2026.09.07.749871</id>
+		<Organisation>EI</Organisation>
+		<Category>PrePrint</Category>
+		<CategoryID>124</CategoryID>
+		<Title>Advancing long-read metagenomic binning via single-copy-gene guided contrastive learning</Title>
+		<DOI>10.64898/2026.09.07.749871</DOI>
+		<JournalName>bioRxiv</JournalName>
+		<JournalVolume />
+		<JournalPages />
+		<ContributorIds>kil25rit, jel25doz, quince, raguidea</ContributorIds>
+		<ContributorList>Han H, Messer LF, Quince C, Bending GD, Raguideau S, Wang Z, Zhu S</ContributorList>
+		<Year>2026</Year>
+		<Month>9</Month>
+		<Day>9</Day>
 		<OpenAccess>Green Open Access</OpenAccess>
 	</publication>
 	<publication>
